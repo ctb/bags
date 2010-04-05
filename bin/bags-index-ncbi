@@ -1,0 +1,87 @@
+#! /usr/bin/env python
+import sys
+import os
+import optparse
+from glob import glob
+from pygr.seqdb import SequenceFileDB
+
+parser = optparse.OptionParser()
+parser.add_option('-v', '--verbose', dest='verbose', action='store_true',
+			help='turn on verbose output', default=False)
+parser.add_option('--debug', dest='debug', action='store_true',
+			help='turn on debug output', default=False)
+
+(options, args) = parser.parse_args()
+
+nickname = args[0]
+genome_files = args[1:]
+
+output = os.path.dirname(genome_files[0])
+output = os.path.join(output, nickname + '.fa')
+output = os.path.realpath(output)
+
+for test_file in genome_files:
+   if not test_file.endswith('.fna'):
+      print "WARNING, %s doesn't look like an NCBI genome file: it doesn't end in .fna!"
+      print "Continuing anyway, because I'm optimistic."
+
+if options.verbose:
+   print "Loading genome as '%s'..." % nickname
+   print '...from files %s' % ",".join(genome_files)
+   print '...and saving into %s' % output
+
+###
+
+# remove cached seqdb files
+if options.verbose:
+   print 'Removing %s .pureseq/.seqlen cache files' % output
+   
+try:
+   os.unlink(output + '.pureseq')
+except OSError:
+   pass
+
+try:
+   os.unlink(output + '.seqlen')
+except OSError:
+   pass
+
+###
+
+# NCBI distributes bacterial genomes/chromosomes/plasmids as separate
+# files.  Here, read them all in and concatenate into a single genome
+# file for pygr purposes.
+
+output_fp = open(output, 'w')
+sequence_names = []
+
+for filename in genome_files:
+   content = open(filename).read()
+   if not content.startswith('>'):
+      print 'ERROR: %s doesn\'t look like a FASTA file; exiting' % filename
+      sys.exit(-1)
+
+   output_fp.write(content)
+   output_fp.write('\n')
+
+   fasta_name = content[1:100].split(' ', 1)[0]
+   sequence_names.append(fasta_name)
+
+   if options.verbose:
+      print 'Read "%s" from file %s and saved.' % (fasta_name, filename,)
+
+output_fp.close()
+
+genome_file = output
+genome = SequenceFileDB(genome_file)
+
+# @CTB warn user not to delete or move 'genome_file'
+
+###
+
+# Now go find the associated annotation files...
+for filename in genome_files:
+   ptt_file = filename.rsplit('.', 1)[0] + '.ptt'
+   if not os.path.exists(ptt_file):
+      print 'ERROR: cannot find associated ptt annotation file %s' % ptt_file
+      sys.exit(-1)

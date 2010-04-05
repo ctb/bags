@@ -1,0 +1,1627 @@
+Campylobacter jejuni subsp. jejuni NCTC 11168 complete genome. - 1..1641481
+1624 proteins
+Location	Strand	Length	PID	Gene	Synonym	Code	COG	Product
+1..1323	+	440	112359400	dnaA	Cj0001	-	-	chromosomal replication initiator protein
+1483..2550	+	355	112359401	dnaN	Cj0002	-	-	DNA polymerase III, beta chain
+2579..4888	+	769	112359402	gyrB	Cj0003	-	-	DNA gyrase subunit B
+4916..5257	-	113	112359403	-	Cj0004c	-	-	monohaem cytochrome C
+5260..6498	-	412	112359404	-	Cj0005c	-	-	molydopterin containing oxidoreductase
+6703..8010	+	435	112359405	-	Cj0006	-	-	putative Na+/H+ antiporter family protein
+8144..12634	+	1496	112359406	gltB	Cj0007	-	-	glutamate synthase (NADPH) large subunit
+12644..14395	+	583	112359407	-	Cj0008	-	-	conserved hypothetical protein Cj0008
+14398..15843	+	481	112359408	gltD	Cj0009	-	-	glutamate synthase (NADPH) small subunit
+15844..16419	-	191	112359409	rnhB	Cj0010c	-	-	ribonuclease HII
+16452..16691	-	79	112359410	-	Cj0011c	-	-	putative non-specific DNA binding protein. Functional classification-Synthesis and modification of macromolecules-DNA replication,restriction/modification, recombination and repair
+16756..17403	-	215	112359411	rrc	Cj0012c	-	-	non-haem iron protein
+17563..19239	+	558	112359412	ilvD	Cj0013	-	-	dihydroxy-acid dehydratase
+19251..19775	-	174	112359413	-	Cj0014c	-	-	putative integral membrane protein
+19867..21093	-	408	112359414	-	Cj0015c	-	-	hypothetical protein Cj0015c
+21159..21833	+	224	112359415	-	Cj0016	-	-	putative transcriptional regulatory protein
+21854..23380	-	508	112359416	dsbI	Cj0017c	-	-	disulphide bond formation protein
+23392..23559	-	55	112359417	dba	Cj0018c	-	-	disulphide bond formation protein
+23665..25443	-	592	112359418	-	Cj0019c	-	-	putative MCP-domain signal transduction protein
+25433..26347	-	304	112359419	-	Cj0020c	-	-	cytochrome C551 peroxidase
+26411..27289	-	292	112359420	-	Cj0021c	-	-	putative fumarylacetoacetate (FAA) hydrolase family protein
+27402..28304	-	300	112359421	-	Cj0022c	-	-	putative ribosomal pseudouridine synthase
+28382..29710	+	442	112359422	purB	Cj0023	-	-	adenylosuccinate lyase
+29726..32095	+	789	112359423	nrdA	Cj0024	-	-	ribonucleoside-diphosphate reductase alpha chain
+32134..33519	-	461	112359424	-	Cj0025c	-	-	putative sodium:dicarboxylate family transmembrane symporter
+33639..34262	-	207	112359425	thyX	Cj0026c	-	-	thymidylate synthase
+34382..36013	+	543	112359426	pyrG	Cj0027	-	-	CTP synthase
+36000..37571	+	523	112359427	recJ	Cj0028	-	-	putative single-stranded-DNA-specific exonuclease
+37667..38662	+	331	112359428	ansA	Cj0029	-	-	cytoplasmic L-asparaginase
+44966..46363	+	465	112359429	-	Cj0030	-	-	hypothetical protein Cj0030
+46424..50156	+	1243	112359430	-	Cj0031	-	-	putative type IIS restriction/modification enzyme
+50156..51937	+	593	112359431	-	Cj0033	-	-	putative integral membrane protein
+51967..52668	-	233	112359432	-	Cj0034c	-	-	putative periplasmic protein
+52665..53867	-	400	112359433	-	Cj0035c	-	-	putative efflux protein
+53970..55319	+	449	112359434	-	Cj0036	-	-	hypothetical protein Cj0036
+55343..56386	-	347	112359435	-	Cj0037c	-	-	putative cytochrome C
+56564..57211	-	215	112359436	-	Cj0038c	-	-	putative poly(A) polymerase family protein
+57211..59019	-	602	112359437	typA	Cj0039c	-	-	GTP-binding protein TypA homolog
+59154..59477	+	107	112359438	-	Cj0040	-	-	hypothetical protein Cj0040
+59493..61289	+	598	112359439	fliK	Cj0041	-	-	putative flagellar hook-length control protein
+61343..62227	+	294	112359440	flgD	Cj0042	-	-	putative flagellar hook assembly protein
+62231..63868	+	545	112359441	flgE	Cj0043	-	-	flagellar hook protein
+63872..65743	-	623	112359442	-	Cj0044c	-	-	hypothetical protein Cj0044c
+65744..66466	-	240	112359443	-	Cj0045c	-	-	putative iron-binding protein
+68532..69548	-	338	112359444	trmU	Cj0053c	-	-	tRNA (5-methylaminomethyl-2-thiouridylate)-methyltransferase
+69548..70153	-	201	112359445	-	Cj0054c	-	-	putative lysine decarboxylase family protein
+70274..71098	-	274	112359446	-	Cj0055c	-	-	conserved hypothetical protein Cj0055c
+71155..71571	-	138	112359447	-	Cj0056c	-	-	hypothetical protein Cj0056c
+72005..72859	+	284	112359448	-	Cj0057	-	-	putative periplasmic protein
+72844..73443	+	199	112359449	-	Cj0058	-	-	putative peptidase C39 family protein
+73492..74334	-	280	112359450	fliY	Cj0059c	-	-	putative flagellar motor switch protein
+74331..75410	-	359	112359451	fliM	Cj0060c	-	-	flagellar motor switch protein
+75410..76126	-	238	112359452	fliA	Cj0061c	-	-	RNA polymerase sigma factor for flagellar operon
+76083..76439	-	118	112359453	-	Cj0062c	-	-	putative integral membrane protein
+76458..77324	-	288	112359454	-	Cj0063c	-	-	putative ATP-binding protein
+77317..78771	-	484	112359455	flhF	Cj0064c	-	-	flagellar biosynthesis protein
+78781..79254	-	157	112359456	folK	Cj0065c	-	-	putative 2-amino-4-hydroxy-6-hydroxymethyldihydropteridine pyrophosphokinase
+79257..79736	-	159	112359457	aroQ	Cj0066c	-	-	3-dehydroquinate dehydratase
+79827..81056	+	409	112359458	-	Cj0067	-	-	putative amidohydrolase family protein
+81044..81940	+	298	112359459	pspA	Cj0068	-	-	protease
+82019..83050	+	343	112359460	-	Cj0069	-	-	hypothetical protein Cj0069
+83047..83205	-	52	112359461	-	Cj0070c	-	-	hypothetical protein Cj0070c
+84087..84743	-	218	112359462	-	Cj0073c	-	-	conserved hypothetical protein Cj0073c
+84736..86175	-	479	112359463	-	Cj0074c	-	-	putative iron-sulfur protein
+86172..86912	-	246	112359464	-	Cj0075c	-	-	putative oxidoreductase iron-sulfur subunit
+87036..88718	-	560	112359465	lctP	Cj0076c	-	-	L-lactate permease
+88890..89459	-	189	112359466	cdtC	Cj0077c	-	-	cytolethal distending toxin C
+89470..90267	-	265	112359467	cdtB	Cj0078c	-	-	cytolethal distending toxin B
+90264..91070	-	268	112359468	cdtA	Cj0079c	-	-	cytolethal distending toxin A
+91147..91416	+	89	112359469	-	Cj0080	-	-	putative membrane protein. Functional classification-Membranes, lipoproteins and porins
+91417..92979	+	520	112359470	cydA	Cj0081	-	-	cytochrome bd oxidase subunit I
+92979..94103	+	374	112359471	cydB	Cj0082	-	-	cytochrome bd oxidase subunit II
+94297..94992	-	231	112359472	-	Cj0085c	-	-	putative amino acid recemase
+95108..95803	-	231	112359473	ung	Cj0086c	-	-	uracil-DNA glycosylase
+96074..97480	+	468	112359474	aspA	Cj0087	-	-	aspartate ammonia-lyase
+97496..98833	+	445	112359475	dcuA	Cj0088	-	-	anaerobic C4-dicarboxylate transporter
+98941..100302	+	453	112359476	-	Cj0089	-	-	putative lipoprotein
+100312..100680	+	122	112359477	-	Cj0090	-	-	putative lipoprotein
+100704..101327	+	207	112359478	-	Cj0091	-	-	putative lipoprotein
+101410..102747	+	445	112359479	-	Cj0092	-	-	putative periplasmic protein
+102757..103959	+	400	112359480	-	Cj0093	-	-	putative periplasmic protein
+104118..104426	+	102	112359481	rplU	Cj0094	-	-	50S ribosomal protein L21
+104437..104691	+	84	112359482	rpmA	Cj0095	-	-	50S ribosomal protein L27
+104798..105850	+	350	112359483	-	Cj0096	-	-	GTP-binding protein
+105955..106710	+	251	112359484	proB	Cj0097	-	-	glutamate 5-kinase
+106784..107701	+	305	112359485	fmt	Cj0098	-	-	methionyl-tRNA formyltransferase
+107664..108317	+	217	112359486	birA	Cj0099	-	-	putative biotin--[acetyl-CoA-carboxylase] synthetase
+108314..109099	+	261	112359487	-	Cj0100	-	-	parA family protein
+109105..109941	+	278	112359488	-	Cj0101	-	-	parB family protein
+110002..110427	+	141	112359489	atpF	Cj0102	-	-	ATP synthase F0 sector B' subunit
+110438..110950	+	170	112359490	atpF	Cj0103	-	-	ATP synthase F0 sector B subunit
+110953..111474	+	173	112359491	atpH	Cj0104	-	-	ATP synthase F1 sector delta subunit
+111488..112993	+	501	112359492	atpA	Cj0105	-	-	ATP synthase F1 sector alpha subunit
+113002..113886	+	294	112359493	atpG	Cj0106	-	-	ATP synthase F1 sector gamma subunit
+113912..115309	+	465	112359494	atpD	Cj0107	-	-	ATP synthase F1 sector beta subunit
+115313..115702	+	129	112359495	atpC	Cj0108	-	-	ATP synthase F1 sector epsilon subunit
+115702..116256	+	184	112359496	exbB3	Cj0109	-	-	putative MotA/TolQ/ExbB proton channel family protein
+116265..116654	+	129	112359497	exbD3	Cj0110	-	-	putative exbD/tolR family transport protein
+116657..117436	+	259	112359498	-	Cj0111	-	-	putative periplasmic protein
+117446..118654	+	402	112359499	tolB	Cj0112	-	-	putative TolB precursor protein
+118731..119228	+	165	112359500	pal	Cj0113	-	-	peptidoglycan associated lipoprotein (omp18)
+119232..120179	+	315	112359501	-	Cj0114	-	-	putative periplasmic protein
+120194..120763	+	189	112359502	slyD	Cj0115	-	-	FKBP-type peptidyl-prolyl cis-trans isomerase
+120763..121683	+	306	112359503	fabD	Cj0116	-	-	malonyl CoA-acyl carrier protein transacylase
+121680..122369	+	229	112359504	pfs	Cj0117	-	-	5'-methylthioadenosine/S-adenosylhomocysteine nucleosidase
+122366..123121	+	251	112359505	-	Cj0118	-	-	conserved hypothetical protein Cj0118
+123126..123647	+	173	112359506	-	Cj0119	-	-	putative hydrolase
+123647..124261	+	204	112359507	-	Cj0120	-	-	hypothetical protein Cj0120
+124258..124665	+	135	112359508	-	Cj0121	-	-	conserved hypothetical protein Cj0121
+124789..125478	+	229	112359509	-	Cj0122	-	-	hypothetical protein Cj0122
+125503..126429	-	308	112359510	-	Cj0123c	-	-	putative tRNA-dihydrouridine synthase
+126426..127412	-	328	112359511	-	Cj0124c	-	-	putative membrane protein
+127402..127764	-	120	112359512	-	Cj0125c	-	-	hypothetical protein Cj0125c
+127776..128237	-	153	112359513	-	Cj0126c	-	-	conserved hypothetical protein Cj0126c
+128227..129069	-	280	112359514	accD	Cj0127c	-	-	acetyl-coenzyme A carboxylase carboxyl transferase subunit beta
+129078..129800	-	240	112359515	-	Cj0128c	-	-	putative inositol monophosphatase family protein
+129800..132019	-	739	112359516	-	Cj0129c	-	-	outer membrane protein
+132096..132923	+	275	112359517	tyrA	Cj0130	-	-	putative prephenate dehydrogenase
+133003..134376	+	457	112359518	-	Cj0131	-	-	putative peptidase M23 family protein
+134376..135260	+	294	112359519	lpxC	Cj0132	-	-	UDP-3-O-[3-hydroxymyristoyl] n-acetylglucosamine deacetylase
+135299..135700	+	133	112359520	-	Cj0133	-	-	putative glycoprotease family protein
+135709..136587	+	292	112359521	thrB	Cj0134	-	-	putative homoserine kinase
+136612..136869	+	85	112359522	-	Cj0135	-	-	conserved hypothetical protein Cj0135
+136856..139471	+	871	112359523	infB	Cj0136	-	-	translation initiation factor IF-2
+139468..139830	+	120	112359524	rbfA	Cj0137	-	-	putative ribosome-binding factor A
+139820..140242	+	140	112359525	-	Cj0138	-	-	conserved hypothetical protein Cj0138
+140289..142640	+	783	112359526	-	Cj0139	-	-	putative endonuclease
+142633..143964	+	443	112359527	-	Cj0140	-	-	hypothetical protein Cj0140
+143953..144756	-	267	112359528	-	Cj0141c	-	-	putative ABC transporter integral membrane protein
+144749..145603	-	284	112359529	-	Cj0142c	-	-	putative ABC transporter ATP-binding protein
+145616..146506	-	296	112359530	-	Cj0143c	-	-	putative periplasmic solute binding protein for ABC transport system
+146705..148684	+	659	112359531	-	Cj0144	-	-	putative methyl-accepting chemotaxis signal transduction protein
+148819..150600	+	593	112359532	-	Cj0145	-	-	putative TAT (Twin-Arginine Translocation) pathway signal sequence domain protein
+150638..151576	-	312	112359533	trxB	Cj0146c	-	-	thioredoxin reductase
+151710..152024	-	104	112359534	trxA	Cj0147c	-	-	thioredoxin
+152081..152419	-	112	112359535	-	Cj0148c	-	-	conserved hypothetical protein Cj0148c
+152419..153666	-	415	112359536	hom	Cj0149c	-	-	homoserine dehydrogenase
+153670..154872	-	400	112359537	-	Cj0150c	-	-	aminotransferase
+154884..155690	-	268	112359538	-	Cj0151c	-	-	putative periplasmic protein
+155684..156622	-	312	112359539	-	Cj0152c	-	-	putative membrane protein
+156615..157298	-	227	112359540	-	Cj0153c	-	-	putative rRNA methylase
+157312..158136	-	274	112359541	-	Cj0154c	-	-	putative tetrapyrrole methylase family protein
+158139..158339	-	66	112359542	rpmE	Cj0155c	-	-	50S ribosomal protein L31
+158418..159074	-	218	112359543	-	Cj0156c	-	-	conserved hypothetical protein Cj0156c
+159076..159483	-	135	112359544	-	Cj0157c	-	-	putative integral membrane protein
+159483..159908	-	141	112359545	-	Cj0158c	-	-	putative haem-binding lipoprotein
+159908..160489	-	193	112359546	-	Cj0159c	-	-	putative 6-pyruvoyl tetrahydropterin synthase
+160486..161229	-	247	112359547	-	Cj0160c	-	-	putative radical SAM domain protein
+161232..162194	-	320	112359548	moaA	Cj0161c	-	-	putative molybdenum cofactor biosynthesis protein A
+162207..162722	-	171	112359549	-	Cj0162c	-	-	putative periplasmic protein
+162719..163216	-	165	112359550	-	Cj0163c	-	-	hypothetical protein Cj0163c
+163207..164091	-	294	112359551	ubiA	Cj0164c	-	-	putative 4-hydroxybenzoate octaprenyltransferase
+164162..165031	+	289	112359552	miaA	Cj0166	-	-	tRNA delta(2)-isopentenylpyrophosphate transferase
+165017..165580	-	187	112359553	-	Cj0167c	-	-	putative integral membrane protein
+165938..166105	-	55	112359554	-	Cj0168c	-	-	putative periplasmic protein
+166373..167035	+	220	112359555	sodB	Cj0169	-	-	superoxide dismutase (Fe)
+167050..167794	+	247	112359556	-	Cj0170	-	-	hypothetical protein Cj0170
+167807..169012	-	401	112359557	-	Cj0172c	-	-	putative saccharopine dehydrogenase
+169054..169962	-	302	112359558	cfbpC	Cj0173c	-	-	putative iron-uptake ABC transport system ATP-binding protein
+169946..171562	-	538	112359559	cfbpB	Cj0174c	-	-	putative iron-uptake ABC transport system permease protein
+171562..172566	-	334	112359560	cfbpA	Cj0175c	-	-	putative iron-uptake ABC transport system,periplasmic iron-binding protein
+172563..172694	-	43	112359561	-	Cj0176c	-	-	putative lipoprotein
+172916..173767	+	283	112359562	-	Cj0177	-	-	putative iron transport protein
+173764..176031	+	755	112359563	-	Cj0178	-	-	putative TonB-denpendent outer membrane receptor
+176043..176804	+	253	112359564	exbB1	Cj0179	-	-	biopolymer transport protein
+176791..177201	+	136	112359565	exbD1	Cj0180	-	-	biopolymer transport protein
+177203..177949	+	248	112359566	tonB1	Cj0181	-	-	TonB transport protein
+177995..179200	+	401	112359567	-	Cj0182	-	-	putative transmembrane transport protein
+179299..180657	+	452	112359568	-	Cj0183	-	-	putative integral membrane protein with haemolysin domain
+180702..181856	-	384	112359569	-	Cj0184c	-	-	putative serine/threonine protein phosphatase
+181866..182075	-	69	112359570	-	Cj0185c	-	-	putative phnA domain protein
+182068..182787	-	239	112359571	-	Cj0186c	-	-	putative TerC family integral membrane protein
+182859..183425	-	188	112359572	purN	Cj0187c	-	-	phosphoribosylglycinamide formyltransferase
+183416..184786	-	456	112359573	-	Cj0188c	-	-	putative kinase
+184770..185468	-	232	112359574	-	Cj0189c	-	-	conserved hypothetical protein Cj0189c
+185470..186975	-	501	112359575	-	Cj0190c	-	-	conserved hypothetical protein Cj0190c
+186972..187499	-	175	112359576	def	Cj0191c	-	-	polypeptide deformylase
+187535..188119	-	194	112359577	clpP	Cj0192c	-	-	ATP-dependent Clp protease proteolytic subunit
+188119..189453	-	444	112359578	tig	Cj0193c	-	-	trigger factor (peptidyl-prolyl cis /trans isomerase, chaperone)
+189596..190168	+	190	112359579	folE	Cj0194	-	-	GTP cyclohydrolase I
+190168..191553	+	461	112359580	fliI	Cj0195	-	-	flagellum-specific ATP synthase
+191556..192893	-	445	112359581	purF	Cj0196c	-	-	amidophosphoribosyltransferase
+192895..193623	-	242	112359582	dapB	Cj0197c	-	-	dihydrodipicolinate reductase
+193686..194867	-	393	112359583	-	Cj0198c	-	-	helicase-like protein
+194867..195988	-	373	112359584	-	Cj0199c	-	-	putative periplasmic protein
+196123..196470	-	115	112359585	-	Cj0200c	-	-	putative periplasmic protein
+196534..197139	-	201	112359586	-	Cj0201c	-	-	putative integral membrane protein
+197123..197464	-	113	112359587	-	Cj0202c	-	-	hypothetical protein Cj0202c
+197707..199053	+	448	112359588	-	Cj0203	-	-	putative citrate transporter
+199236..201233	+	665	112359589	-	Cj0204	-	-	putative oligopeptide transporter, OPT family
+201307..202110	+	267	112359590	uppP	Cj0205	-	-	undecaprenyl-diphosphatase
+202241..204049	+	602	112359591	thrS	Cj0206	-	-	threonyl-tRNA synthetase
+204046..204564	+	172	112359592	infC	Cj0207	-	-	translation initiation factor IF-3
+204603..205694	+	363	112359593	-	Cj0208	-	-	putative DNA modification methylase (adenine-specific methyltransferase)
+209279..210307	+	342	112359594	argC	Cj0224	-	-	N-acetyl-gamma-glutamyl-phosphate reductase
+210317..210763	+	148	112359595	-	Cj0225	-	-	putative acetyltransferase
+210767..211612	+	281	112359596	argB	Cj0226	-	-	acetylglutamate kinase
+211616..212803	+	395	112359597	argD	Cj0227	-	-	putative acetylornithine/succinyldiaminopimelate aminotransferase
+212822..213451	-	209	112359598	pcm	Cj0228c	-	-	protein-L-isoaspartate O-methyltransferase
+213540..214088	+	182	112359599	-	Cj0229	-	-	putative acetyltransferase
+214057..215430	-	457	112359600	-	Cj0230c	-	-	putative transferase protein
+215417..216439	-	340	112359601	nrdB	Cj0231c	-	-	ribonucleoside-diphosphate reductase beta chain
+216453..216863	-	136	112359602	-	Cj0232c	-	-	putative integral membrane protein
+216864..217472	-	202	112359603	pyrE	Cj0233c	-	-	putative orotate phosphoribosyltransferase
+217475..218038	-	187	112359604	frr	Cj0234c	-	-	ribosome recycling factor
+218048..218419	-	123	112359605	secG	Cj0235c	-	-	putative protein-export membrane protein
+218523..219218	-	231	112359606	-	Cj0236c	-	-	putative integral membrane protein
+219378..220013	+	211	112359607	cynT	Cj0237	-	-	carbonic anyhydrase
+220010..221893	+	627	112359608	-	Cj0238	-	-	putative mechanosensitive ion channel family protein
+221916..222887	-	323	112359609	-	Cj0239c	-	-	NifU protein homolog
+222897..224078	-	393	112359610	iscS	Cj0240c	-	-	cysteine desulfurase (NifS protein homolog)
+224256..224657	-	133	112359611	-	Cj0241c	-	-	putative iron-binding protein
+224794..225960	-	388	112359612	-	Cj0243c	-	-	hypothetical protein Cj0243c
+226116..226307	+	63	112359613	rpmI	Cj0244	-	-	50s ribosomal protein L35
+226401..226754	+	117	112359614	rplT	Cj0245	-	-	50S ribosomal protein L20
+226807..227934	-	375	112359615	-	Cj0246c	-	-	putative MCP-domain signal transduction protein
+227910..228443	-	177	112359616	-	Cj0247c	-	-	hypothetical protein Cj0247c
+228946..229803	+	285	112359617	-	Cj0248	-	-	hypothetical protein Cj0248
+229831..230310	+	159	112359618	-	Cj0249	-	-	hypothetical protein Cj0249
+230279..231589	-	436	112359619	-	Cj0250c	-	-	putative MFS (Major Facilitator Superfamily) transport protein
+231592..231747	-	51	112359620	-	Cj0251c	-	-	highly acidic protein
+231840..232313	+	157	112359621	moaC	Cj0252	-	-	molybdenum cofactor biosynthesis protein C
+232291..232554	+	87	112359622	-	Cj0253	-	-	hypothetical protein Cj0253
+232544..233704	+	386	112359623	-	Cj0254	-	-	hypothetical protein Cj0254
+233723..234481	-	252	112359624	exoA	Cj0255c	-	-	exodeoxyribonuclease
+234599..236137	+	512	112359625	-	Cj0256	-	-	putative sulfatase family protein
+236134..236490	+	118	112359626	dgkA	Cj0257	-	-	diacylglycerol kinase
+236487..236732	+	81	112359627	-	Cj0258	-	-	putative bacterial regulatory protein, ArsR family
+236722..237729	+	335	112359628	pyrC	Cj0259	-	-	dihydroorotase
+237761..237976	-	71	112359629	-	Cj0260c	-	-	small hydrophobic protein
+238032..238751	-	239	112359630	-	Cj0261c	-	-	putative SAM-dependent methyltransferase
+238832..240829	-	665	112359631	-	Cj0262c	-	-	putative methyl-accepting chemotaxis signal transduction protein
+241022..241897	+	291	112359632	zupT	Cj0263	-	-	zinc transporter
+241921..244437	-	838	112359633	-	Cj0264c	-	-	molybdopterin containing oxidoreductase
+244448..245023	-	191	112359634	-	Cj0265c	-	-	putative cytochrome C-type haem-binding periplasmic protein
+245504..246013	-	169	112359635	-	Cj0266c	-	-	putative integral membrane protein
+246013..246543	-	176	112359636	-	Cj0267c	-	-	putative integral membrane protein
+246555..247643	-	362	112359637	-	Cj0268c	-	-	putative transmembrane protein
+247656..248570	-	304	112359638	ilvE	Cj0269c	-	-	branched-chain amino acid aminotransferase
+248747..248953	+	68	112359639	-	Cj0270	-	-	putative tautomerase family protein
+248950..249405	+	151	112359640	-	Cj0271	-	-	bacterioferritin comigratory protein homolog
+249405..250496	+	363	112359641	-	Cj0272	-	-	conserved hypothetical protein Cj0272
+250590..251030	+	146	112359642	fabZ	Cj0273	-	-	(3R)-hydroxymyristoyl-[acyl carrier protein] dehydratase
+251030..251821	+	263	112359643	lpxA	Cj0274	-	-	acyl-[acyl-carrier-protein]--UDP-N-acetylglucosam ine O-acyltransferase
+251784..253037	+	417	112359644	clpX	Cj0275	-	-	ATP-dependent Clp protease ATP-binding subunit
+253049..254089	+	346	112359645	mreB	Cj0276	-	-	homolog of E. coli rod shape-determining protein
+254079..254828	+	249	112359646	mreC	Cj0277	-	-	homolog of E. coli rod shape-determining protein
+255089..258358	+	1089	112359647	carB	Cj0279	-	-	carbamoyl-phosphate synthase large chain
+258355..258777	+	140	112359648	-	Cj0280	-	-	hypothetical protein Cj0280
+258778..259755	-	325	112359649	tal	Cj0281c	-	-	putative transaldolase
+259755..260378	-	207	112359650	serB	Cj0282c	-	-	putative phosphoserine phosphatase
+260378..260899	-	173	112359651	cheW	Cj0283c	-	-	chemotaxis protein
+260904..263213	-	769	112359652	cheA	Cj0284c	-	-	chemotaxis histidine kinase
+263217..264173	-	318	112359653	cheV	Cj0285c	-	-	chemotaxis protein
+264166..264783	-	205	112359654	-	Cj0286c	-	-	hypothetical protein Cj0286c
+264934..265419	-	161	112359655	greA	Cj0287c	-	-	transcription elongation factor
+265431..266525	-	364	112359656	lpxB	Cj0288c	-	-	lipid-A-disaccharide synthase
+266622..267374	-	250	112359657	peb3	Cj0289c	-	-	major antigenic peptide PEB3
+269064..269840	+	258	112359658	surE	Cj0293	-	-	multifunctional protein SurE homolog
+269830..270489	+	219	112359659	-	Cj0294	-	-	putative MoeB/ThiF family protein
+270473..270931	+	152	112359660	-	Cj0295	-	-	putative acetyltransferase
+271041..271421	-	126	112359661	panD	Cj0296c	-	-	aspartate 1-decarboxylase precursor
+271418..272266	-	282	112359662	panC	Cj0297c	-	-	pantoate--beta-alanine ligase
+272277..273101	-	274	112359663	panB	Cj0298c	-	-	3-methyl-2-oxobutanoate hydroxymethyltransferase
+273321..274094	+	257	112359664	-	Cj0299	-	-	putative periplasmic beta-lactamase
+274179..275063	-	294	112359665	modC	Cj0300c	-	-	putative molybdenum transport ATP-binding protein
+275060..275734	-	224	112359666	modB	Cj0301c	-	-	putative molybdenum transport system permease protein
+275727..276128	-	133	112359667	-	Cj0302c	-	-	putative molybdenum-pterin binding protein
+276125..276874	-	249	112359668	modA	Cj0303c	-	-	putative molybdate-binding lipoprotein
+276925..277611	-	228	112359669	bioC	Cj0304c	-	-	putative biotin synthesis protein
+277608..278219	-	203	112359670	-	Cj0305c	-	-	conserved hypothetical protein Cj0305c
+278216..279358	-	380	112359671	bioF	Cj0306c	-	-	8-amino-7-oxononanoate synthase
+279426..280709	+	427	112359672	bioA	Cj0307	-	-	adenosylmethionine-8-amino-7-oxononanoate aminotransferase
+280696..281301	-	201	112359673	bioD	Cj0308c	-	-	putative dethiobiotin synthetase
+281311..281625	-	104	112359674	-	Cj0309c	-	-	putative efflux protein
+281629..281967	-	112	112359675	-	Cj0310c	-	-	putative efflux protein
+282101..282637	+	178	112359676	rplY	Cj0311	-	-	putative 50S ribosomal protein L25 (general stress protein Ctc)
+282634..283179	+	181	112359677	pth	Cj0312	-	-	peptidyl-tRNA hydrolase
+283181..284239	+	352	112359678	-	Cj0313	-	-	putative integral membrane protein
+284283..285491	+	402	112359679	lysA	Cj0314	-	-	diaminopimelate decarboxylase
+285493..286260	+	255	112359680	-	Cj0315	-	-	putative HAD-superfamily hydrolase, subfamily IIA
+286248..287321	+	357	112359681	pheA	Cj0316	-	-	chorismate mutase/prephenate dehydratase
+287311..288405	+	364	112359682	hisC	Cj0317	-	-	histidinol-phosphate aminotransferase
+288457..290139	+	560	112359683	fliF	Cj0318	-	-	flagellar M-ring protein
+290139..291167	+	342	112359684	fliG	Cj0319	-	-	flagellar motor switch protein
+291175..292005	+	276	112359685	fliH	Cj0320	-	-	putative flagellar assembly protein
+291998..293845	+	615	112359686	dxs	Cj0321	-	-	L-deoxy-D-xylulose-5-phosphate synthase
+293931..294341	+	136	112359687	perR	Cj0322	-	-	peroxide stress regulator
+294387..295583	+	398	112359688	-	Cj0323	-	-	hypothetical protein Cj0323
+295586..296293	+	235	112359689	ubiE	Cj0324	-	-	ubiquinone/menaquinone biosynthesis methlytransferase
+296290..297453	+	387	112359690	xseA	Cj0325	-	-	exodeoxyribonuclease VII large subunit
+297463..298539	+	358	112359691	serC	Cj0326	-	-	phosphoserine aminotransferase
+298536..298886	+	116	112359692	-	Cj0327	-	-	putative endoribonuclease L-PSP family protein
+298883..299857	-	324	112359693	fabH	Cj0328c	-	-	3-oxoacyl-[acyl-carrier-protein] synthase
+299850..300836	-	328	112359694	plsX	Cj0329c	-	-	putative fatty acid/phospholipid synthesis protein
+300842..300988	-	48	112359695	rpmF	Cj0330c	-	-	50S ribosomal protein L32
+301012..301365	-	117	112359696	-	Cj0331c	-	-	hypothetical protein Cj0331c
+301366..301779	-	137	112359697	ndk	Cj0332c	-	-	nucleoside diphosphate kinase
+301892..302176	-	94	112359698	fdxA	Cj0333c	-	-	ferredoxin
+302383..302979	+	198	112359699	ahpC	Cj0334	-	-	alkyl hydroperoxide reductase
+303098..304186	+	362	112359700	flhB	Cj0335	-	-	flagellar biosynthetic protein
+304192..304935	-	247	112359701	motB	Cj0336c	-	-	putative flagellar motor protein
+304938..305714	-	258	112359702	motA	Cj0337c	-	-	putative flagellar motor proton channel
+305730..308369	-	879	112359703	polA	Cj0338c	-	-	DNA polymerase I
+308533..309894	+	453	112359704	-	Cj0339	-	-	putative MFS (Major Facilitator Superfamily) transport protein
+309891..310898	+	335	112359705	-	Cj0340	-	-	putative nucleoside hydrolase
+310854..311297	-	147	112359706	-	Cj0341c	-	-	putative integral membrane protein
+311302..314127	-	941	112359707	uvrA	Cj0342c	-	-	excinuclease ABC subunit A
+314200..314985	-	261	112359708	-	Cj0343c	-	-	putative integral membrane protein
+315108..315233	+	41	112359709	-	Cj0344	-	-	hypothetical protein Cj0344
+315398..316648	+	416	112359710	trpE	Cj0345	-	-	putative anthranilate synthase component I
+316645..318246	+	533	112359711	trpD (trpGD)	Cj0346	-	-	anthranilate synthase component II
+318233..318832	+	199	112359712	trpF	Cj0347	-	-	N-(5'-phosphoribosyl)anthranilate isomerase
+318829..320007	+	392	112359713	trpB	Cj0348	-	-	tryptophan synthase beta chain
+320000..320749	+	249	112359714	trpA	Cj0349	-	-	tryptophan synthase alpha chain
+320820..321242	+	140	112359715	-	Cj0350	-	-	hypothetical protein Cj0350
+321242..321550	+	102	112359716	fliN	Cj0351	-	-	flagellar motor switch protein
+321551..322348	+	265	112359717	-	Cj0352	-	-	putative transmembrane protein
+322345..323805	-	486	112359718	-	Cj0353c	-	-	phosphatase
+323805..324050	-	81	112359719	fdxB	Cj0354c	-	-	ferredoxin
+324163..324834	-	223	112359720	-	Cj0355c	-	-	two-component regulator
+324913..325230	-	105	112359721	folB	Cj0356c	-	-	putative dihydroneopterin aldolase
+325215..325823	-	202	112359722	-	Cj0357c	-	-	putative integral membrane protein
+326024..327049	+	341	112359723	-	Cj0358	-	-	putative cytochrome C551 peroxidase
+327143..328480	+	445	112359724	glmM	Cj0360	-	-	phosphoglucosamine mutase
+328473..328943	+	156	112359725	lspA	Cj0361	-	-	lipoprotein signal peptidase
+328927..329379	+	150	112359726	-	Cj0362	-	-	putative integral membrane protein
+329376..330722	-	448	112359727	hemN	Cj0363c	-	-	putative oxygen-independent coproporphyrinogen III oxidase
+330851..331102	+	83	112359728	-	Cj0364	-	-	hypothetical protein Cj0364
+331125..332603	-	492	112359729	cmeC	Cj0365c	-	-	outer membrane channel protein CmeC (multidrug efflux system CmeABC)
+332596..335718	-	1040	112359730	cmeB	Cj0366c	-	-	inner membrane efflux transporter CmeB (multidrug efflux system CmeABC)
+335718..336821	-	367	112359731	cmeA	Cj0367c	-	-	periplasmic fusion protein CmeA (multidrug efflux system CmeABC)
+336916..337548	-	210	112359732	cmeR	Cj0368c	-	-	transcriptional regulator CmeR
+337535..338911	-	458	112359733	-	Cj0369c	-	-	putative ferredoxin domain-containing integral membrane protein
+339071..339283	+	70	112359734	rpsU	Cj0370	-	-	30S ribosomal protein S21
+339403..340008	+	201	112359735	-	Cj0371	-	-	putative flagellar motility protein
+340018..341187	+	389	112359736	-	Cj0372	-	-	putative glutathionylspermidine synthase
+341190..342125	+	311	112359737	-	Cj0373	-	-	putative D-2-hydroxyacid dehydrogenase
+342115..342606	+	163	112359738	-	Cj0374	-	-	conserved hypothetical protein Cj0374
+342615..343091	+	158	112359739	-	Cj0375	-	-	putative lipoprotein
+343102..343926	+	274	112359740	-	Cj0376	-	-	putative periplasmic protein
+343926..345638	+	570	112359741	-	Cj0377	-	-	putative AAA family ATPase
+345635..346174	-	179	112359742	-	Cj0378c	-	-	putative ferric reductase-like transmembrane protein. Functional classification-Membranes,lipoproteins and porins
+346174..347067	-	297	112359743	-	Cj0379c	-	-	putative molybdenum containing oxidoreductase
+347123..347908	-	261	112359744	-	Cj0380c	-	-	hypothetical protein Cj0380c
+347905..348744	-	279	112359745	pyrF	Cj0381c	-	-	orotidine 5'-phosphate decarboxylase
+348741..349139	-	132	112359746	nusB	Cj0382c	-	-	transcription termination protein
+349139..349603	-	154	112359747	ribH	Cj0383c	-	-	6,7-dimethyl-8-ribityllumazine synthase
+349600..350415	-	271	112359748	kdsA	Cj0384c	-	-	3-deoxy-8-phosphooctulonate synthase
+350412..351344	-	310	112359749	-	Cj0385c	-	-	putative integral membrane protein
+351446..352828	+	460	112359750	-	Cj0386	-	-	putative GTP-binding protein
+352815..353312	+	165	112359751	aroK	Cj0387	-	-	shikimate kinase
+353309..354268	+	319	112359752	trpS	Cj0388	-	-	tryptophanyl-tRNA synthetase
+354279..355514	+	411	112359753	serS	Cj0389	-	-	seryl-tRNA synthetase
+355524..357986	+	820	112359754	-	Cj0390	-	-	putative transmembrane protein
+358017..358652	-	211	112359755	-	Cj0391c	-	-	hypothetical protein Cj0391c
+358750..360192	-	480	112359756	pyk	Cj0392c	-	-	pyruvate kinase
+360241..361587	-	448	112359757	mqo	Cj0393c	-	-	putative malate:quinone oxidoreductase
+361706..362335	-	209	112359758	-	Cj0394c	-	-	putative transcriptional activator
+362322..362612	-	96	112359759	-	Cj0395c	-	-	hypothetical protein Cj0395c
+362609..363607	-	332	112359760	-	Cj0396c	-	-	putative lipoprotein
+363604..364182	-	192	112359761	-	Cj0397c	-	-	hypothetical protein Cj0397c
+364326..364610	+	94	112359762	gatC	Cj0398	-	-	Glu-tRNAGln amidotransferase subunit C
+364678..365241	+	187	112359763	-	Cj0399	-	-	colicin V production protein homolog
+365243..365716	+	157	112359764	fur	Cj0400	-	-	ferric uptake regulator
+365717..367222	+	501	112359765	lysS	Cj0401	-	-	lysyl-tRNA synthetase
+367219..368463	+	414	112359766	glyA	Cj0402	-	-	serine hydroxymethyltransferase
+368460..369005	+	181	112359767	-	Cj0403	-	-	hypothetical protein Cj0403
+369019..369855	+	278	112359768	-	Cj0404	-	-	putative transmembrane protein
+369852..370640	+	262	112359769	aroE	Cj0405	-	-	shikimate 5-dehydrogenase
+370715..371614	-	299	112359770	-	Cj0406c	-	-	putative lipoprotein
+371704..372519	+	271	112359771	lgt	Cj0407	-	-	prolipoprotein diacylglyceryl transferase
+372589..373371	+	260	112359772	frdC	Cj0408	-	-	fumarate reductase cytochrome B subunit
+373355..375346	+	663	112359773	frdA	Cj0409	-	-	fumarate reductase flavoprotein subunit
+375339..376064	+	241	112359774	frdB	Cj0410	-	-	fumarate reductase iron-sulfur protein
+376092..378278	+	728	112359775	-	Cj0411	-	-	putative ATP/GTP binding protein
+378268..380097	+	609	112359776	-	Cj0412	-	-	putative ATP/GTP binding protein
+380097..380801	+	234	112359777	-	Cj0413	-	-	putative periplasmic protein
+380937..381665	+	242	112359778	-	Cj0414	-	-	putative oxidoreductase subunit
+381667..383388	+	573	112359779	-	Cj0415	-	-	putative GMC oxidoreductase subunit
+383559..383657	+	32	112359780	-	Cj0416	-	-	hypothetical protein Cj0416
+383677..383823	+	48	112359781	-	Cj0417	-	-	hypothetical protein Cj0417
+383947..384651	-	234	112359782	-	Cj0418c	-	-	hypothetical protein Cj0418c
+384759..385121	+	120	112359783	-	Cj0419	-	-	putative histidine triad (HIT) family protein
+385195..385767	+	190	112359784	-	Cj0420	-	-	putative periplasmic protein
+385772..386728	-	318	112359785	-	Cj0421c	-	-	putative integral membrane protein
+386790..386999	-	69	112359786	-	Cj0422c	-	-	putative H-T-H containing protein
+387168..387395	+	75	112359787	-	Cj0423	-	-	putative integral membrane protein
+387404..388036	+	210	112359788	-	Cj0424	-	-	putative acidic periplasmic protein
+388049..388465	+	138	112359789	-	Cj0425	-	-	putative periplasmic protein
+388595..390172	+	525	112359790	-	Cj0426	-	-	putative ABC transporter ATP-binding protein
+390162..390497	+	111	112359791	-	Cj0427	-	-	hypothetical protein Cj0427
+390572..390955	+	127	112359792	-	Cj0428	-	-	hypothetical protein Cj0428
+390999..391583	-	194	112359793	-	Cj0429c	-	-	conserved hypothetical protein Cj0429c
+391711..392937	+	408	112359794	-	Cj0430	-	-	putative integral membrane protein
+392930..393544	+	204	112359795	-	Cj0431	-	-	putative periplasmic ATP/GTP-binding protein
+399936..401144	-	402	112359796	murD	Cj0432c	-	-	UDP-N-acetylmuramoylalanine--D-glutamate ligase
+401144..402205	-	353	112359797	mraY	Cj0433c	-	-	phospho-N-acetylmuramoyl-pentapeptide-transferase
+402285..403763	+	492	112359798	pgm	Cj0434	-	-	2,3-bisphosphoglycerate-independent phosphoglycerate mutase
+403835..404578	+	247	112359799	fabG	Cj0435	-	-	3-oxoacyl-[acyl-carrier protein] reductase
+404585..404995	+	136	112359800	-	Cj0436	-	-	putative pyridoxamine 5'-phosphate oxidase
+405333..407168	+	611	112359801	sdhA	Cj0437	-	-	succinate dehydrogenase flavoprotein subunit
+407165..408130	+	321	112359802	sdhB	Cj0438	-	-	putative succinate dehydrogenase iron-sulfur protein
+408134..408991	+	285	112359803	sdhC	Cj0439	-	-	putative succinate dehydrogenase subunit C
+409015..409683	-	222	112359804	-	Cj0440c	-	-	putative transcriptional regulator
+409793..410026	+	77	112359805	acpP	Cj0441	-	-	acyl carrier protein
+410053..411267	+	404	112359806	fabF	Cj0442	-	-	3-oxoacyl-[acyl-carrier-protein] synthase
+411269..412207	+	312	112359807	accA	Cj0443	-	-	acetyl-coenzyme A carboxylase carboxyl transferase subunit alpha
+414516..415112	+	198	112359808	-	Cj0447	-	-	putative NUDIX hydrolase family protein
+415144..416241	-	365	112359809	-	Cj0448c	-	-	putative MCP-type signal transduction protein
+416251..416466	-	71	112359810	-	Cj0449c	-	-	conserved hypothetical protein Cj0449c
+416651..416845	-	64	112359811	rpmB	Cj0450c	-	-	50S ribosomal protein L28
+416985..417632	+	215	112359812	rep	Cj0451	-	-	ribulose-phosphate 3-epimerase
+417629..418390	+	253	112359813	dnaQ	Cj0452	-	-	exonuclease, dna polymerase III epsilon subunit
+418573..419865	+	430	112359814	thiC	Cj0453	-	-	thiamin biosynthesis protein ThiC
+419857..420426	-	189	112359815	-	Cj0454c	-	-	putative membrane protein
+420548..420892	-	114	112359816	-	Cj0455c	-	-	putative membrane protein
+420889..421848	-	319	112359817	-	Cj0456c	-	-	hypothetical protein Cj0456c
+421850..422479	-	209	112359818	-	Cj0457c	-	-	putative lipoprotein
+422463..423764	-	433	112359819	miaB	Cj0458c	-	-	putative tRNA 2-methylthioadenosine synthase
+423761..424027	-	88	112359820	-	Cj0459c	-	-	hypothetical protein Cj0459c
+424131..425219	+	362	112359821	nusA	Cj0460	-	-	transcription termination factor
+425235..426422	-	395	112359822	-	Cj0461c	-	-	putative MFS (Major Facilitator Superfamily) transport protein
+426496..427542	+	348	112359823	-	Cj0462	-	-	putative radical SAM domain protein
+427542..428762	+	406	112359824	-	Cj0463	-	-	zinc protease-like protein
+428752..430575	+	607	112359825	recG	Cj0464	-	-	ATP-dependent DNA helicase
+430572..430955	-	127	112359826	ctb	Cj0465c	-	-	group III truncated haemoglobin
+431050..431646	+	198	112359827	nssR	Cj0466	-	-	transcriptional regulator
+431662..432363	+	233	112359828	-	Cj0467	-	-	amino-acid ABC transporter integral membrane protein
+432356..433012	+	218	112359829	-	Cj0468	-	-	amino-acid ABC transporter integral membrane protein
+433014..433775	+	253	112359830	-	Cj0469	-	-	amino-acid ABC transporter ATP-binding protein
+434408..435607	+	399	112359831	tuf	Cj0470	-	-	elongation factor TU
+435660..435818	+	52	112359832	rpmG	Cj0471	-	-	50S ribosomal protein L33
+435925..436104	+	59	112359833	secE	Cj0472	-	-	preprotein translocase SecE subunit
+436114..436647	+	177	112359834	nusG	Cj0473	-	-	transcription antitermination protein
+436673..437098	+	141	112359835	rplK	Cj0474	-	-	50S ribosomal protein L11
+437153..437854	+	233	112359836	rplA	Cj0475	-	-	50S ribosomal protein L1
+438006..438485	+	159	112359837	rplJ	Cj0476	-	-	50S ribosomal protein L10
+438506..438883	+	125	112359838	rplL	Cj0477	-	-	50S ribosomal protein L7/L12
+438992..443128	+	1378	112359839	rpoB	Cj0478	-	-	DNA-directed RNA polymerase beta chain
+443121..447674	+	1517	112359840	rpoC	Cj0479	-	-	DNA-directed RNA polymerase beta' chain
+447705..448466	-	253	112359841	-	Cj0480c	-	-	putative transcriptional regulator
+448697..449605	+	302	112359842	dapA	Cj0481	-	-	putative dihydrodipicolinate synthase
+449602..449865	+	87	112359843	uxaA'	Cj0482	-	-	putative altronate hydrolase N-terminus
+449862..451034	+	390	112359844	uxaA'	Cj0483	-	-	putative altronate hydrolase C-terminus
+451046..452278	+	410	112359845	-	Cj0484	-	-	putative MFS (Major Facilitator Superfamily) transport protein
+452320..453108	+	262	112359846	-	Cj0485	-	-	putative oxidoreductase
+453119..454375	+	418	112359847	-	Cj0486	-	-	putative sugar transporter
+454359..455129	+	256	112359848	-	Cj0487	-	-	putative amidohydrolase
+455130..455447	+	105	112359849	-	Cj0488	-	-	conserved hypothetical protein Cj0488
+455461..455682	+	73	112359850	ald'	Cj0489	-	-	putative aldehyde dehydrogenase N-terminus
+455718..456899	+	393	112359851	ald'	Cj0490	-	-	putative aldehyde dehydrogenase C-terminus
+457227..457613	+	128	112359852	rpsL	Cj0491	-	-	30S ribosomal protein S12
+457683..458153	+	156	112359853	rpsG	Cj0492	-	-	30S ribosomal protein S7
+458166..460241	+	691	112359854	fusA	Cj0493	-	-	elongation factor G
+460364..460513	+	49	112359855	-	Cj0494	-	-	putative exporting protein
+460519..461220	+	233	112359856	-	Cj0495	-	-	putative methyltransferase domain protein
+461210..461584	+	124	112359857	-	Cj0496	-	-	conserved hypothetical protein Cj0496
+461557..462834	+	425	112359858	-	Cj0497	-	-	putative lipoprotein
+462831..463607	+	258	112359859	trpC	Cj0498	-	-	indole-3-glycerol phosphate synthase
+463617..464102	+	161	112359860	-	Cj0499	-	-	putative histidine triad (HIT) family protein
+464092..465090	+	332	112359861	-	Cj0500	-	-	putative rhodanese-like domain protein
+466660..467571	-	303	112359862	hemH	Cj0503c	-	-	putative ferrochelatase
+467568..468434	-	288	112359863	-	Cj0504c	-	-	putative oxidoreductase
+468439..469512	-	357	112359864	-	Cj0505c	-	-	putative aminotransferase (degT family). Functional classification-Misc
+469627..472155	+	842	112359865	alaS	Cj0506	-	-	alanyl-tRNA synthetase
+472155..472706	+	183	112359866	maf	Cj0507	-	-	Maf-like protein
+472703..474634	+	643	112359867	pbpA	Cj0508	-	-	penicillin-binding protein
+474662..477235	-	857	112359868	clpB	Cj0509c	-	-	ATP-dependent Clp protease ATP-binding subunit
+477347..477637	-	96	112359869	-	Cj0510c	-	-	conserved hypothetical protein Cj0510c
+477755..479089	+	444	112359870	-	Cj0511	-	-	putative secreted protease
+479091..479801	+	236	112359871	purC	Cj0512	-	-	phosphoribosylaminoimidazole-succinocarboxamide synthase
+479810..480055	+	81	112359872	purS	Cj0513	-	-	phosphoribosylformylglycinamidine (FGAM) synthase
+480057..480728	+	223	112359873	purQ	Cj0514	-	-	phosphoribosylformylglycinamidine synthase I
+480700..481896	+	398	112359874	-	Cj0515	-	-	putative periplasmic protein
+481877..482569	+	230	112359875	plsC	Cj0516	-	-	putative 1-acyl-SN-glycerol-3-phosphate acyltransferase
+482563..482931	+	122	112359876	crcB	Cj0517	-	-	CrcB protein homolog
+483003..484829	+	608	112359877	htpG	Cj0518	-	-	hsp90 family heat shock protein
+484826..485143	+	105	112359878	-	Cj0519	-	-	putative rhodanese-like domain protein
+485143..485577	+	144	112359879	-	Cj0520	-	-	putative membrane protein
+485698..486201	+	167	112359880	-	Cj0522	-	-	putative Na+/Pi cotransporter protein
+486213..486488	+	91	112359881	-	Cj0523	-	-	putative membrane protein
+486642..487343	+	233	112359882	-	Cj0524	-	-	hypothetical protein Cj0524
+487340..489148	-	602	112359883	pbpB	Cj0525c	-	-	putative penicillin-binding protein
+489155..489451	-	98	112359884	fliE	Cj0526c	-	-	flagellar hook-basal body complex protein
+489458..489952	-	164	112359885	flgC	Cj0527c	-	-	flagellar basal-body rod protein
+489962..490393	-	143	112359886	flgB	Cj0528c	-	-	flagellar basal-body rod protein
+490474..491475	-	333	112359887	-	Cj0529c	-	-	putative aminodeoxychorismate lyase family protein
+491390..493960	+	856	112359888	-	Cj0530	-	-	putative periplasmic protein
+494077..496281	+	734	112359889	icd	Cj0531	-	-	isocitrate dehydrogenase
+496278..497180	+	300	112359890	mdh	Cj0532	-	-	malate dehydrogenase
+497181..498344	+	387	112359891	sucC	Cj0533	-	-	succinyl-coA synthetase beta chain
+498354..499223	+	289	112359892	sucD	Cj0534	-	-	succinyl-coA synthetase alpha chain
+499238..499549	+	103	112359893	oorD	Cj0535	-	-	OORD subunit of 2-oxoglutarate:acceptor oxidoreductase
+499558..500682	+	374	112359894	oorA	Cj0536	-	-	OORA subunit of 2-oxoglutarate:acceptor oxidoreductase
+500683..501528	+	281	112359895	oorB	Cj0537	-	-	OORB subunit of 2-oxoglutarate:acceptor oxidoreductase
+501525..502082	+	185	112359896	oorC	Cj0538	-	-	OORC subunit of 2-oxoglutarate:acceptor oxidoreductase
+502221..502484	+	87	112359897	-	Cj0539	-	-	hypothetical protein Cj0539
+502487..503023	+	178	112359898	-	Cj0540	-	-	putative exporting protein
+503037..503930	+	297	112359899	-	Cj0541	-	-	polyprenyl synthetase
+503930..505228	+	432	112359900	hemA	Cj0542	-	-	glutamyl-tRNA reductase
+505212..506921	+	569	112359901	proS	Cj0543	-	-	prolyl-tRNA synthetase
+506918..507307	+	129	112359902	-	Cj0544	-	-	putative integral memnbrane protein
+507304..508227	+	307	112359903	hemC	Cj0545	-	-	porphobilinogen deaminase
+508224..510026	+	600	112359904	ubiD	Cj0546	-	-	putative 3-octaprenyl-4-hydroxybenzoate carboxy-lyase
+510184..510549	+	121	112359905	flaG	Cj0547	-	-	flagellar protein
+510552..512480	+	642	112359906	fliD	Cj0548	-	-	flagellar hook-associated protein
+512492..512878	+	128	112359907	fliS	Cj0549	-	-	flagellar protein
+512859..513134	+	91	112359908	-	Cj0550	-	-	hypothetical protein Cj0550
+513566..514135	+	189	112359909	efp	Cj0551	-	-	elongation factor P
+514295..514987	+	230	112359910	-	Cj0552	-	-	putative membrane protein
+514974..515927	+	317	112359911	-	Cj0553	-	-	putative integral membrane protein
+515937..516941	+	334	112359912	-	Cj0554	-	-	hypothetical protein Cj0554
+517060..518352	+	430	112359913	-	Cj0555	-	-	putative dicarboxylate carrier protein MatC
+518363..519160	+	265	112359914	-	Cj0556	-	-	putative amidohydrolase family protein
+519157..520242	-	361	112359915	-	Cj0557c	-	-	putative integral membrane protein
+520239..521471	-	410	112359916	proA	Cj0558c	-	-	gamma-glutamyl phosphate reductase
+521542..522477	+	311	112359917	-	Cj0559	-	-	putative pyridine nucleotide-disulphide oxidoreductase
+522658..523986	+	442	112359918	-	Cj0560	-	-	putative MATE family transport protein
+524034..524963	-	309	112359919	-	Cj0561c	-	-	putative periplasmic protein
+525117..526493	+	458	112359920	dnaB	Cj0562	-	-	replicative DNA helicase
+526556..527158	+	200	112359921	-	Cj0563	-	-	hypothetical protein Cj0563
+527149..527355	+	68	112359922	-	Cj0564	-	-	putative integral membrane protein
+528182..529648	+	488	112359923	-	Cj0566	-	-	hypothetical protein Cj0566
+529659..529772	+	37	112359924	-	Cj0567	-	-	hypothetical protein Cj0567
+529974..530255	+	93	112359925	-	Cj0568	-	-	hypothetical protein Cj0568
+530261..531130	+	289	112359926	-	Cj0569	-	-	hypothetical protein Cj0569
+531139..532206	+	355	112359927	-	Cj0570	-	-	putative ATP/GTP binding protein
+532203..533075	+	290	112359928	-	Cj0571	-	-	putative transcriptional regulator
+533373..534392	+	339	112359929	ribA	Cj0572	-	-	GTP cyclohydrolase II / 3,4-dihydroxy-2-butanone 4-phosphate synthase
+534404..534847	+	147	112359930	-	Cj0573	-	-	putative GatB/Yqey family protein
+534865..536565	+	566	112359931	ilvI	Cj0574	-	-	acetolactate synthase large subunit
+536562..537026	+	154	112359932	ilvH	Cj0575	-	-	acetolactate synthase small subunit
+537023..537988	+	321	112359933	lpxD	Cj0576	-	-	UDP-3-O-[3-hydroxymyristoyl] glucosamine N-acyltransferase
+537977..539005	-	342	112359934	queA	Cj0577c	-	-	S-adenosylmethionine:tRNA ribosyltransferase-isomerase
+538998..539735	-	245	112359935	tatC	Cj0578c	-	-	sec-independant protein translocase
+539728..540144	-	138	112359936	tatB	Cj0579c	-	-	sec-independant protein translocase
+540202..541269	-	355	112359937	hemN	Cj0580c	-	-	putative oxygen-independent coproporphyrinogen III oxidase
+541371..541841	+	156	112359938	nudH	Cj0581	-	-	putative NUDIX hydrolase family protein
+541843..543045	+	400	112359939	lysC	Cj0582	-	-	aspartokinase, alpha and beta subunits
+543046..543582	+	178	112359940	-	Cj0583	-	-	hypothetical protein Cj0583
+543588..544187	+	199	112359941	-	Cj0584	-	-	hypothetical protein Cj0584
+544189..545331	+	380	112359942	folP	Cj0585	-	-	dihydropteroate synthase
+545332..547275	+	647	112359943	ligA	Cj0586	-	-	DNA ligase
+547256..548260	+	334	112359944	-	Cj0587	-	-	putative integral membrane protein
+548257..549018	+	253	112359945	tlyA	Cj0588	-	-	putative haemolysin
+548984..549838	+	284	112359946	ribF	Cj0589	-	-	putative riboflavin kinase/FMN adenylyltransferase
+549825..550535	+	236	112359947	-	Cj0590	-	-	putative SAM-dependent methyltransferase
+550525..550746	-	73	112359948	-	Cj0591c	-	-	putative lipoprotein
+550743..551177	-	144	112359949	-	Cj0592c	-	-	putative periplasmic protein
+551235..551867	-	210	112359950	-	Cj0593c	-	-	putative integral membrane protein
+551878..552528	-	216	112359951	-	Cj0594c	-	-	putative DNA/RNA non-specific endonuclease
+552525..553151	-	208	112359952	nth	Cj0595c	-	-	endonuclease III
+553232..554053	+	273	112359953	peb4-cbf2	Cj0596	-	-	major antigenic peptide PEB-cell binding factor
+554053..555117	+	354	112359954	fba	Cj0597	-	-	fructose-bisphosphate aldolase
+555212..556654	+	480	112359955	-	Cj0598	-	-	putative membrane protein
+556651..557604	+	317	112359956	-	Cj0599	-	-	putative OmpA family membrane protein
+557591..558466	+	291	112359957	-	Cj0600	-	-	hypothetical protein Cj0600
+558458..559801	-	447	112359958	-	Cj0601c	-	-	putative sodium-dependent transmembrane transport protein
+559852..560520	-	222	112359959	-	Cj0602c	-	-	MOSC-domain containing protein
+560517..562220	-	567	112359960	dsbD	Cj0603c	-	-	putative thiol:disulphide interchange protein
+562315..563196	+	293	112359961	-	Cj0604	-	-	putative polyphosphate kinase
+563205..564395	+	396	112359962	-	Cj0605	-	-	putative amidohydrolase
+564474..565646	+	390	112359963	-	Cj0606	-	-	putative secretion protein HlyD
+565646..567571	+	641	112359964	-	Cj0607	-	-	ABC-type transmembrane transport protein
+567573..568943	+	456	112359965	-	Cj0608	-	-	putative outer membrane efflux protein
+568946..570124	-	392	112359966	-	Cj0609c	-	-	possible periplasmic protein
+570111..571121	-	336	112359967	-	Cj0610c	-	-	putative periplasmic protein
+571122..572498	-	458	112359968	-	Cj0611c	-	-	putative acyltransferase family protein
+572541..573044	-	167	112359969	cft	Cj0612c	-	-	ferritin
+573224..574219	+	331	112359970	pstS	Cj0613	-	-	putative periplasmic phosphate binding protein
+574229..575143	+	304	112359971	pstC	Cj0614	-	-	putative phosphate transport system permease protein
+575140..576228	+	362	112359972	pstA	Cj0615	-	-	putative phosphate transport system permease protein
+576225..576965	+	246	112359973	pstB	Cj0616	-	-	phosphate transport ATP-binding protein
+577027..577638	+	203	112359974	-	Cj0617	-	-	hypothetical protein Cj0617 (617 family)
+577608..578255	+	215	112359975	-	Cj0618	-	-	hypothetical protein Cj0618 (617 family)
+578345..579661	+	438	112359976	-	Cj0619	-	-	putative MATE family transport protein
+579637..580284	+	215	112359977	-	Cj0620	-	-	conserved hypothetical protein Cj0620
+580326..581846	+	506	112359978	-	Cj0621	-	-	hypothetical protein Cj0621
+581827..584016	+	729	112359979	hypF	Cj0622	-	-	carbamoyltransferase
+584094..584837	+	247	112359980	hypB	Cj0623	-	-	hydrogenase isoenzymes formation protein
+584837..585118	+	93	112359981	hypC	Cj0624	-	-	hydrogenase isoenzymes formation protein
+585102..586193	+	363	112359982	hypD	Cj0625	-	-	hydrogenase isoenzymes formation protein
+586190..587164	+	324	112359983	hypE	Cj0626	-	-	hydrogenase isoenzymes formation protein
+587164..587508	+	114	112359984	hypA	Cj0627	-	-	hydrogenase expression/formation protein
+587868..591303	+	1144	112359985	-	Cj0628	-	-	putative lipoprotein
+591537..592502	-	321	112359986	holA	Cj0630c	-	-	putative DNA polymerase III, delta subunit
+592495..594429	-	644	112359987	-	Cj0631c	-	-	putative ribonuclease
+594548..595570	+	340	112359988	ilvC	Cj0632	-	-	ketol-acid reductoisomerase
+595574..596656	+	360	112359989	-	Cj0633	-	-	putative periplasmic protein
+596646..597419	+	257	112359990	dprA	Cj0634	-	-	DNA processing protein A
+597416..597799	+	127	112359991	-	Cj0635	-	-	putative holliday junction resolvase
+597828..598667	+	279	112359992	-	Cj0636	-	-	NOL1/NOP2/sun family protein
+598843..599340	-	165	112359993	mrsA	Cj0637c	-	-	putative peptide methionine sulfoxide reductase
+599381..599899	-	172	112359994	ppa	Cj0638c	-	-	inorganic pyrophosphatase
+599909..600487	-	192	112359995	adk	Cj0639c	-	-	adenylate kinase
+600484..602235	-	583	112359996	aspS	Cj0640c	-	-	aspartyl-tRNA synthetase
+602326..603186	+	286	112359997	-	Cj0641	-	-	putative inorganic polyphosphate/ATP-NAD kinase
+603186..604709	+	507	112359998	recN	Cj0642	-	-	putative DNA repair protein
+604815..606059	+	414	112359999	cbrR	Cj0643	-	-	two-component response regulator
+606050..606865	+	271	112360000	-	Cj0644	-	-	putative TatD-related deoxyribonuclease protein
+606865..607983	+	372	112360001	-	Cj0645	-	-	putative secreted transglycosylase
+607943..608770	+	275	112360002	-	Cj0646	-	-	putative lipoprotein
+608776..609264	+	162	112360003	-	Cj0647	-	-	putative HAD-superfamily hydrolase
+609255..609770	+	171	112360004	-	Cj0648	-	-	putative membrane protein
+609752..610213	+	153	112360005	-	Cj0649	-	-	putative OstA family protein
+610210..610806	+	198	112360006	-	Cj0650	-	-	putative ATP/GTP binding protein
+610803..611297	+	164	112360007	-	Cj0651	-	-	putative integral membrane protein
+611298..613103	+	601	112360008	pbpC	Cj0652	-	-	penicillin-binding protein
+613224..615014	-	596	112360009	-	Cj0653c	-	-	putative aminopeptidase
+616572..617120	-	182	112360010	-	Cj0659c	-	-	putative periplasmic protein
+617113..618219	-	368	112360011	-	Cj0660c	-	-	putative transmembrane protein
+618206..619081	-	291	112360012	era	Cj0661c	-	-	GTP-binding protein Era homolog
+619078..620397	-	439	112360013	hslU	Cj0662c	-	-	ATP-dependent Hsl protease ATP-binding subunit
+620394..620936	-	180	112360014	hslV	Cj0663c	-	-	ATP-dependent protease HslV
+620936..621379	-	147	112360015	rplI	Cj0664c	-	-	50S ribosomal protein L9
+621392..622612	-	406	112360016	argG	Cj0665c	-	-	argininosuccinate synthase
+622768..623013	+	81	112360017	-	Cj0667	-	-	putative S4 domain protein
+623010..623417	+	135	112360018	-	Cj0668	-	-	putative ATP/GTP-binding protein
+623410..624138	+	242	112360019	-	Cj0669	-	-	ABC-transporter ATP-binding protein
+624138..625388	+	416	112360020	rpoN	Cj0670	-	-	RNA polymerase sigma-54 factor
+625552..626976	+	474	112360021	dcuB	Cj0671	-	-	anaerobic C4-dicarboxylate transporter
+627118..627306	+	62	112360022	-	Cj0672	-	-	putative periplasmic protein
+629020..631065	+	681	112360023	kdpB	Cj0677	-	-	potassium-transporting ATPase B chain
+631667..633487	+	606	112360024	kdpD	Cj0679	-	-	truncated KdpD protein
+633589..635562	-	657	112360025	uvrB	Cj0680c	-	-	excinuclease ABC subunit B
+635716..635946	+	76	112360026	-	Cj0681	-	-	hypothetical protein Cj0681
+635936..636178	+	80	112360027	-	Cj0682	-	-	hypothetical protein Cj0682
+636175..636612	+	145	112360028	-	Cj0683	-	-	putative periplasmic protein
+636594..638447	+	617	112360029	priA	Cj0684	-	-	putative primosomal protein N'
+638540..639892	-	450	112360030	cipA	Cj0685c	-	-	Invasion protein CipA
+639998..641071	+	357	112360031	ispG	Cj0686	-	-	4-hydroxy-3-methylbut-2-en-1-yl diphosphate synthase
+641102..641800	-	232	112360032	flgH	Cj0687c	-	-	putative flagellar L-ring protein precursor
+641890..643395	+	501	112360033	pta	Cj0688	-	-	putative phosphate acetyltransferase
+643409..644599	+	396	112360034	ackA	Cj0689	-	-	acetate kinase
+644627..648379	-	1250	112360035	-	Cj0690c	-	-	putative restriction/modification enzyme
+648529..649020	+	163	112360036	-	Cj0691	-	-	putative membrane protein
+649008..649946	-	312	112360037	-	Cj0692c	-	-	putative membrane protein
+649946..650884	-	312	112360038	mraW	Cj0693c	-	-	S-adenosyl-methyltransferase
+651043..652533	+	496	112360039	-	Cj0694	-	-	putative periplasmic protein
+652530..653918	+	462	112360040	ftsA	Cj0695	-	-	cell division protein FtsA
+653934..655046	+	370	112360041	ftsZ	Cj0696	-	-	cell division protein FfsZ
+655202..656014	+	270	112360042	flgG2	Cj0697	-	-	flagellar basal-body rod protein
+656043..656834	+	263	112360043	flgG	Cj0698	-	-	flagellar basal-body rod protein
+656901..658331	-	476	112360044	glnA	Cj0699c	-	-	glutamine synthetase
+658534..659229	+	231	112360045	-	Cj0700	-	-	hypothetical protein Cj0700
+659226..660479	+	417	112360046	-	Cj0701	-	-	putative protease
+660480..660974	+	164	112360047	purE	Cj0702	-	-	phosphoribosylaminoimidazole carboxylase catalytic subunit
+660984..661520	+	178	112360048	-	Cj0703	-	-	hypothetical protein Cj0703
+661532..662395	+	287	112360049	glyQ	Cj0704	-	-	glycyl-tRNA synthetase alpha chain
+662382..663107	+	241	112360050	-	Cj0705	-	-	conserved hypothetical protein Cj0705
+663117..663833	+	238	112360051	-	Cj0706	-	-	conserved hypothetical protein Cj0706
+663830..664987	+	385	112360052	kdtA	Cj0707	-	-	3-deoxy-D-manno-octulosonic-acid transferase
+664968..665720	+	250	112360053	-	Cj0708	-	-	putative ribosomal pseudouridine synthase
+665788..667125	+	445	112360054	ffh	Cj0709	-	-	signal recognition particle protein
+667190..667417	+	75	112360055	rpsP	Cj0710	-	-	30S ribosomal protein S16
+667420..667662	+	80	112360056	-	Cj0711	-	-	hypothetical protein Cj0711
+667655..668194	+	179	112360057	rimM	Cj0712	-	-	putative 16S rRNA processing protein
+668191..668895	+	234	112360058	trmD	Cj0713	-	-	tRNA (guanine-N1)-methyltransferase
+668906..669262	+	118	112360059	rplS	Cj0714	-	-	50S ribosomal protein L19
+669395..669808	+	137	112360060	-	Cj0715	-	-	transthyretin-like periplasmic protein
+669832..671172	+	446	112360061	-	Cj0716	-	-	putative phospho-2-dehydro-3-deoxyheptonate aldolase
+671169..671498	+	109	112360062	-	Cj0717	-	-	putative ArsC family protein
+671946..675548	+	1200	112360063	dnaE	Cj0718	-	-	DNA polymerase III, alpha chain
+675560..676192	-	210	112360064	-	Cj0719c	-	-	conserved hypothetical protein Cj0719c
+676227..676976	-	249	112360065	flaC	Cj0720c	-	-	flagellin
+677015..677485	-	156	112360066	-	Cj0721c	-	-	putative integral membrane protein. Functional classification-Membranes, lipoproteins and porins
+677498..678313	-	271	112360067	-	Cj0722c	-	-	putative DNA methylase
+678310..679497	-	395	112360068	-	Cj0723c	-	-	putative integral membrane zinc-metalloprotease
+679624..679809	+	61	112360069	-	Cj0724	-	-	hypothetical protein Cj0724
+679806..680348	-	180	112360070	-	Cj0725c	-	-	molybdopterin biosynthesis protein
+680369..681352	-	327	112360071	corA	Cj0726c	-	-	magnesium and cobalt transport protein
+681469..682515	+	348	112360072	-	Cj0727	-	-	putative periplasmic solute-binding protein
+682526..683851	+	441	112360073	-	Cj0728	-	-	putative periplasmic protein
+683848..684657	+	269	112360074	-	Cj0729	-	-	putative type I phosphodiesterase/nucleotide pyrophosphatase
+684654..685493	+	279	112360075	-	Cj0730	-	-	putative ABC transport system permease
+685494..686273	+	259	112360076	-	Cj0731	-	-	putative ABC transport system permease
+686277..687266	+	329	112360077	-	Cj0732	-	-	ABC transport system ATP-binding protein
+687263..687901	+	212	112360078	-	Cj0733	-	-	putative HAD-superfamily hydrolase
+687925..688680	-	251	112360079	hisJ	Cj0734c	-	-	histidine-binding protein precursor
+689007..689726	+	239	112360080	-	Cj0735	-	-	putative periplasmic protein
+689656..691584	+	642	112360081	-	Cj0736	-	-	hypothetical protein Cj0736
+691596..692672	+	358	112360082	-	Cj0737	-	-	putative haemagglutination activity domain containing protein
+692726..692890	+	54	112360083	-	Cj0738	-	-	hypothetical protein Cj0738
+692878..693051	+	57	112360084	-	Cj0739	-	-	hypothetical protein Cj0739
+693048..693212	+	54	112360085	-	Cj0740	-	-	hypothetical protein Cj0740
+693191..694117	+	308	112360086	-	Cj0741	-	-	hypothetical protein Cj0741
+702810..702917	+	35	112360087	-	Cj0747	-	-	hypothetical protein Cj0747
+703027..703119	+	30	112360088	-	Cj0748	-	-	hypothetical protein Cj0748
+704442..705125	-	227	112360089	tonB3	Cj0753c	-	-	TonB transport protein
+705450..707540	+	696	112360090	cfrA	Cj0755	-	-	ferric enterobactin uptake receptor
+707840..708634	+	264	112360091	hrcA	Cj0757	-	-	putative heat shock regulator
+708631..709161	+	176	112360092	grpE	Cj0758	-	-	heat shock protein GrpE
+709183..711054	+	623	112360093	dnaK	Cj0759	-	-	heat shock protein DnaK
+711314..712336	+	340	112360094	-	Cj0760	-	-	hypothetical protein Cj0760
+712406..712747	+	113	112360095	-	Cj0761	-	-	hypothetical protein Cj0761
+712797..713966	-	389	112360096	aspB	Cj0762c	-	-	aspartate aminotransferase
+714138..714776	-	212	112360097	cysE	Cj0763c	-	-	serine acetyltransferase
+714777..716612	-	611	112360098	speA	Cj0764c	-	-	biosynthetic arginine decarboxylase
+716609..717835	-	408	112360099	hisS	Cj0765c	-	-	histidyl-tRNA synthetase
+717832..718410	-	192	112360100	tmk	Cj0766c	-	-	thymidylate kinase
+718401..718877	-	158	112360101	coaD	Cj0767c	-	-	phosphopantetheine adenylyltransferase
+718917..719480	-	187	112360102	-	Cj0768c	-	-	putative decarboxylase
+719477..720139	-	220	112360103	flgA	Cj0769c	-	-	putative flagellar protein FlgA
+720223..720999	-	258	112360104	-	Cj0770c	-	-	putative NLPA family lipoprotein
+721009..721779	-	256	112360105	-	Cj0771c	-	-	putative NLPA family lipoprotein
+721828..722601	-	257	112360106	-	Cj0772c	-	-	putative NLPA family lipoprotein
+722791..723702	-	303	112360107	-	Cj0773c	-	-	putative binding-protein dependent transport system permease protein
+723699..724709	-	336	112360108	-	Cj0774c	-	-	ABC transport system ATP-binding protein
+724714..727326	-	870	112360109	valS	Cj0775c	-	-	valyl-tRNA synthetase
+727349..728371	-	340	112360110	-	Cj0776c	-	-	putative periplasmic protein
+728500..730530	+	676	112360111	-	Cj0777	-	-	putative ATP-dependent DNA helicase
+730569..731306	+	245	112360112	peb2	Cj0778	-	-	major antigenic peptide PEB2
+731405..731932	+	175	112360113	tpx	Cj0779	-	-	thiol peroxidase
+732179..734953	+	924	112360114	napA	Cj0780	-	-	periplasmic nitrate reductase
+734971..735711	+	246	112360115	napG	Cj0781	-	-	putative ferredoxin
+735708..736490	+	260	112360116	napH	Cj0782	-	-	putative ferredoxin
+736487..737011	+	174	112360117	napB	Cj0783	-	-	periplasmic nitrate reductase small subunit (cytochrome C-type protein)
+737016..737930	+	304	112360118	napL	Cj0784	-	-	putative periplasmic protein
+737923..738261	+	112	112360119	napD	Cj0785	-	-	NapD protein homolog
+738274..738447	+	57	112360120	-	Cj0786	-	-	small hydrophobic protein
+738526..738774	+	82	112360121	-	Cj0787	-	-	conserved hypothetical protein Cj0787
+738771..739262	+	163	112360122	-	Cj0788	-	-	hypothetical protein Cj0788
+739231..740349	+	372	112360123	cca	Cj0789	-	-	putative multifunctional Cca protein
+740346..741170	+	274	112360124	purU	Cj0790	-	-	formyltetrahydrofolate deformylase
+741167..742441	-	424	112360125	-	Cj0791c	-	-	putative aminotransferase
+742477..743355	+	292	112360126	-	Cj0792	-	-	conserved hypothetical protein Cj0792
+743359..744378	+	339	112360127	flgS	Cj0793	-	-	signal transduction histidine kinase
+744495..745775	+	426	112360128	-	Cj0794	-	-	hypothetical protein Cj0794
+745833..747260	-	475	112360129	murF	Cj0795c	-	-	UDP-N-acetylmuramoyl-tripeptide D-alanyl-D-alanine ligase
+747261..747980	-	239	112360130	-	Cj0796c	-	-	putative hydrolase
+747982..748197	-	71	112360131	-	Cj0797c	-	-	hypothetical protein Cj0797c
+748257..749297	-	346	112360132	ddlA	Cj0798c	-	-	D-alanine--D-alanine ligase
+749307..749858	-	183	112360133	ruvA	Cj0799c	-	-	putative Holliday junction ATP-dependent DNA helicase
+749834..751693	-	619	112360134	-	Cj0800c	-	-	putative ATPase
+751797..753248	+	483	112360135	-	Cj0801	-	-	putative integral membrane protein (MviN homolog)
+753248..754636	+	462	112360136	cysS	Cj0802	-	-	cysteinyl-tRNA synthetase
+754629..756371	+	580	112360137	msbA	Cj0803	-	-	lipid export ABC transport protein
+756403..757461	+	352	112360138	pyrD	Cj0804	-	-	dihydroorotate dehydrogenase
+757458..758708	+	416	112360139	-	Cj0805	-	-	putative zinc protease
+758701..759597	+	298	112360140	dapA	Cj0806	-	-	dihydrodipicolinate synthase
+759597..760376	+	259	112360141	-	Cj0807	-	-	putative oxidoreductase
+760417..760722	-	101	112360142	-	Cj0808c	-	-	small hydrophobic protein
+760734..761330	-	198	112360143	-	Cj0809c	-	-	putative hydrolase
+761404..762144	+	246	112360144	nadE	Cj0810	-	-	NH(3)-dependent NAD(+) synthetase
+762148..763074	+	308	112360145	lpxK	Cj0811	-	-	tetraacyldisaccharide 4'-kinase
+763071..764483	+	470	112360146	thrC	Cj0812	-	-	threonine synthase. Functional classification-Amino acid biosynthesis-Aspartate family
+764480..765199	+	239	112360147	kdsB	Cj0813	-	-	3-deoxy-manno-octulosonate cytidylyltransferase
+765304..766059	+	251	112360148	-	Cj0814	-	-	hypothetical protein Cj0814. Functional classification-Unknown
+766075..766419	+	114	112360149	-	Cj0815	-	-	hypothetical protein Cj0815
+766427..766597	+	56	112360150	-	Cj0816	-	-	hypothetical protein Cj0816
+766692..767462	+	256	112360151	glnH	Cj0817	-	-	putative glutamine binding periplasmic protein
+767555..767782	+	75	112360152	-	Cj0818	-	-	putative lipoprotein
+767808..768032	+	74	112360153	-	Cj0819	-	-	small hydrophobic protein
+768029..768763	-	244	112360154	fliP	Cj0820c	-	-	flagellar biosynthesis protein
+768906..770195	+	429	112360155	glmU	Cj0821	-	-	UDP-N-acetylglucosamine pyrophosphorylase
+770192..771346	+	384	112360156	dfp	Cj0822	-	-	phosphopantothenoylcysteine decarboxylase
+771343..771960	+	205	112360157	-	Cj0823	-	-	hypothetical protein Cj0823
+771964..772632	+	222	112360158	uppS	Cj0824	-	-	undecaprenyl diphosphate synthase
+772629..773405	+	258	112360159	-	Cj0825	-	-	putative processing peptidase
+773405..774430	+	341	112360160	-	Cj0826	-	-	putative integral membrane protein
+774427..775152	+	241	112360161	truA	Cj0827	-	-	tRNA pseudouridine synthase
+775149..776360	-	403	112360162	ilvA	Cj0828c	-	-	threonine dehydratase biosynthetic
+776360..776773	-	137	112360163	-	Cj0829c	-	-	putative CoA binding domain containing protein
+776892..777308	+	138	112360164	-	Cj0830	-	-	putative integral membrane protein
+777295..778368	-	357	112360165	trmA	Cj0831c	-	-	tRNA (uracil-5-)-methyltransferase
+778365..780098	-	577	112360166	-	Cj0832c	-	-	putative Na+/H+ antiporter family protein
+780095..780844	-	249	112360167	-	Cj0833c	-	-	putative oxidoreductase
+780841..782079	-	412	112360168	-	Cj0834c	-	-	ankyrin repeat-containing putative periplasmic protein
+782129..784675	-	848	112360169	acnB	Cj0835c	-	-	aconitate hydratase
+784730..785182	+	150	112360170	ogt	Cj0836	-	-	methylated-DNA--protein-cysteine methyltransferase
+785174..786115	-	313	112360171	-	Cj0837c	-	-	conserved hypothetical protein Cj0837c
+786119..788005	-	628	112360172	metS	Cj0838c	-	-	methionyl-tRNA synthetase
+788015..788212	-	65	112360173	-	Cj0839c	-	-	hypothetical protein Cj0839c
+788205..789047	-	280	112360174	fbp	Cj0840c	-	-	fructose-1,6-bisphosphatase
+789049..789540	-	163	112360175	mobB	Cj0841c	-	-	putative molybdopterin-guanine dinucleotide biosynthesis protein
+789636..790121	+	161	112360176	-	Cj0842	-	-	putative lipoprotein
+790018..791643	-	541	112360177	-	Cj0843c	-	-	putative secreted transglycosylase
+791640..791921	-	93	112360178	-	Cj0844c	-	-	putative integral membrane protein
+791924..793219	-	431	112360179	gltX	Cj0845c	-	-	glutamyl-tRNA synthetase
+793305..794429	+	374	112360180	-	Cj0846	-	-	putative metallophosphoesterase
+794426..795226	+	266	112360181	psd	Cj0847	-	-	phosphatidylserine decarboxylase proenzyme
+795223..795504	-	93	112360182	-	Cj0848c	-	-	conserved hypothetical protein Cj0848c
+795501..797660	-	719	112360183	-	Cj0849c	-	-	conserved hypothetical protein Cj0849c
+797653..798840	-	395	112360184	-	Cj0850c	-	-	putative MFS (Major Facilitator Superfamily) transport protein
+798818..799321	-	167	112360185	-	Cj0851c	-	-	putative integral membrane protein
+799321..799650	-	109	112360186	-	Cj0852c	-	-	putative integral membrane protein
+799647..800921	-	424	112360187	hemL	Cj0853c	-	-	glutamate-1-semialdehyde 2,1-aminomutase
+800918..801265	-	115	112360188	-	Cj0854c	-	-	putative periplasmic protein
+801345..802193	+	282	112360189	folD	Cj0855	-	-	methylenetetrahydrofolate dehydrogenase/methenyltetrahydrofolate cyclohydrolase
+802203..803051	+	282	112360190	lepP	Cj0856	-	-	signal peptidase I
+803073..804233	-	386	112360191	moeA	Cj0857c	-	-	putative molybdopterin biosynthesis protein
+804230..805486	-	418	112360192	murA	Cj0858c	-	-	UDP-N-acetylglucosamine 1-carboxyvinyltransferase
+805552..805980	-	142	112360193	-	Cj0859c	-	-	hypothetical protein Cj0859c
+806075..806947	+	290	112360194	-	Cj0860	-	-	putative integral membrane protein
+806934..807500	-	188	112360195	pabA	Cj0861c	-	-	para-aminobenzoate synthase glutamine amidotransferase component II
+807497..809281	-	594	112360196	pabB	Cj0862c	-	-	para-aminobenzoate synthase component I
+809271..810335	-	354	112360197	xerD	Cj0863c	-	-	DNA recombinase
+810963..811322	+	119	112360198	-	Cj0864	-	-	putative periplasmic protein
+811319..812119	+	266	112360199	dsbB	Cj0865	-	-	putative disulphide oxidoreductase
+813675..814316	+	213	112360200	dsbA	Cj0872	-	-	putative protein disulphide isomerase
+814351..814563	-	70	112360201	-	Cj0873c	-	-	hypothetical protein Cj0873c
+814539..815099	-	186	112360202	-	Cj0874c	-	-	putative cytochrome C
+815050..815337	-	95	112360203	-	Cj0876c	-	-	putative periplasmic protein
+815432..815524	-	30	112360204	-	Cj0877c	-	-	very hypothetical protein Cj0877c
+815545..815691	+	48	112360205	-	Cj0878	-	-	hypothetical protein Cj0878
+815669..816301	-	210	112360206	-	Cj0879c	-	-	putative periplasmic protein
+816298..816540	-	80	112360207	-	Cj0880c	-	-	hypothetical protein Cj0880c
+816524..817570	-	348	112360208	-	Cj0881c	-	-	hypothetical protein Cj0881c
+817579..819753	-	724	112360209	flhA	Cj0882c	-	-	flagellar biosynthesis protein
+819740..820150	-	136	112360210	-	Cj0883c	-	-	putative transcriptional regulator
+820325..820597	+	90	112360211	rpsO	Cj0884	-	-	30S ribosomal protein S15
+820683..823523	-	946	112360212	ftsK	Cj0886c	-	-	putative cell division protein
+823633..825885	-	750	112360213	flaD	Cj0887c	-	-	putative flagellin
+826268..828199	-	643	112360214	-	Cj0888c	-	-	ABC transport system ATP-binding protein
+828203..829492	-	429	112360215	-	Cj0889c	-	-	putative sensory trasnduction histidine kinase
+829486..830148	-	220	112360216	-	Cj0890c	-	-	putative sensory transduction transcriptional regulator
+830135..831718	-	527	112360217	serA	Cj0891c	-	-	D-3-phosphoglycerate dehydrogenase
+831715..832203	-	162	112360218	-	Cj0892c	-	-	putative periplasmic protein
+832203..833873	-	556	112360219	rpsA	Cj0893c	-	-	30S ribosomal protein S1
+834005..834838	-	277	112360220	ispH	Cj0894c	-	-	4-hydroxy-3-methylbut-2-enyl diphosphate reductase
+834828..836114	-	428	112360221	aroA	Cj0895c	-	-	3-phosphoshikimate 1-carboxyvinyltransferase
+836111..838432	-	773	112360222	pheT	Cj0896c	-	-	phenylalanyl-tRNA synthetase beta chain
+838429..839421	-	330	112360223	pheS	Cj0897c	-	-	phenylalanyl-tRNA synthetase alpha chain
+839544..839909	+	121	112360224	-	Cj0898	-	-	putative histidine triad (HIT) family protein
+839939..840508	-	189	112360225	thiJ	Cj0899c	-	-	4-methyl-5(beta-hydroxyethyl)-thiazole monophosphate synthesis protein
+840501..840680	-	59	112360226	-	Cj0900c	-	-	small hydrophobic protein
+840763..841506	+	247	112360227	-	Cj0901	-	-	putative amino acid ABC tansporter permease protein
+841499..842227	+	242	112360228	glnQ	Cj0902	-	-	putative glutamine transport ATP-binding protein
+842255..843721	-	488	112360229	-	Cj0903c	-	-	putative amino-acid transport protein
+843825..844292	-	155	112360230	-	Cj0904c	-	-	putative RNA methylase
+844295..845281	-	328	112360231	alr	Cj0905c	-	-	alanine racemase
+845282..846259	-	325	112360232	-	Cj0906c	-	-	putative periplasmic protein
+846415..846885	+	156	112360233	-	Cj0908	-	-	putative periplasmic protein
+846971..847390	+	139	112360234	-	Cj0909	-	-	putative periplasmic protein
+847394..847846	+	150	112360235	-	Cj0910	-	-	putative periplasmic protein
+847843..848403	+	186	112360236	-	Cj0911	-	-	putative periplasmic protein
+848410..849309	-	299	112360237	cysM	Cj0912c	-	-	cysteine synthase
+849436..849732	-	98	112360238	hupB	Cj0913c	-	-	DNA-binding protein HU homolog
+849834..851666	-	610	112360239	ciaB	Cj0914c	-	-	CiaB protein
+851728..852141	+	137	112360240	-	Cj0915	-	-	putative hydrolase
+852181..852378	-	65	112360241	-	Cj0916c	-	-	conserved hypothetical protein Cj0916c
+852359..854470	-	703	112360242	cstA	Cj0917c	-	-	putative integral membrane protein (CstA homolog)
+854637..855566	-	309	112360243	prsA	Cj0918c	-	-	ribose-phosphate pyrophosphokinase
+855674..856333	-	219	112360244	-	Cj0919c	-	-	putative ABC-type amino-acid transporter permease protein
+856344..857096	-	250	112360245	-	Cj0920c	-	-	putative ABC-type amino-acid transporter permease protein
+857098..857877	-	259	112360246	peb1A	Cj0921c	-	-	aspartate/glutamate-binding ABC transporter protein
+857899..858627	-	242	112360247	pebC	Cj0922c	-	-	ABC-type amino-acid transporter ATP-binding protein
+858763..859551	-	262	112360248	cheR	Cj0923c	-	-	putative MCP protein methyltransferase
+859567..860121	-	184	112360249	cheB'	Cj0924c	-	-	putative MCP protein-glutamate methylesterase
+860287..860724	+	145	112360250	rpiB	Cj0925	-	-	ribose 5-phosphate isomerase
+860724..861056	+	110	112360251	-	Cj0926	-	-	putative membrane protein
+861053..861601	+	182	112360252	apt	Cj0927	-	-	adenine phosphoribosyltransferase
+861620..862216	+	198	112360253	-	Cj0928	-	-	putative integral membrane protein (dedA family)
+862213..863664	+	483	112360254	-	Cj0929	-	-	aminopeptidase
+863661..864764	+	367	112360255	-	Cj0930	-	-	putative GTP-binding protein
+864786..866168	-	460	112360256	argH	Cj0931c	-	-	argininosuccinate lyase
+866178..867752	-	524	112360257	pckA	Cj0932c	-	-	phosphoenolpyruvate carboxykinase (ATP)
+867765..869564	-	599	112360258	pycB	Cj0933c	-	-	putative pyruvate carboxylase B subunit
+869596..870936	-	446	112360259	-	Cj0934c	-	-	putative sodium:amino-acid symporter family protein
+870949..872283	-	444	112360260	-	Cj0935c	-	-	putative sodium:amino-acid symporter family protein
+872516..872854	+	112	112360261	atpE	Cj0936	-	-	ATP synthase F0 sector C subunit
+873171..874082	+	303	112360262	-	Cj0937	-	-	putative integral membrane protein
+874090..877602	-	1170	112360263	aas	Cj0938c	-	-	putative 2-acylglycerophosphoethanolamine acyltransferase / acyl-acyl carrier protein synthetase
+877647..878027	-	126	112360264	-	Cj0939c	-	-	hypothetical protein Cj0939c
+878828..879613	-	261	112360265	glnP	Cj0940c	-	-	putative glutamine transport system permease
+879636..880841	-	401	112360266	-	Cj0941c	-	-	putative permease
+880838..883426	-	862	112360267	secA	Cj0942c	-	-	preprotein translocase SecA subunit
+883526..884035	+	169	112360268	lolA	Cj0943	-	-	putative outer-membrane lipoprotein carrier protein precursor
+884032..884766	-	244	112360269	-	Cj0944c	-	-	putative periplasmic protein
+884776..886119	-	447	112360270	-	Cj0945c	-	-	putative helicase
+886168..887514	+	448	112360271	-	Cj0946	-	-	putative lipoprotein
+887526..888398	-	290	112360272	-	Cj0947c	-	-	putative carbon-nitrogen hydrolase
+888395..889282	-	295	112360273	-	Cj0948c	-	-	putative cation efflux family protein
+889279..890256	-	325	112360274	-	Cj0949c	-	-	putative peptidyl-arginine deiminase family protein
+890355..890789	-	144	112360275	-	Cj0950c	-	-	putative lipoprotein
+890799..891473	-	224	112360276	-	Cj0951c	-	-	putative MCP-domain signal transduction protein
+891663..892382	-	239	112360277	-	Cj0952c	-	-	putative HAMP containing membrane protein
+892478..894010	-	510	112360278	purH	Cj0953c	-	-	phosphoribosylaminoimidazolecarboxamide formyltransferase / IMP cyclohydrolase
+894013..894783	-	256	112360279	-	Cj0954c	-	-	putative DnaJ-like protein
+894780..896966	-	728	112360280	purL	Cj0955c	-	-	phosphoribosylformylglycinamidine synthase
+896977..898305	-	442	112360281	trmE	Cj0956c	-	-	putative tRNA modification GTPase
+898298..899116	-	272	112360282	-	Cj0957c	-	-	hypothetical protein Cj0957c
+899120..900706	-	528	112360283	-	Cj0958c	-	-	putative membrane protein
+900703..901044	-	113	112360284	-	Cj0959c	-	-	conserved hypothetical protein Cj0959c
+901041..901367	-	108	112360285	rnpA	Cj0960c	-	-	ribonuclease P protein component
+901364..901498	-	44	112360286	rpmH	Cj0961c	-	-	50S ribosomal protein L34
+901629..902108	+	159	112360287	-	Cj0962	-	-	putative acetyltransferase
+902105..902713	+	202	112360288	-	Cj0963	-	-	hypothetical protein Cj0963
+902710..903900	+	396	112360289	-	Cj0964	-	-	putative periplasmic protein
+903892..904266	-	124	112360290	-	Cj0965c	-	-	putative acyl-CoA thioester hydrolase
+904409..906697	+	762	112360291	-	Cj0967	-	-	putative periplasmic protein
+907408..907710	+	100	112360292	-	Cj0970	-	-	hypothetical protein Cj0970
+907713..908105	+	130	112360293	-	Cj0971	-	-	hypothetical protein Cj0971
+908107..908430	+	107	112360294	-	Cj0972	-	-	hypothetical protein Cj0972
+908554..908664	+	36	112360295	-	Cj0973	-	-	hypothetical protein Cj0973
+908693..908833	+	46	112360296	-	Cj0974	-	-	very hypothetical protein Cj0974
+908891..910615	+	574	112360297	-	Cj0975	-	-	putative outer-membrane protein
+910711..911601	+	296	112360298	-	Cj0976	-	-	putative methyltransferase
+911674..912252	+	192	112360299	-	Cj0977	-	-	hypothetical protein Cj0977
+912253..912426	-	57	112360300	-	Cj0978c	-	-	putative lipoprotein
+912435..912962	-	175	112360301	-	Cj0979c	-	-	putative secreted nuclease
+913030..914298	+	422	112360302	-	Cj0980	-	-	putative peptidase
+914281..915528	-	415	112360303	cjaB	Cj0981c	-	-	putative MFS (Major Facilitator Superfamily) transport protein
+915568..916407	-	279	112360304	cjaA	Cj0982c	-	-	putative amino-acid transporter periplasmic solute-binding protein
+916626..917744	+	372	112360305	-	Cj0983	-	-	putative lipoprotein
+917836..918576	+	246	112360306	-	Cj0984	-	-	conserved hypothetical protein Cj0984
+918580..919731	-	383	112360307	hipO	Cj0985c	-	-	hippurate hydrolase
+919733..919921	-	62	112360308	-	Cj0986c	-	-	putative integral membrane protein
+919988..920953	-	321	112360309	-	Cj0987c	-	-	putative MFS (Major Facilitator Superfamily) transport protein
+920967..921203	-	78	112360310	-	Cj0988c	-	-	very hypothetical protein Cj0988c
+921188..921394	+	68	112360311	-	Cj0989	-	-	putative membrane protein
+921397..922158	-	253	112360312	-	Cj0990c	-	-	hypothetical protein Cj0990c
+922155..923420	-	421	112360313	-	Cj0991c	-	-	putative oxidoreductase ferredoxin-type electron transport protein
+923422..924777	-	451	112360314	-	Cj0992c	-	-	oxygen-independent coproporphyrinogen III oxidase
+924764..925255	-	163	112360315	-	Cj0993c	-	-	hypothetical protein Cj0993c
+925252..926172	-	306	112360316	argF	Cj0994c	-	-	ornithine carbamoyltransferase
+926169..927152	-	327	112360317	hemB	Cj0995c	-	-	delta-aminolevulinic acid dehydratase
+927210..927770	+	186	112360318	ribA	Cj0996	-	-	GTP cyclohydrolase II
+927771..928337	+	188	112360319	-	Cj0997	-	-	putative methyltransferase (GidB homolog)
+928353..928925	-	190	112360320	-	Cj0998c	-	-	putative periplasmic protein
+929020..930117	-	365	112360321	-	Cj0999c	-	-	putative integral membrane protein
+930230..931111	+	293	112360322	-	Cj1000	-	-	putative transcriptional regulator (LysR family)
+931191..933059	+	622	112360323	rpoD	Cj1001	-	-	RNA polymerase sigma factor (sigma-70)
+933075..933587	-	170	112360324	-	Cj1002c	-	-	putative phosphoglycerate/bisphosphoglycerate mutase
+933584..934102	-	172	112360325	-	Cj1003c	-	-	putative integral membrane protein
+934201..934617	+	138	112360326	-	Cj1004	-	-	putative periplasmic protein
+934626..936242	-	538	112360327	-	Cj1005c	-	-	putative membrane bound ATPase
+936246..937496	-	416	112360328	-	Cj1006c	-	-	putative MiaB-like tRNA modifying enzyme
+937493..939064	-	523	112360329	-	Cj1007c	-	-	putative mechanosensitive ion channel family protein
+939061..940116	-	351	112360330	aroB	Cj1008c	-	-	3-dehydroquinate synthase
+940162..941562	-	466	112360331	-	Cj1009c	-	-	conserved hypothetical proetin Cj1009c
+941592..942713	+	373	112360332	tgt	Cj1010	-	-	queuine tRNA-ribosyltransferase
+942715..943482	+	255	112360333	-	Cj1011	-	-	putative CorA-like Mg2+ transporter protein
+943614..944063	-	149	112360334	-	Cj1012c	-	-	putative membrane protein
+944080..947325	-	1081	112360335	-	Cj1013c	-	-	putative cytochrome C biogenesis protein
+947343..948038	-	231	112360336	livF	Cj1014c	-	-	branched-chain amino-acid ABC transport system ATP-binding protein
+948025..948795	-	256	112360337	livG	Cj1015c	-	-	branched-chain amino-acid ABC transport system ATP-binding protein
+948792..949844	-	350	112360338	livM	Cj1016c	-	-	branched-chain amino-acid ABC transport system permease protein
+949844..950740	-	298	112360339	livH	Cj1017c	-	-	branched-chain amino-acid ABC transport system permease protein
+950759..951868	-	369	112360340	livK	Cj1018c	-	-	branched-chain amino-acid ABC transport system,periplasmic binding protein
+951890..953005	-	371	112360341	livJ	Cj1019c	-	-	branched-chain amino-acid ABC transport system periplasmic binding protein
+953036..953470	-	144	112360342	-	Cj1020c	-	-	putative cytochrome C
+953479..953670	-	63	112360343	-	Cj1021c	-	-	putative periplasmic protein
+953723..954229	-	168	112360344	-	Cj1022c	-	-	putative integral membrane protein
+954238..955269	-	343	112360345	asd	Cj1023c	-	-	aspartate-semialdehyde dehydrogenase
+955269..956570	-	433	112360346	flgR	Cj1024c	-	-	sigma-54 associated transcriptional activator
+956627..957076	-	149	112360347	-	Cj1025c	-	-	hypothetical protein Cj1025c
+957052..957567	-	171	112360348	-	Cj1026c	-	-	putative lipoprotein
+957631..960222	-	863	112360349	gyrA	Cj1027c	-	-	DNA gyrase subunit A
+960263..960838	-	191	112360350	-	Cj1028c	-	-	putative purine/pyrimidine phosphoribosyltransferase
+960835..961479	-	214	112360351	mapA	Cj1029c	-	-	putative liproprotein
+961556..963352	-	598	112360352	lepA	Cj1030c	-	-	GTP-binding protein
+963479..964753	+	424	112360353	cmeD	Cj1031	-	-	outer membrane component of efflux system (multidrug efflux system CmeDEF)
+964750..965490	+	246	112360354	cmeE	Cj1032	-	-	membrane fusion component of efflux system (mutlidrug efflux system CmeDEF)
+965493..968510	+	1005	112360355	cmeF	Cj1033	-	-	integral membrane component of efflux system (multidrug efflux system CmeDEF)
+968534..969340	-	268	112360356	-	Cj1034c	-	-	putative DnaJ-like protein
+969341..970060	-	239	112360357	ate	Cj1035c	-	-	putative arginyl-tRNA-protein transferase
+970060..970311	-	83	112360358	-	Cj1036c	-	-	conserved hypothetical protein Cj1036c
+970315..971760	-	481	112360359	pycA	Cj1037c	-	-	pyruvate carboxylase A subunit
+971900..973063	+	387	112360360	-	Cj1038	-	-	putative cell division/peptidoglycan biosynthesis protein
+973060..974088	+	342	112360361	murG	Cj1039	-	-	putative undecaprenyldiphospho-muramoylpentapeptide b-N-acetylglucosaminyltransferase
+974059..975222	-	387	112360362	-	Cj1040c	-	-	putative MFS (Major Facilitator Superfamily) transport protein
+975230..976081	-	283	112360363	-	Cj1041c	-	-	putative periplasmic ATP/GTP-binding protein
+976144..977034	-	296	112360364	-	Cj1042c	-	-	putative transcriptional regulatory protein
+977031..977636	-	201	112360365	-	Cj1043c	-	-	putative thiamine-phosphate pyrophosphorylase
+977626..978771	-	381	112360366	thiH	Cj1044c	-	-	thiazole biosynthesis protein ThiH
+978774..979550	-	258	112360367	thiG	Cj1045c	-	-	thiazole biosynthesis protein ThiG
+979553..980356	-	267	112360368	moeB	Cj1046c	-	-	putative molybdopterin biosynthesis protein
+980353..980544	-	63	112360369	thiS	Cj1047c	-	-	putative thiamine biosynthesis protein
+980554..981651	-	365	112360370	dapE	Cj1048c	-	-	succinyl-diaminopimelate desuccinylase
+981655..982254	-	199	112360371	-	Cj1049c	-	-	putative LysE family transporter protein
+982247..982948	-	233	112360372	npdA	Cj1050c	-	-	NAD-dependent deacetylase
+982991..987010	-	1339	112360373	cjeI	Cj1051c	-	-	restriction modification enzyme
+987019..989229	-	736	112360374	mutS	Cj1052c	-	-	putative mismatch repair protein
+989219..989569	-	116	112360375	-	Cj1053c	-	-	putative integral membrane protein
+989562..990860	-	432	112360376	murC	Cj1054c	-	-	UDP-N-acetylmuramate--alanine ligase
+990924..992897	-	657	112360377	-	Cj1055c	-	-	putative sulfatase family protein
+992909..993685	-	258	112360378	-	Cj1056c	-	-	putative carbon-nitrogen hydrolase family protein
+993678..993851	-	57	112360379	-	Cj1057c	-	-	putative coiled-coil protein
+993848..995305	-	485	112360380	guaB	Cj1058c	-	-	inosine-5'-monophosphate dehydrogenase
+995315..996676	-	453	112360381	gatA	Cj1059c	-	-	Glu-tRNAGln amidotransferase subunit A
+996673..996783	-	36	112360382	-	Cj1060c	-	-	putative membrane protein
+996777..999530	-	917	112360383	ileS	Cj1061c	-	-	isoleucyl-tRNA synthetase
+999629..1000717	+	362	112360384	-	Cj1062	-	-	putative CinA-like protein
+1000729..1001154	+	141	112360385	-	Cj1063	-	-	putative acetyltransferase
+1001837..1002442	+	201	112360386	rdxA	Cj1066	-	-	nitroreductase
+1002567..1003103	+	178	112360387	pgsA	Cj1067	-	-	CDP-diacylglycerol--glycerol-3-phosphate 3-phosphatidyltransferase
+1003100..1004206	+	368	112360388	-	Cj1068	-	-	putative peptidase M50 family protein
+1004199..1005065	+	288	112360389	-	Cj1069	-	-	conserved hypothetical protein Cj1069
+1005152..1005529	+	125	112360390	rpsF	Cj1070	-	-	30S ribosomal protein S6
+1005538..1006089	+	183	112360391	ssb	Cj1071	-	-	single-strand DNA binding protein
+1006100..1006360	+	86	112360392	rpsR	Cj1072	-	-	30S ribosomal protein S18
+1006421..1008796	-	791	112360393	lon	Cj1073c	-	-	ATP-dependent protease La
+1008813..1009460	-	215	112360394	-	Cj1074c	-	-	putative lipoprotein
+1009621..1010010	+	129	112360395	-	Cj1075	-	-	conserved hypothetical protein Cj1075
+1010010..1010741	+	243	112360396	proC	Cj1076	-	-	pyrroline-5-carboxylate reductase
+1010738..1011040	+	100	112360397	ctsT	Cj1077	-	-	putative periplasmic protein
+1011037..1011699	+	220	112360398	-	Cj1078	-	-	putative periplasmic protein
+1011696..1012148	+	150	112360399	-	Cj1079	-	-	putative periplasmic protein
+1012145..1012774	-	209	112360400	hemD	Cj1080c	-	-	putative uroporphyrinogen-III synthase
+1012752..1013384	-	210	112360401	thiE	Cj1081c	-	-	thiamin-phosphate pyrophosphorylase
+1013374..1014186	-	270	112360402	thiD	Cj1082c	-	-	phosphomethylpyrimidine kinase
+1014183..1014869	-	228	112360403	-	Cj1083c	-	-	putative nuclease
+1014866..1015627	-	253	112360404	-	Cj1084c	-	-	putative ATP/GTP-binding protein
+1015629..1018565	-	978	112360405	mfd	Cj1085c	-	-	transcription-repair coupling factor
+1018565..1018960	-	131	112360406	-	Cj1086c	-	-	conserved hypothetical protein Cj1086c
+1018897..1019799	-	300	112360407	-	Cj1087c	-	-	putative peptidase
+1019786..1020970	-	394	112360408	folC	Cj1088c	-	-	folylpolyglutamate synthase/dihydrofolate synthase
+1020936..1022333	-	465	112360409	-	Cj1089c	-	-	hypothetical protein Cj1089c
+1022317..1022829	-	170	112360410	-	Cj1090c	-	-	putative lipoprotein
+1022826..1025255	-	809	112360411	leuS	Cj1091c	-	-	leucyl-tRNA synthetase
+1025265..1026236	-	323	112360412	secF	Cj1092c	-	-	protein-export membrane protein
+1026236..1027816	-	526	112360413	secD	Cj1093c	-	-	protein-export membrane protein
+1027809..1028081	-	90	112360414	-	Cj1094c	-	-	putative preprotein translocase protein
+1028054..1029379	+	441	112360415	lnt	Cj1095	-	-	putative apolipoprotein N-acyltransferase. Functional classification-Membranes, lipoproteins and porins
+1029616..1030812	-	398	112360416	metK	Cj1096c	-	-	S-adenosylmethionine synthetase
+1030953..1032176	+	407	112360417	-	Cj1097	-	-	putative transmembrane transport protein
+1032186..1033073	+	295	112360418	pyrB	Cj1098	-	-	aspartate carbamoyltransferase
+1033077..1034798	+	573	112360419	-	Cj1099	-	-	peptidase
+1034792..1035229	+	145	112360420	-	Cj1100	-	-	hypothteical protein Cj1100
+1035226..1037301	+	691	112360421	-	Cj1101	-	-	ATP-dependent DNA helicase
+1037298..1038116	+	272	112360422	truB	Cj1102	-	-	tRNA pseudouridine synthase B
+1038110..1038337	+	75	112360423	csrA	Cj1103	-	-	carbon storage regulator homolog
+1038334..1039101	+	255	112360424	ispE	Cj1104	-	-	putative 4-diphosphocytidyl-2-C-methyl-D-erythritol kinase
+1039098..1039550	+	150	112360425	smpB	Cj1105	-	-	small protein B homolog
+1039561..1040163	+	200	112360426	-	Cj1106	-	-	putative periplasmic thioredoxin
+1040163..1040453	+	96	112360427	clpS	Cj1107	-	-	ATP-dependent Clp protease adaptor protein
+1040450..1042579	+	709	112360428	clpA	Cj1108	-	-	ATP-dependent Clp protease ATP-binding subunit
+1042554..1043201	+	215	112360429	aat	Cj1109	-	-	leucyl/phenylalanyl-tRNA--protein transferase
+1043223..1044512	-	429	112360430	-	Cj1110c	-	-	putative MCP-type signal transduction protein
+1044593..1045219	-	208	112360431	-	Cj1111c	-	-	putative MarC family integral membrane protein
+1045234..1045593	-	119	112360432	-	Cj1112c	-	-	putative SelR domain containing protein
+1045683..1046480	+	265	112360433	-	Cj1113	-	-	conserved hypothetical protein Cj1113
+1046471..1047199	-	242	112360434	pssA	Cj1114c	-	-	CDP-diacylglycerol--serine O-phosphatidyltransferase
+1047209..1047826	-	205	112360435	-	Cj1115c	-	-	putative phosphatidylserine decarboxylase-related protein
+1047823..1049760	-	645	112360436	ftsH	Cj1116c	-	-	membrane bound zinc metallopeptidase
+1049764..1050609	-	281	112360437	prmA	Cj1117c	-	-	ribosomal protein L11 methyltransferase
+1050632..1051024	-	130	112360438	cheY	Cj1118c	-	-	chemotaxis regulatory protein
+1051137..1052030	-	297	112360439	pglG	Cj1119c	-	-	putative integral membrane protein
+1052030..1053802	-	590	112360440	pglF	Cj1120c	-	-	UDP-GlcNAc C4,6 dehydratase
+1053804..1054964	-	386	112360441	pglE	Cj1121c	-	-	UDP-4-keto-6-deoxy-GlcNAc C4 aminotransferase
+1055060..1055713	-	217	112360442	-	Cj1122c	-	-	putative integral membrane protein. Functional classification-Surface polysaccharides,lipopolysaccharides and antigens
+1055670..1056257	-	195	112360443	pglD	Cj1123c	-	-	acetyltransferase
+1056244..1056846	-	200	112360444	pglC	Cj1124c	-	-	galactosyltransferase
+1056839..1057969	-	376	112360445	pglA	Cj1125c	-	-	GalNAc transferase
+1057979..1060120	-	713	112360446	pglB	Cj1126c	-	-	oligosaccharide transferase to N-glycosylate proteins
+1060124..1061221	-	365	112360447	pglJ	Cj1127c	-	-	GalNAc transferase
+1061209..1062138	-	309	112360448	pglI	Cj1128c	-	-	glucosyl transferase
+1062131..1063210	-	359	112360449	pglH	Cj1129c	-	-	GalNAc transferase/polymerase
+1063207..1064901	-	564	112360450	pglK	Cj1130c	-	-	flippase
+1064895..1065881	-	328	112360451	gne	Cj1131c	-	-	UDP-GlcNAc/Glc 4-epimerase
+1065939..1066733	-	264	112360452	-	Cj1132c	-	-	conserved hypothetical protein Cj1132c
+1066799..1067827	+	342	112360453	waaC	Cj1133	-	-	heptosyltransferase I
+1067817..1068704	+	295	112360454	htrB	Cj1134	-	-	putative lipid A biosynthesis lauroyl acyltransferase
+1068701..1070248	+	515	112360455	-	Cj1135	-	-	putative two-domain glucosyltransferase
+1070252..1071424	+	390	112360456	-	Cj1136	-	-	putative glycosyltransferase
+1071408..1072403	-	331	112360457	-	Cj1137c	-	-	putative glycosyltransferase
+1072461..1073630	+	389	112360458	-	Cj1138	-	-	putative glycosyltransferase
+1073619..1074530	-	303	112360459	wlaN	Cj1139c	-	-	beta-1,3 galactosyltransferase
+1074585..1075469	+	294	112360460	cstIII	Cj1140	-	-	alpha-2,3 sialyltransferase
+1075450..1076481	+	343	112360461	neuB1	Cj1141	-	-	sialic acid synthase (N-acetylneuraminic acid synthetase)
+1076478..1077593	+	371	112360462	neuC1	Cj1142	-	-	putative UDP-N-acetylglucosamine 2-epimerase
+1077590..1079200	+	536	112360463	neuA1, cgtA	Cj1143	-	-	two-domain bifunctional protein (beta-1,4-N-acetylgalactosaminyltransferase/CMP-Neu5Ac synthase)
+1079195..1080041	-	281	112360464	-	Cj1144c	-	-	hypothetical protein Cj1144c
+1080025..1080849	-	274	112360465	waaV	Cj1146c	-	-	putative glucosyltransferase
+1080908..1081867	+	319	112360466	waaF	Cj1148	-	-	heptosyltransferase II
+1081848..1082408	-	186	112360467	gmhA	Cj1149c	-	-	sedoheptulose 7-phosphate isomerase
+1082405..1083790	-	461	112360468	hldE	Cj1150c	-	-	D-beta-D-heptose 7-phosphate kinase/D-beta-D-heptose 1-phosphate adenylyltransferase
+1083783..1084736	-	317	112360469	hldD	Cj1151c	-	-	ADP-glyceromanno-heptose 6-epimerase
+1084737..1085297	-	186	112360470	gmhB	Cj1152c	-	-	D,D-heptose 1,7-bisphosphate phosphatase
+1085379..1085681	+	100	112360471	-	Cj1153	-	-	putative periplasmic cytochrome C
+1085704..1085910	-	68	112360472	-	Cj1154c	-	-	putative cytochrome oxidase maturation protein cbb3-type
+1085907..1088264	-	785	112360473	-	Cj1155c	-	-	putative cation-transporting ATPase
+1088373..1089671	+	432	112360474	rho	Cj1156	-	-	transcription termination factor
+1089675..1091204	+	509	112360475	dnaX	Cj1157	-	-	putative DNA polymerase III subunit gamma
+1091201..1091428	-	75	112360476	-	Cj1158c	-	-	small hydrophobic protein
+1091407..1091529	-	40	112360477	-	Cj1159c	-	-	small hydrophobic protein
+1091544..1091723	-	59	112360478	-	Cj1160c	-	-	putative membrane protein
+1091795..1093894	-	699	112360479	-	Cj1161c	-	-	putative cation-transporting ATPase
+1093894..1094088	-	64	112360480	-	Cj1162c	-	-	putative heavy-metal-associated domain protein
+1094078..1095028	-	316	112360481	-	Cj1163c	-	-	putative cation transport protein
+1095104..1095367	-	87	112360482	-	Cj1164c	-	-	hypothetical protein Cj1164c
+1095437..1095931	-	164	112360483	-	Cj1165c	-	-	putative integral membrane protein
+1095928..1096704	-	258	112360484	-	Cj1166c	-	-	putative integral membrane protein
+1096771..1097697	+	308	112360485	ldh	Cj1167	-	-	L-lactate dehydrogenase
+1097694..1098296	-	200	112360486	-	Cj1168c	-	-	putative integral membrane protein (dedA homolog)
+1098377..1098604	-	75	112360487	-	Cj1169c	-	-	putative periplasmic protein
+1098615..1100036	-	473	112360488	omp50	Cj1170c	-	-	50 kda outer membrane protein precursor
+1100192..1100674	-	160	112360489	ppi	Cj1171c	-	-	peptidyl-prolyl cis-trans isomerase
+1100684..1101391	-	235	112360490	-	Cj1172c	-	-	conserved hypothetical protein Cj1172c
+1101500..1101841	+	113	112360491	-	Cj1173	-	-	putative efflux protein (multidrug resistance protein)
+1101841..1102149	+	102	112360492	-	Cj1174	-	-	putative efflux protein (multidrug resistance protein)
+1102167..1103759	-	530	112360493	argS	Cj1175c	-	-	arginyl-tRNA synthetase
+1103771..1104010	-	79	112360494	tatA	Cj1176c	-	-	Sec-independent protein translocase (TatA/E homolog)
+1104012..1104635	-	207	112360495	gmk	Cj1177c	-	-	guanylate kinase
+1104632..1106260	-	542	112360496	-	Cj1178c	-	-	highly acidic protein
+1106317..1107084	-	255	112360497	fliR	Cj1179c	-	-	flagellar biosynthetic protein
+1107071..1107706	-	211	112360498	-	Cj1180c	-	-	putative ABC transporter ATP-binding protein
+1107719..1108792	-	357	112360499	tsf	Cj1181c	-	-	elongation factor TS
+1108792..1109583	-	263	112360500	rpsB	Cj1182c	-	-	30S ribosomal protein S2
+1109699..1110862	-	387	112360501	cfa	Cj1183c	-	-	cyclopropane-fatty-acyl-phospholipid synthase
+1110990..1112114	-	374	112360502	petC	Cj1184c	-	-	putative ubiquinol-cytochrome C reductase cytochrome C subunit
+1112111..1113361	-	416	112360503	petB	Cj1185c	-	-	putative ubiquinol-cytochrome C reductase cytochrome B subunit
+1113363..1113866	-	167	112360504	petA	Cj1186c	-	-	putative ubiquinol-cytochrome C reductase iron-sulfur subunit
+1113956..1115242	-	428	112360505	arsB	Cj1187c	-	-	arsenical pump membrane protein
+1115243..1117102	-	619	112360506	gidA	Cj1188c	-	-	tRNA uridine 5-carboxymethylaminomethyl modification enzyme
+1117190..1117687	-	165	112360507	cetB	Cj1189c	-	-	bipartate energy taxis response protein cetB
+1117705..1119084	-	459	112360508	cetA	Cj1190c	-	-	bipartate energy taxis response protein cetA
+1119205..1119699	-	164	112360509	-	Cj1191c	-	-	putative PAS domain containing signal-transduction sensor protein
+1119968..1121344	+	458	112360510	dctA	Cj1192	-	-	putative C4-dicarboxylate transport protein
+1121341..1122147	-	268	112360511	-	Cj1193c	-	-	putative periplasmic protein
+1122289..1123815	+	508	112360512	-	Cj1194	-	-	possible phosphate permease
+1123823..1125001	-	392	112360513	pyrC2	Cj1195c	-	-	putative dihydroorotase
+1125011..1125907	-	298	112360514	gpsA	Cj1196c	-	-	glycerol-3-phosphate dehydrogenase [NAD(P)+]
+1125904..1127322	-	472	112360515	gatB	Cj1197c	-	-	Glu-tRNAGln amidotransferase subunit B
+1127437..1127931	+	164	112360516	luxS	Cj1198	-	-	S-ribosylhomocysteine lyase (autoinducer-2 production protein LuxS)
+1128243..1129235	+	330	112360517	-	Cj1199	-	-	putative iron/ascorbate-dependent oxidoreductase
+1129228..1130016	+	262	112360518	-	Cj1200	-	-	putative NLPA family lipoprotein
+1130028..1132292	+	754	112360519	metE	Cj1201	-	-	5-methyltetrahydropteroyltriglutamate--homocystei ne methyltransferase
+1132302..1133150	+	282	112360520	metF	Cj1202	-	-	5,10-methylenetetrahydrofolate reductase
+1133172..1133363	-	63	112360521	-	Cj1203c	-	-	putative integral membrane protein
+1133360..1134040	-	226	112360522	atpB	Cj1204c	-	-	ATP synthase F0 sector A subunit
+1134109..1135449	-	446	112360523	radA	Cj1205c	-	-	putative DNA repair protein RadA (ATP-dependant protease)
+1135449..1136315	-	288	112360524	ftsY	Cj1206c	-	-	putative signal recognition particle protein
+1136315..1136872	-	185	112360525	-	Cj1207c	-	-	putative lipoprotein thiredoxin
+1136955..1137581	+	208	112360526	-	Cj1208	-	-	putative 5-formyltetrahydrofolate cyclo-ligase family protein
+1137502..1139055	+	517	112360527	-	Cj1209	-	-	HD/KH domain containing protein
+1139064..1139621	+	185	112360528	-	Cj1210	-	-	putative integral membrane protein
+1139621..1140880	+	419	112360529	-	Cj1211	-	-	putative competence family protein
+1140824..1141630	-	268	112360530	rbn	Cj1212c	-	-	putative ribonuclease BN
+1141634..1143016	-	460	112360531	glcD	Cj1213c	-	-	putative glycolate oxidase subunit D
+1143019..1143744	-	241	112360532	-	Cj1214c	-	-	putative exporting protein
+1143866..1145026	+	386	112360533	-	Cj1215	-	-	putative peptidase M23 family protein
+1145023..1145226	-	67	112360534	-	Cj1216c	-	-	hypothetical protein Cj1216c
+1145228..1145908	-	226	112360535	-	Cj1217c	-	-	conserved hypothetical protein Cj1217c
+1145872..1146483	-	203	112360536	ribA	Cj1218c	-	-	putative riboflavin synthase alpha chain
+1146492..1149032	-	846	112360537	-	Cj1219c	-	-	putative periplasmic protein
+1149194..1149454	+	86	112360538	groES	Cj1220	-	-	10 kD chaperonin (cpn10)
+1149475..1151112	+	545	112360539	groEL	Cj1221	-	-	60 kD chaperonin (cpn60)
+1151155..1152345	-	396	112360540	dccS	Cj1222c	-	-	two-component sensor (histidine kinase)
+1152338..1153003	-	221	112360541	dccR	Cj1223c	-	-	two-component regulator
+1153151..1153750	+	199	112360542	-	Cj1224	-	-	putative iron-binding protein
+1153761..1154009	+	82	112360543	-	Cj1225	-	-	conserved hypothetical protein Cj1225
+1154267..1155514	-	415	112360544	-	Cj1226c	-	-	putative two-component sensor (histidine kinase)
+1155511..1156185	-	224	112360545	-	Cj1227c	-	-	putative two-component regulator
+1156261..1157679	-	472	112360546	htrA	Cj1228c	-	-	serine protease (protease DO)
+1157879..1158772	+	297	112360547	cbpA	Cj1229	-	-	putative curved-DNA binding protein
+1158788..1159162	+	124	112360548	hspR	Cj1230	-	-	heat shock transcriptional regulator
+1159168..1160793	+	541	112360549	kefB	Cj1231	-	-	putative glutathione-regulated potassium-efflux system protein
+1160803..1161135	+	110	112360550	-	Cj1232	-	-	hypothetical protein Cj1232
+1161132..1161752	+	206	112360551	-	Cj1233	-	-	putative HAD-superfamily hydrolase
+1161808..1163802	+	664	112360552	glyS	Cj1234	-	-	glycyl-tRNA synthetase beta chain
+1163799..1164620	+	273	112360553	-	Cj1235	-	-	putative peptidase M23 family protein
+1164617..1165567	+	316	112360554	-	Cj1236	-	-	conserved hypothetical protein Cj1236
+1165564..1166538	-	324	112360555	-	Cj1237c	-	-	putative phosphatase
+1166594..1167367	+	257	112360556	pdxJ	Cj1238	-	-	pyridoxal phosphate biosynthetic protein
+1167364..1168458	+	364	112360557	pdxA	Cj1239	-	-	putative 4-hydroxythreonine-4-phosphate dehydrogenase
+1168448..1169050	-	200	112360558	-	Cj1240c	-	-	putative periplasmic protein
+1169163..1170362	+	399	112360559	-	Cj1241	-	-	putative MFS (Major Facilitator Superfamily) transporter protein
+1170418..1170738	+	106	112360560	-	Cj1242	-	-	hypothetical protein Cj1242
+1170922..1171944	+	340	112360561	-	Cj1243	-	-	uroporphyrinogen decarboxylase
+1171941..1172843	+	300	112360562	-	Cj1244	-	-	putative radical SAM domain protein
+1172840..1174036	-	398	112360563	-	Cj1245c	-	-	putative membrane protein
+1174038..1175840	-	600	112360564	uvrC	Cj1246c	-	-	excinuclease ABC subunit C
+1175833..1176327	-	164	112360565	-	Cj1247c	-	-	hypothetical protein Cj1247c
+1176466..1178001	+	511	112360566	guaA	Cj1248	-	-	GMP synthase (glutamine-hydrolyzing)
+1178087..1179547	+	486	112360567	-	Cj1249	-	-	hypothetical protein Cj1249
+1179787..1181037	+	416	112360568	purD	Cj1250	-	-	phosphoribosylamine--glycine ligase
+1181034..1181486	+	150	112360569	-	Cj1251	-	-	conserved hypothetical protein Cj1251
+1181476..1183524	+	682	112360570	-	Cj1252	-	-	putative periplasmic protein
+1183594..1185753	+	719	112360571	pnp	Cj1253	-	-	polyribonucleotide nucleotidyltransferase
+1185750..1186232	+	160	112360572	-	Cj1254	-	-	hypothetical protein Cj1254
+1186290..1186499	+	69	112360573	-	Cj1255	-	-	putative isomerase
+1186496..1187158	-	220	112360574	-	Cj1256c	-	-	putative membrane protein
+1187176..1188360	-	394	112360575	-	Cj1257c	-	-	putative efflux pump
+1188414..1188869	+	151	112360576	-	Cj1258	-	-	putative phosphotyrosine protein phosphatase
+1189121..1190395	+	424	112360577	porA	Cj1259	-	-	major outer membrane protein
+1190510..1191631	-	373	112360578	dnaJ	Cj1260c	-	-	chaperone DnaJ
+1191788..1192459	+	223	112360579	racR	Cj1261	-	-	two-component regulator
+1192456..1193691	+	411	112360580	racS	Cj1262	-	-	two-component sensor (histidine kinase)
+1193691..1194263	+	190	112360581	recR	Cj1263	-	-	recombination protein
+1194260..1194796	-	178	112360582	hydD	Cj1264c	-	-	putative hydrogenase maturation protease
+1194793..1195485	-	230	112360583	hydC	Cj1265c	-	-	Ni/Fe-hydrogenase B-type cytochrome subunit
+1195496..1197211	-	571	112360584	hydB	Cj1266c	-	-	Ni/Fe-hydrogenase large subunit
+1197214..1198353	-	379	112360585	hydA	Cj1267c	-	-	Ni/Fe-hydrogenase small chain
+1198474..1200315	-	613	112360586	-	Cj1268c	-	-	putative FAD dependent oxidoreductase
+1200312..1202291	-	659	112360587	amiA	Cj1269c	-	-	N-acetylmuramoyl-L-alanine amidase
+1202291..1203382	-	363	112360588	-	Cj1270c	-	-	putative 2-nitropropane dioxygenase,oxidoreductase protein
+1203379..1204584	-	401	112360589	tyrS	Cj1271c	-	-	tyrosyl-tRNA synthetase
+1204596..1206791	-	731	112360590	spoT	Cj1272c	-	-	putative guanosine-3',5'-bis(diphosphate) 3'-pyrophosphohydrolase
+1206775..1206999	-	74	112360591	rpoZ	Cj1273c	-	-	putative DNA-directed RNA polymerase omega chain
+1207010..1207729	-	239	112360592	pyrH	Cj1274c	-	-	uridylate kinase
+1207781..1208974	-	397	112360593	-	Cj1275c	-	-	putative peptidase M23 family protein
+1208971..1209777	-	268	112360594	-	Cj1276c	-	-	putative integral membrane protein
+1209764..1210429	-	221	112360595	-	Cj1277c	-	-	putative ABC transporter ATP-binding protein
+1210499..1211677	-	392	112360596	trmB	Cj1278c	-	-	putative tRNA (guanine-N(7)-)-methyltransferase
+1211677..1212912	-	411	112360597	-	Cj1279c	-	-	putative fibronectin domain-containing lipoprotein
+1212857..1213825	-	322	112360598	-	Cj1280c	-	-	putative ribosomal pseudouridine synthase
+1213903..1215003	+	366	112360599	mrdB	Cj1282	-	-	RodA protein homolog
+1215456..1216799	+	447	112360600	ktrB	Cj1283	-	-	putative K+ uptake protein
+1216810..1217460	+	216	112360601	ktrA	Cj1284	-	-	putative K+ uptake protein
+1217457..1218128	-	223	112360602	-	Cj1285c	-	-	conserved hypothetical protein Cj1285c
+1218134..1218760	-	208	112360603	upp	Cj1286c	-	-	uracil phosphoribosyltransferase
+1218757..1219992	-	411	112360604	-	Cj1287c	-	-	malate oxidoreductase
+1219994..1221385	-	463	112360605	gltX2	Cj1288c	-	-	glutamyl-tRNA synthetase
+1221450..1222265	+	271	112360606	-	Cj1289	-	-	possible periplasmic protein
+1222303..1223634	-	443	112360607	accC	Cj1290c	-	-	biotin carboxylase
+1223636..1224091	-	151	112360608	accB	Cj1291c	-	-	putative biotin carboxyl carrier protein of acetyl-CoA carboxylase
+1224239..1224799	+	186	112360609	dcd	Cj1292	-	-	putative deoxycytidine triphosphate deaminase
+1224849..1225853	+	334	112360610	pseB	Cj1293	-	-	UDP-GlcNAc-specific C4,6 dehydratase/C5 epimerase
+1225855..1226985	+	376	112360611	pseC	Cj1294	-	-	C4 aminotransferase specific for PseB product
+1226978..1228285	+	435	112360612	-	Cj1295	-	-	conserved hypothetical protein Cj1295
+1228282..1228641	+	119	112360613	-	Cj1296	-	-	hypothetical protein Cj1296
+1228638..1229075	+	145	112360614	-	Cj1297	-	-	hypotehtical protein Cj1297
+1229096..1229887	+	263	112360615	-	Cj1298	-	-	putative N-acetyltransferase
+1229918..1230148	+	76	112360616	acpP2	Cj1299	-	-	putative acyl carrier protein
+1230145..1231038	+	297	112360617	-	Cj1300	-	-	putative SAM domain containing methyltransferase
+1231031..1231447	+	138	112360618	-	Cj1301	-	-	hypothetical protein Cj1301
+1231444..1233006	+	520	112360619	-	Cj1302	-	-	putative HAD-superfamily phosphatase, subfamily IIIC
+1232996..1234057	+	353	112360620	fabH2	Cj1303	-	-	putative 3-oxoacyl-[acyl-carrier-protein] synthase
+1234057..1234278	+	73	112360621	acpP3	Cj1304	-	-	putative acyl carrier protein
+1234292..1235509	-	405	112360622	-	Cj1305c	-	-	hypothetical protein Cj1305c (617 family)
+1235522..1236748	-	408	112360623	-	Cj1306c	-	-	hypothetical protein Cj1306c (617 family)
+1236809..1238317	+	502	112360624	-	Cj1307	-	-	putative amino acid activating enzyme
+1238357..1238584	+	75	112360625	-	Cj1308	-	-	putative acyl carrier protein
+1238581..1239651	-	356	112360626	-	Cj1309c	-	-	hypothetical protein Cj1309c
+1239673..1240887	-	404	112360627	-	Cj1310c	-	-	hypothetical protein Cj1310c (617 family)
+1240966..1241664	+	232	112360628	pseF	Cj1311	-	-	putative acylneuraminate cytidylyltransferase
+1241648..1242472	+	274	112360629	pseG	Cj1312	-	-	nucleotidase specific for PseC product,UDP-4-amino-4,6-dideoxy-beta-L-AltNAc
+1242469..1242942	+	157	112360630	pseH	Cj1313	-	-	N-acetyltransferase specific for PseC product,UDP-4-amino-4,6-dideoxy-beta-L-AltNAc
+1242907..1243653	-	248	112360631	hisF	Cj1314c	-	-	imidazole glycerol phosphate synthase subunit
+1243654..1244259	-	201	112360632	hisH	Cj1315c	-	-	imidazole glycerol phosphate synthase subunit
+1244256..1245392	-	378	112360633	pseA	Cj1316c	-	-	pseudaminic acid biosynthesis PseA protein
+1245650..1246681	+	343	112360634	pseI	Cj1317	-	-	Pse synthetase
+1246678..1248627	+	649	112360635	maf1	Cj1318	-	-	motility accessory factor (function unknown)
+1248624..1249595	+	323	112360636	-	Cj1319	-	-	putative nucleotide sugar dehydratase
+1249588..1250742	+	384	112360637	-	Cj1320	-	-	putative aminotransferase (degT family)
+1250852..1251394	+	180	112360638	-	Cj1321	-	-	putative transferase
+1251467..1251787	+	106	112360639	-	Cj1322	-	-	hypothetical protein Cj1322
+1251775..1252161	+	128	112360640	-	Cj1323	-	-	hypothetical protein Cj1323
+1252278..1253399	+	373	112360641	-	Cj1324	-	-	hypothetical protein Cj1324
+1253417..1254092	+	224	112360642	-	Cj1325	-	-	putative methyltransferase
+1254132..1255136	+	334	112360643	neuB2	Cj1327	-	-	N-acetylneuraminic acid synthetase
+1255129..1256283	+	384	112360644	neuC2	Cj1328	-	-	putative UDP-N-acetylglucosamine 2-epimerase
+1256292..1257317	+	341	112360645	-	Cj1329	-	-	putative sugar-phosphate nucleotide transferase
+1257314..1258219	+	301	112360646	-	Cj1330	-	-	hypothetical protein Cj1330
+1258212..1258919	+	235	112360647	ptmB	Cj1331	-	-	acylneuraminate cytidylyltransferase (flagellin modification)
+1258919..1259689	+	256	112360648	ptmA	Cj1332	-	-	putative oxidoreductase (flagellin modification)
+1259677..1261638	+	653	112360649	pseD	Cj1333	-	-	PseD protein
+1261635..1263494	+	619	112360650	maf3	Cj1334	-	-	motility accessory factor (function unknown)
+1263507..1265454	+	649	112360651	maf4	Cj1335	-	-	motility accessory factor (function unknown)
+1265451..1267337	+	628	112360652	pseE	Cj1337	-	-	PseE protein
+1267368..1269086	-	572	112360653	flaB	Cj1338c	-	-	flagellin
+1269232..1270950	-	572	112360654	flaA	Cj1339c	-	-	flagellin
+1271047..1272864	-	605	112360655	-	Cj1340c	-	-	conserved hypothetical protein Cj1340c (1318 family)
+1272861..1274684	-	607	112360656	maf6	Cj1341c	-	-	motility accessory factor (function unknown)
+1274694..1275935	-	413	112360657	maf7	Cj1342c	-	-	motility accessory factor (function unknown)
+1275935..1276450	-	171	112360658	-	Cj1343c	-	-	putative periplasmic protein
+1276451..1277458	-	335	112360659	-	Cj1344c	-	-	putative glycoprotease
+1277455..1278849	-	464	112360660	-	Cj1345c	-	-	putative periplasmic protein
+1278851..1279921	-	356	112360661	-	Cj1346c	-	-	1-deoxy-D-xylulose 5-phosphate reductoisomerase
+1279918..1280643	-	241	112360662	cdsA	Cj1347c	-	-	phosphatidate cytidylyltransferase
+1280652..1280990	-	112	112360663	-	Cj1348c	-	-	putative coiled-coil protein
+1280992..1282299	-	435	112360664	-	Cj1349c	-	-	putative fibronectin/fibrinogen-binding protein
+1282361..1282936	+	191	112360665	mobA	Cj1350	-	-	putative molybdopterin-guanine dinucleotide biosynthesis protein
+1282933..1283922	+	329	112360666	pldA	Cj1351	-	-	phospholipase A
+1284008..1284976	+	322	112360667	ceuB	Cj1352	-	-	enterochelin uptake permease
+1284969..1285907	+	312	112360668	ceuC	Cj1353	-	-	enterochelin uptake permease
+1285904..1286659	+	251	112360669	ceuD	Cj1354	-	-	enterochelin uptake ATP-binding protein
+1286672..1287664	+	330	112360670	ceuE	Cj1355	-	-	enterochelin uptake periplasmic binding protein
+1287890..1288444	-	184	112360671	-	Cj1356c	-	-	putative integral membrane protein
+1288580..1290412	-	610	112360672	nrfA	Cj1357c	-	-	putative periplasmic cytochrome C
+1290427..1290942	-	171	112360673	nrfH	Cj1358c	-	-	putative periplasmic cytochrome C
+1291131..1293215	+	694	112360674	ppk	Cj1359	-	-	polyphosphate kinase
+1293527..1293571	-	14	112360675	-	Cj1360c	-	-	putative proteolysis tag for 10Sa_RNA
+1293659..1294111	-	150	112360676	-	Cj1361c	-	-	hypothetical protein Cj1361c
+1294160..1295167	+	335	112360677	ruvB	Cj1362	-	-	holliday junction DNA helicase
+1295171..1296214	+	347	112360678	amaA	Cj1363	-	-	acid membrane antigen A
+1296244..1297635	-	463	112360679	fumC	Cj1364c	-	-	fumarate hydratase
+1297691..1300816	-	1041	112360680	-	Cj1365c	-	-	putative secreted serine protease
+1300819..1302615	-	598	112360681	glmS	Cj1366c	-	-	glucosamine--fructose-6-phosphate aminotransferase (isomerizing)
+1302620..1304968	-	782	112360682	-	Cj1367c	-	-	putative nucleotidyltransferase
+1305112..1306176	+	354	112360683	-	Cj1368	-	-	putative radical SAM domain protein
+1306186..1307505	+	439	112360684	-	Cj1369	-	-	putative permease
+1307519..1307962	+	147	112360685	-	Cj1370	-	-	putative nucleotide phosphoribosyltransferase
+1308007..1308705	+	232	112360686	-	Cj1371	-	-	putative periplasmic protein (VacJ homolog)
+1308715..1309284	+	189	112360687	-	Cj1372	-	-	putative periplasmic protein
+1309284..1311755	+	823	112360688	-	Cj1373	-	-	putative ntegral membrane protein
+1311786..1312388	-	200	112360689	-	Cj1374c	-	-	conserved hypothetical protein Cj1374c
+1312555..1313850	+	431	112360690	-	Cj1375	-	-	putative multidrug efflux transporter
+1313847..1314656	+	269	112360691	-	Cj1376	-	-	putative periplasmic protein
+1314649..1316310	-	553	112360692	-	Cj1377c	-	-	putative ferredoxin
+1316388..1317710	+	440	112360693	selA	Cj1378	-	-	L-seryl-tRNA(SeC) selenium transferase
+1317707..1319512	+	601	112360694	selB	Cj1379	-	-	putative selenocysteine-specific elongation factor
+1319561..1320271	+	236	112360695	-	Cj1380	-	-	putative periplasmic protein
+1320277..1320807	+	176	112360696	-	Cj1381	-	-	putative lipoprotein
+1320852..1321343	-	163	112360697	fldA	Cj1382c	-	-	flavodoxin
+1321343..1322038	-	231	112360698	-	Cj1383c	-	-	hypothetical protein Cj1383c
+1322041..1322355	-	104	112360699	-	Cj1384c	-	-	hypothetical protein Cj1384c
+1322526..1323950	+	474	112360700	katA	Cj1385	-	-	catalase
+1324007..1324477	+	156	112360701	-	Cj1386	-	-	ankyrin-repeat containing protein
+1324478..1325134	-	218	112360702	-	Cj1387c	-	-	helix-turn-helix containing protein
+1325302..1325664	+	120	112360703	-	Cj1388	-	-	putative endoribonuclease L-PSP
+1327120..1327257	+	45	112360704	metC'	Cj1392	-	-	putative cystathionine beta-lyase, N-terminus
+1327236..1328282	+	348	112360705	metC'	Cj1393	-	-	putative cystathionine beta-lyase
+1328292..1329659	+	455	112360706	-	Cj1394	-	-	putative fumarate lyase
+1331090..1331314	+	74	112360707	-	Cj1397	-	-	putative ferrous iron transport protein
+1331311..1333152	+	613	112360708	feoB	Cj1398	-	-	ferrous iron transport protein
+1333149..1334642	-	497	112360709	hydA2	Cj1399c	-	-	putative Ni/Fe-hydrogenase small subunit
+1334646..1335470	-	274	112360710	fabI	Cj1400c	-	-	enoyl-[acyl-carrier-protein] reductase [NADH]
+1335474..1336145	-	223	112360711	tpiA	Cj1401c	-	-	putative triosephosphate isomerase
+1336142..1337344	-	400	112360712	pgk	Cj1402c	-	-	phosphoglycerate kinase
+1337347..1338345	-	332	112360713	gapA	Cj1403c	-	-	glyceraldehyde 3-phosphate dehydrogenase
+1338404..1338949	+	181	112360714	nadD	Cj1404	-	-	putative nicotinate-nucleotide adenylyltransferase
+1338977..1339303	+	108	112360715	-	Cj1405	-	-	conserved hypothetical protein Cj1405
+1339362..1339712	-	116	112360716	-	Cj1406c	-	-	putative periplasmic protein
+1339759..1341147	-	462	112360717	-	Cj1407c	-	-	putative phospho-sugar mutase
+1341250..1341786	+	178	112360718	fliL	Cj1408	-	-	putative flagellar protein
+1341786..1342133	+	115	112360719	acpS	Cj1409	-	-	holo-[acyl-carrier protein] synthase
+1342134..1342553	-	139	112360720	-	Cj1410c	-	-	putative membrane protein
+1342550..1343911	-	453	112360721	-	Cj1411c	-	-	putative cytochrome P450
+1343908..1345029	-	373	112360722	-	Cj1412c	-	-	putative integral membrane protein
+1345102..1346286	-	394	112360723	kpsS	Cj1413c	-	-	capsule polysaccharide modification protein
+1346283..1348352	-	689	112360724	kpsC	Cj1414c	-	-	capsule polysaccharide modification protein
+1348349..1348861	-	170	112360725	cysC	Cj1415c	-	-	putative adenylylsulfate kinase
+1348851..1349612	-	253	112360726	-	Cj1416c	-	-	putative sugar nucleotidyltransferase
+1349614..1350216	-	200	112360727	-	Cj1417c	-	-	putative amidotransferase
+1350207..1352546	-	779	112360728	-	Cj1418c	-	-	putative transferase
+1352561..1353322	-	253	112360729	-	Cj1419c	-	-	putative methyltransferase
+1353375..1354148	-	257	112360730	-	Cj1420c	-	-	putative methyltransferase
+1354215..1356053	-	612	112360731	-	Cj1421c	-	-	putative sugar transferase
+1356108..1357985	-	625	112360732	-	Cj1422c	-	-	putative sugar transferase
+1358036..1358701	-	221	112360733	hddC	Cj1423c	-	-	putative D-glycero-D-manno-heptose 1-phosphate guanosyltransferase
+1358689..1359294	-	201	112360734	gmhA2	Cj1424c	-	-	phosphoheptose isomerase
+1359282..1360301	-	339	112360735	hddA	Cj1425c	-	-	putative D-glycero-D-manno-heptose 7-phosphate kinase
+1360321..1361172	-	283	112360736	-	Cj1426c	-	-	putative methyltransferase family protein
+1361191..1362132	-	313	112360737	-	Cj1427c	-	-	putative sugar-nucleotide epimerase/dehydratease
+1362156..1363196	-	346	112360738	fcl	Cj1428c	-	-	GDP-L-fucose synthetase
+1363196..1364122	-	308	112360739	-	Cj1429c	-	-	hypothetical protein Cj1429c
+1364126..1364671	-	181	112360740	rfbC	Cj1430c	-	-	putative dTDP-4-dehydrorhamnose 3,5-epimerase
+1364671..1366419	-	582	112360741	hddC	Cj1431c	-	-	capsular polysaccharide heptosyltransferase
+1366422..1369517	-	1031	112360742	-	Cj1432c	-	-	putative sugar transferase
+1369527..1370633	-	368	112360743	-	Cj1433c	-	-	hypothetical protein Cj1433c
+1370667..1372004	-	445	112360744	-	Cj1434c	-	-	putative sugar transferase
+1372056..1372691	-	211	112360745	-	Cj1435c	-	-	putative phosphatase
+1372695..1373867	-	390	112360746	-	Cj1436c	-	-	aminotransferase
+1373917..1375020	-	367	112360747	-	Cj1437c	-	-	aminotransferase
+1375007..1377337	-	776	112360748	-	Cj1438c	-	-	putative sugar transferase
+1377339..1378445	-	368	112360749	glf	Cj1439c	-	-	UDP-galactopyranose mutase
+1378483..1379706	-	407	112360750	-	Cj1440c	-	-	putative sugar transferase
+1379716..1380897	-	393	112360751	kfiD	Cj1441c	-	-	UDP-glucose 6-dehydrogenase
+1380894..1382528	-	544	112360752	-	Cj1442c	-	-	putative sugar transferase
+1382528..1383475	-	315	112360753	kpsF	Cj1443c	-	-	D-arabinose 5-phosphate isomerase
+1383486..1385144	-	552	112360754	kpsD	Cj1444c	-	-	capsule polysaccharide export system periplasmic protein
+1385146..1386264	-	372	112360755	kpsE	Cj1445c	-	-	capsule polysaccharide export system inner membrane protein
+1386264..1386926	-	220	112360756	kpsT	Cj1447c	-	-	capsule polysaccharide export ATP-binding protein
+1386923..1387705	-	260	112360757	kpsM	Cj1448c	-	-	capsule polysaccharide export system inner membrane protein
+1387777..1388184	-	135	112360758	-	Cj1449c	-	-	hypothetical protein Cj1449c
+1388259..1388822	+	187	112360759	-	Cj1450	-	-	putative ATP/GTP-binding protein
+1388859..1389548	+	229	112360760	dut	Cj1451	-	-	dUTPase
+1389550..1390263	+	237	112360761	-	Cj1452	-	-	putative integral membrane protein
+1390246..1391211	-	321	112360762	tilS	Cj1453c	-	-	putative tRNA(Ile)-lysidine synthase
+1391201..1392520	-	439	112360763	-	Cj1454c	-	-	putative radical SAM domain family protein
+1392594..1393691	+	365	112360764	prfB	Cj1455	-	-	peptide chain release factor 2
+1393849..1394163	-	104	112360765	-	Cj1456c	-	-	putative periplasmic protein
+1394285..1395403	-	372	112360766	truD	Cj1457c	-	-	tRNA pseudouridine synthase D
+1395372..1396193	-	273	112360767	thiL	Cj1458c	-	-	putative thiamin-monophosphate kinase
+1396280..1397353	+	357	112360768	-	Cj1459	-	-	hypothetical protein Cj1459
+1397350..1397733	+	127	112360769	-	Cj1460	-	-	hypothetical protein Cj1460
+1397726..1398409	+	227	112360770	-	Cj1461	-	-	putative DNA methylase
+1398468..1399514	+	348	112360771	flgI	Cj1462	-	-	flagellar P-ring protein
+1399514..1399855	+	113	112360772	flgJ	Cj1463	-	-	hypothetical protein Cj1463
+1399918..1400115	+	65	112360773	flgM	Cj1464	-	-	hypothetical protein Cj1464
+1400158..1400592	+	144	112360774	-	Cj1465	-	-	hypothetical protein Cj1465
+1400602..1402428	+	608	112360775	flgK	Cj1466	-	-	putative flagellar hook-associated protein
+1402445..1403209	+	254	112360776	-	Cj1467	-	-	hypothetical protein Cj1467
+1403213..1403977	+	254	112360777	-	Cj1468	-	-	putative integral membrane protein
+1405147..1406706	-	519	112360778	ctsE	Cj1471c	-	-	putative type II protein secretion system E protein
+1406696..1407283	-	195	112360779	-	Cj1472c	-	-	putative membrane protein
+1407287..1407895	-	202	112360780	ctsP	Cj1473c	-	-	putative ATP/GTP-binding protein
+1407888..1409306	-	472	112360781	ctsD	Cj1474c	-	-	putative type II protein secretion system D protein
+1409278..1409595	-	105	112360782	ctsR	Cj1475c	-	-	hypothetical protein Cj1475c
+1409619..1413179	-	1186	112360783	-	Cj1476c	-	-	pyruvate-flavodoxin oxidoreductase
+1413272..1413913	-	213	112360784	-	Cj1477c	-	-	putative hydrolase
+1413913..1414872	-	319	112360785	cadF	Cj1478c	-	-	outer membrane fibronectin-binding protein
+1414997..1415386	-	129	112360786	rpsI	Cj1479c	-	-	30S ribosomal protein S9
+1415389..1415814	-	141	112360787	rplM	Cj1480c	-	-	50S ribosomal protein L13
+1415898..1418663	-	921	112360788	-	Cj1481c	-	-	putative helicase
+1418660..1421026	-	788	112360789	-	Cj1482c	-	-	hypothetical protein Cj1482c
+1421023..1421544	-	173	112360790	-	Cj1483c	-	-	putative lipoprotein
+1421531..1422133	-	200	112360791	-	Cj1484c	-	-	putative membrane protein
+1422130..1422231	-	33	112360792	-	Cj1485c	-	-	putative periplasmic protein
+1422228..1422449	-	73	112360793	-	Cj1486c	-	-	putative periplasmic protein
+1422446..1423309	-	287	112360794	ccoP	Cj1487c	-	-	cb-type cytochrome C oxidase subunit III
+1423309..1423572	-	87	112360795	ccoQ	Cj1488c	-	-	cb-type cytochrome C oxidase subunit IV
+1423577..1424242	-	221	112360796	ccoO	Cj1489c	-	-	cb-type cytochrome C oxidase subunit II
+1424255..1425721	-	488	112360797	ccoN	Cj1490c	-	-	cb-type cytochrome C oxidase subunit I
+1425847..1426527	-	226	112360798	-	Cj1491c	-	-	putative two-component regulator
+1426530..1427741	-	403	112360799	-	Cj1492c	-	-	putative two-component sensor
+1427738..1428397	-	219	112360800	-	Cj1493c	-	-	putative integral membrane protein
+1428394..1429512	-	372	112360801	carA	Cj1494c	-	-	carbamoyl-phosphate synthase small chain
+1429512..1430063	-	183	112360802	-	Cj1495c	-	-	conserved hypothetical protein Cj1495c
+1430156..1430674	-	172	112360803	-	Cj1496c	-	-	putative periplasmic protein
+1430667..1431095	-	142	112360804	-	Cj1497c	-	-	hypothetical protein Cj1497c
+1431092..1432342	-	416	112360805	purA	Cj1498c	-	-	adenylosuccinate synthetase
+1432607..1433815	+	402	112360806	-	Cj1500	-	-	putative integral membrane protein
+1433819..1434046	+	75	112360807	-	Cj1501	-	-	conserved hypothetical protein Cj1501
+1434062..1435549	-	495	112360808	putP	Cj1502c	-	-	putative sodium/proline symporter
+1435549..1439037	-	1162	112360809	putA	Cj1503c	-	-	putative proline dehydrogenase/delta-1-pyrroline-5-carboxylate dehydrogenase
+1439168..1440094	-	308	112360810	selD	Cj1504c	-	-	putative selenide,water dikinase
+1440200..1440772	-	190	112360811	-	Cj1505c	-	-	putative two-component response regulator (SirA-like protein)
+1440883..1442985	-	700	112360812	-	Cj1506c	-	-	putative MCP-type signal transduction protein
+1443095..1443832	-	245	112360813	-	Cj1507c	-	-	putative regulatory protein
+1443825..1444607	-	260	112360814	fdhD	Cj1508c	-	-	FdhD protein
+1444774..1445706	-	310	112360815	fdhC	Cj1509c	-	-	putative formate dehydrogenase, cytochrom B subunit
+1445703..1446344	-	213	112360816	fdhB	Cj1510c	-	-	putative formate dehydrogenase iron-sulfur subunit
+1446341..1449145	-	934	112360817	fdhA	Cj1511c	-	-	putative formate dehydrogenase large subunit (Selenocysteine containing)
+1449145..1449336	-	63	112360818	-	Cj1513c	-	-	possible periplasmic protein
+1449311..1450024	-	237	112360819	-	Cj1514c	-	-	hypothetical protein Cj1514c
+1450328..1451476	-	382	112360820	-	Cj1515c	-	-	putative decarboxylase
+1451600..1453141	+	513	112360821	-	Cj1516	-	-	putative periplasmic oxidoreductase
+1453143..1453364	+	73	112360822	moaD	Cj1517	-	-	putative molybdopterin converting factor,subunit 1
+1453365..1453811	+	148	112360823	moaE	Cj1518	-	-	putative molybdopterin converting factor,subunit 2
+1453815..1455005	+	396	112360824	moeA2	Cj1519	-	-	putative molybdopterin biosynthesis protein
+1455569..1456000	-	143	112360825	-	Cj1521c	-	-	putative CRISPR-associated protein
+1455993..1456883	-	296	112360826	-	Cj1522c	-	-	putative CRISPR-associated protein
+1456880..1459834	-	984	112360827	-	Cj1523c	-	-	putative CRISPR-associated protein
+1461504..1462493	-	329	112360828	purM	Cj1529c	-	-	phosphoribosylformylglycinamidine cyclo-ligase
+1462554..1463159	+	201	112360829	coaE	Cj1530	-	-	putative dephospho-CoA kinase
+1463156..1463905	+	249	112360830	dapF	Cj1531	-	-	diaminopimelate epimerase
+1463880..1464611	+	243	112360831	-	Cj1532	-	-	putative periplasmic protein
+1464608..1465645	-	345	112360832	-	Cj1533c	-	-	putative helix-turn-helix containing protein
+1465710..1466159	-	149	112360833	-	Cj1534c	-	-	putative bacterioferritin
+1466289..1467509	-	406	112360834	pgi	Cj1535c	-	-	putative glucose-6-phosphate isomerase
+1467503..1468327	-	274	112360835	galU	Cj1536c	-	-	UTP--glucose-1-phosphate uridylyltransferase
+1468409..1470382	-	657	112360836	acs	Cj1537c	-	-	acetyl-coenzyme A synthetase
+1470520..1471515	-	331	112360837	-	Cj1538c	-	-	putative anion-uptake ABC-transport system ATP-binding protein
+1471517..1472236	-	239	112360838	-	Cj1539c	-	-	putative anion-uptake ABC-transport system permease protein
+1472282..1473091	+	269	112360839	-	Cj1540	-	-	putative periplasmic protein
+1473233..1474000	+	255	112360840	-	Cj1541	-	-	conserved hypothetical protein Cj1541
+1474010..1474750	+	246	112360841	-	Cj1542	-	-	putative allophanate hydrolase subunit 1
+1474731..1475696	+	321	112360842	-	Cj1543	-	-	putative allophanate hydrolase subunit 2
+1475693..1476589	-	298	112360843	-	Cj1544c	-	-	putative integral membrane protein
+1476622..1477200	-	192	112360844	-	Cj1545c	-	-	MdaB protein homolog
+1477300..1477647	+	115	112360845	-	Cj1546	-	-	putative transcriptional regulator
+1477635..1478084	+	149	112360846	-	Cj1547	-	-	Blc protein homolog
+1478086..1479162	-	358	112360847	-	Cj1548c	-	-	putative NADP-dependent alcohol dehydrogenase
+1479390..1482485	-	1031	112360848	hsdR	Cj1549c	-	-	putative type I restriction enzyme R protein
+1482488..1484254	-	588	112360849	rloH	Cj1550c	-	-	putative ATP/GTP-binding protein
+1484265..1485407	-	380	112360850	hsdS	Cj1551c	-	-	putative type I restriction enzyme S protein
+1485626..1487092	-	488	112360851	mloB	Cj1552c	-	-	conserved hypothetical protein Cj1552c
+1487089..1488591	-	500	112360852	hsdM	Cj1553c	-	-	putative type I restriction enzyme M protein
+1488961..1489596	-	211	112360853	-	Cj1555c	-	-	hypothetical protein Cj1555c
+1489789..1490121	+	110	112360854	-	Cj1556	-	-	putative transcriptional regulator
+1490206..1490379	+	57	112360855	-	Cj1558	-	-	putative membrane protein
+1490328..1491152	+	274	112360856	-	Cj1560	-	-	putative permease
+1491162..1491341	+	59	112360857	-	Cj1561	-	-	putative transcriptional regulator
+1491332..1491484	+	50	112360858	-	Cj1562	-	-	hypothetical protein Cj1562
+1491492..1491923	-	143	112360859	-	Cj1563c	-	-	putative transcriptional regulator
+1492003..1493991	+	662	112360860	-	Cj1564	-	-	putative methyl-accepting chemotaxis signal transduction protein
+1494034..1496400	-	788	112360861	pflA	Cj1565c	-	-	paralysed flagellum protein
+1496422..1497810	-	462	112360862	nuoN	Cj1566c	-	-	NADH dehydrogenase I chain N
+1497800..1499287	-	495	112360863	nuoM	Cj1567c	-	-	NADH dehydrogenase I chain M
+1499289..1501079	-	596	112360864	nuoL	Cj1568c	-	-	NADH dehydrogenase I chain L
+1501081..1501377	-	98	112360865	nuoK	Cj1569c	-	-	NADH dehydrogenase I chain K
+1501374..1501892	-	172	112360866	nuoJ	Cj1570c	-	-	NADH dehydrogenase I chain J
+1501889..1502530	-	213	112360867	nuoI	Cj1571c	-	-	NADH dehydrogenase I chain I
+1502540..1503538	-	332	112360868	nuoH	Cj1572c	-	-	NADH dehydrogenase I chain H
+1503531..1505993	-	820	112360869	nuoG	Cj1573c	-	-	putative NADH dehydrogenase I chain G
+1505990..1506682	-	230	112360870	-	Cj1574c	-	-	hypothetical protein Cj1574c
+1506679..1506906	-	75	112360871	-	Cj1575c	-	-	hypothetical protein Cj1575c
+1506903..1508129	-	408	112360872	nuoD	Cj1576c	-	-	NADH dehydrogenase I chain D
+1508131..1508925	-	264	112360873	nuoC	Cj1577c	-	-	NADH dehydrogenase I chain C
+1508922..1509425	-	167	112360874	nuoB	Cj1578c	-	-	NADH dehydrogenase I chain B
+1509407..1509796	-	129	112360875	nuoA	Cj1579c	-	-	NADH dehydrogenase I chain A
+1509909..1510574	-	221	112360876	-	Cj1580c	-	-	putative peptide ABC-transport system ATP-binding protein
+1510567..1511277	-	236	112360877	-	Cj1581c	-	-	putative peptide ABC-transport system ATP-binding protein
+1511274..1512068	-	264	112360878	-	Cj1582c	-	-	putative peptide ABC-transport system permease protein
+1512055..1512999	-	314	112360879	-	Cj1583c	-	-	putative peptide ABC-transport system permease protein
+1512999..1514534	-	511	112360880	-	Cj1584c	-	-	putative peptide ABC-transport system periplasmic peptide-binding protein
+1514644..1517415	-	923	112360881	-	Cj1585c	-	-	putative oxidoreductase
+1517567..1517989	+	140	112360882	cgb	Cj1586	-	-	single domain haemoglobin
+1518009..1519640	-	543	112360883	-	Cj1587c	-	-	putative ABC transporter
+1519690..1520985	-	431	112360884	-	Cj1588c	-	-	putative MFS (Major Facilitator Superfamily) transport protein
+1521072..1521869	+	265	112360885	-	Cj1589	-	-	conserved hypothetical protein Cj1189
+1521957..1522175	+	72	112360886	infA	Cj1590	-	-	translation initiation factor IF-1
+1522347..1522460	+	37	112360887	rpmJ	Cj1591	-	-	50S ribosomal protein L36
+1522463..1522828	+	121	112360888	rpsM	Cj1592	-	-	30S ribosomal protein S13
+1522838..1523230	+	130	112360889	rpsK	Cj1593	-	-	30S ribosomal protein S11
+1523258..1523884	+	208	112360890	rpsD	Cj1594	-	-	30S ribosomal protein S4
+1523897..1524910	+	337	112360891	rpoA	Cj1595	-	-	DNA-directed RNA polymerase alpha chain
+1524914..1525267	+	117	112360892	rplQ	Cj1596	-	-	50S ribosomal protein L17
+1525440..1526339	+	299	112360893	hisG	Cj1597	-	-	ATP phosphoribosyltransferase
+1526347..1527633	+	428	112360894	hisD	Cj1598	-	-	histidinol dehydrogenase
+1527630..1528688	+	352	112360895	hisB	Cj1599	-	-	imidazoleglycerol-phosphate dehydratase/histidinol-phosphatase
+1528685..1529272	+	195	112360896	hisH	Cj1600	-	-	imidazole glycerol phosphate synthase subunit
+1529269..1530000	+	243	112360897	hisA	Cj1601	-	-	phosphoribosylformimino-5-aminoimidazole carboxamide ribotide isomerase
+1529985..1530941	+	318	112360898	-	Cj1602	-	-	conserved hypothetical protein Cj1602
+1530942..1531709	+	255	112360899	hisF	Cj1603	-	-	imidazole glycerol phosphate synthase subunit
+1531711..1532334	+	207	112360900	hisI	Cj1604	-	-	phosphoribosyl-AMP cyclohydrolase/ phosphoribosyl-ATP pyrophosphohydrolase
+1532359..1533519	-	386	112360901	dapD	Cj1605c	-	-	putative 2,3,4,5-tetrahydropyridine-2-carboxylate N-succinyltransferase
+1533545..1534651	-	368	112360902	mrp	Cj1606c	-	-	putative ATP/GTP-binding protein (Mrp protein homolog)
+1534774..1535889	+	371	112360903	ispDF	Cj1607	-	-	2-C-methyl-D-erythritol 4-phosphate cytidylyltransferase/ 2-C-methyl-D-erythritol 2,4-cyclodiphosphate synthase
+1535886..1536773	+	295	112360904	-	Cj1608	-	-	putative two-component regulator
+1536751..1537911	+	386	112360905	-	Cj1609	-	-	putative sulfate adenylyltransferase
+1537916..1538416	+	166	112360906	pgpA	Cj1610	-	-	putative phosphatidylglycerophosphatase
+1538495..1538758	+	87	112360907	rpsT	Cj1611	-	-	30S ribosomal protein S20
+1538777..1539844	+	355	112360908	prfA	Cj1612	-	-	peptide chain release factor 1
+1539858..1540613	-	251	112360909	-	Cj1613c	-	-	putative pyridoxamine 5'-phosphate oxidase
+1540807..1542936	+	709	112360910	chuA	Cj1614	-	-	haemin uptake system outer membrane receptor
+1542911..1543897	+	328	112360911	chuB	Cj1615	-	-	putative haemin uptake system permease protein
+1543897..1544673	+	258	112360912	chuC	Cj1616	-	-	putative haemin uptake system ATP-binding protein
+1544670..1545476	+	268	112360913	chuD	Cj1617	-	-	putative haemin uptake system periplasmic haemin-binding protein
+1545473..1546390	-	305	112360914	-	Cj1618c	-	-	putative radical SAM domain protein
+1546496..1547755	+	419	112360915	kgtP	Cj1619	-	-	alpha-ketoglutarate permease
+1547741..1548760	-	339	112360916	mutY	Cj1620c	-	-	A/G-specific adenine glycosylase
+1548833..1549585	+	250	112360917	-	Cj1621	-	-	putative periplasmic protein
+1550235..1551245	+	336	112360918	ribD	Cj1622	-	-	riboflavin-specific deaminase/reductase
+1551226..1551747	+	173	112360919	-	Cj1623	-	-	putative membrane protein
+1551755..1553119	-	454	112360920	sdaA	Cj1624c	-	-	L-serine dehydratase
+1553134..1554384	-	416	112360921	sdaC	Cj1625c	-	-	amino acid transporter
+1554644..1555060	-	138	112360922	-	Cj1626c	-	-	putative periplasmic protein
+1555124..1555867	-	247	112360923	-	Cj1627c	-	-	hypothetical protein Cj1627c
+1556025..1556450	+	141	112360924	exbB2	Cj1628	-	-	putative exbB/tolQ family transport protein
+1556443..1556832	+	129	112360925	exbD2	Cj1629	-	-	putative exbD/tolR family transport protein
+1556829..1557512	+	227	112360926	tonB2	Cj1630	-	-	putative TonB transport protein
+1557525..1558394	-	289	112360927	-	Cj1631c	-	-	conserved hypothetical protein Cj1631c
+1558398..1558559	-	53	112360928	-	Cj1632c	-	-	putative periplasmic protein
+1558654..1559637	+	327	112360929	-	Cj1633	-	-	putative ATP-binding protein
+1559723..1560811	-	362	112360930	aroC	Cj1634c	-	-	chorismate synthase
+1560811..1561485	-	224	112360931	rnc	Cj1635c	-	-	ribonuclease III
+1561472..1561912	-	146	112360932	rnhA	Cj1636c	-	-	ribonuclease HI
+1561899..1562885	-	328	112360933	-	Cj1637c	-	-	putative periplasmic protein
+1562955..1564772	+	605	112360934	dnaG	Cj1638	-	-	DNA primase
+1564854..1565126	+	90	112360935	-	Cj1639	-	-	NifU protein homolog
+1565113..1565664	+	183	112360936	-	Cj1640	-	-	hypothetical protein Cj1640
+1565648..1566931	+	427	112360937	murE	Cj1641	-	-	UDP-N-acetylmuramoylalanyl-D-glutamate--2,6-diami nopimelate ligase
+1566935..1567246	+	103	112360938	-	Cj1642	-	-	conserved hypothetical protein Cj1642
+1567243..1568337	+	364	112360939	-	Cj1643	-	-	putative periplasmic protein
+1568334..1569179	+	281	112360940	ispA	Cj1644	-	-	geranyltranstransferase
+1569190..1571088	+	632	112360941	tkt	Cj1645	-	-	transketolase
+1571090..1572199	+	369	112360942	iamB	Cj1646	-	-	putative ABC transport system permease
+1572200..1572922	+	240	112360943	iamA	Cj1647	-	-	putative ABC transport system ATP-binding protein
+1572925..1573815	+	296	112360944	-	Cj1648	-	-	putative ABC transport system periplasmic substrate-binding protein
+1573815..1574414	+	199	112360945	-	Cj1649	-	-	putative lipoprotein
+1574470..1574970	+	166	112360946	-	Cj1650	-	-	hypothetical protein Cj1650
+1575339..1576097	-	252	112360947	map	Cj1651c	-	-	methionine aminopeptidase
+1576099..1576851	-	250	112360948	murI	Cj1652c	-	-	glutamate racemase
+1576853..1577311	-	152	112360949	-	Cj1653c	-	-	putative lipoprotein
+1577320..1578489	-	389	112360950	nhaA2	Cj1654c	-	-	Na(+)/H(+) antiporter
+1578486..1579634	-	382	112360951	nhaA1	Cj1655c	-	-	Na(+)/H(+) antiporter
+1579777..1579959	-	60	112360952	-	Cj1656c	-	-	hypothetical protein Cj1656c
+1580836..1582926	+	696	112360953	-	Cj1658	-	-	putative iron permease
+1582923..1583462	+	179	112360954	p19	Cj1659	-	-	periplasmic protein p19
+1583545..1584948	+	467	112360955	-	Cj1660	-	-	putative integral membrane protein
+1584935..1586227	+	430	112360956	-	Cj1661	-	-	possible ABC transport system permease
+1586217..1587335	+	372	112360957	-	Cj1662	-	-	putative integral membrane protein
+1587332..1587985	+	217	112360958	-	Cj1663	-	-	putative ABC transport system ATP-binding protein
+1587982..1588470	+	162	112360959	-	Cj1664	-	-	putative periplasmic thiredoxin
+1588431..1588934	+	167	112360960	-	Cj1665	-	-	putative lipoprotein thiredoxin
+1588944..1589381	-	145	112360961	-	Cj1666c	-	-	putative periplasmic protein
+1589462..1589614	-	50	112360962	-	Cj1667c	-	-	RepA protein homolog
+1589680..1590096	-	138	112360963	-	Cj1668c	-	-	putative periplasmic protein
+1590752..1591600	-	282	112360964	-	Cj1669c	-	-	putative ATP-dependent DNA ligase
+1591600..1592262	-	220	112360965	cgpA	Cj1670c	-	-	putative periplasmic protein
+1592252..1592455	-	67	112360966	-	Cj1671c	-	-	hypothetical protein Cj1671c
+1592521..1593765	-	414	112360967	eno	Cj1672c	-	-	enolase
+1593765..1594796	-	343	112360968	recA	Cj1673c	-	-	recA protein
+1594902..1595762	+	286	112360969	-	Cj1674	-	-	conserved hypothetical protein Cj1674
+1595774..1596043	+	89	112360970	fliQ	Cj1675	-	-	flagellar biosynthetic protein
+1596040..1596816	+	258	112360971	murB	Cj1676	-	-	UDP-N-acetylenolpyruvoylglucosamine reductase
+1597008..1600372	+	1120	112360972	-	Cj1677	-	-	putative lipoprotein
+1600574..1602328	+	584	112360973	-	Cj1679	-	-	conserved hypothetical protein Cj1679
+1602332..1603099	-	255	112360974	-	Cj1680c	-	-	putative periplasmic protein
+1603139..1603903	-	254	112360975	cysQ	Cj1681c	-	-	CysQ protein homolog
+1603983..1605251	-	422	112360976	gltA	Cj1682c	-	-	citrate synthase
+1605366..1606541	-	391	112360977	-	Cj1684c	-	-	putative transmembrane transport protein
+1606522..1607358	-	278	112360978	bioB	Cj1685c	-	-	putative biotin synthase
+1607360..1609462	-	700	112360979	topA	Cj1686c	-	-	DNA topoisomerase I
+1609657..1610928	+	423	112360980	-	Cj1687	-	-	putative efflux protein
+1610956..1612221	-	421	112360981	secY	Cj1688c	-	-	preprotein translocase subunit
+1612221..1612613	-	130	112360982	rp10	Cj1689c	-	-	50S ribosomal protein L15
+1612618..1613061	-	147	112360983	rpsE	Cj1690c	-	-	30S ribosomal protein S5
+1613073..1613429	-	118	112360984	rplR	Cj1691c	-	-	50S ribosomal protein L18
+1613439..1613975	-	178	112360985	rplF	Cj1692c	-	-	50S ribosomal protein L6
+1614054..1614449	-	131	112360986	rpsH	Cj1693c	-	-	30S ribosomal protein S8
+1614459..1614644	-	61	112360987	rpsN	Cj1694c	-	-	30S ribosomal protein S14
+1614646..1615191	-	181	112360988	rplE	Cj1695c	-	-	50S ribosomal protein L5
+1615195..1615428	-	77	112360989	rplX	Cj1696c	-	-	50S ribosomal protein L24
+1615428..1615796	-	122	112360990	rplN	Cj1697c	-	-	50S ribosomal protein L14
+1615796..1616047	-	83	112360991	rpsQ	Cj1698c	-	-	30S ribosomal protein S17
+1616057..1616242	-	61	112360992	rpmC	Cj1699c	-	-	50S ribosomal protein L29
+1616229..1616654	-	141	112360993	rplP	Cj1700c	-	-	50S ribosomal protein L16
+1616657..1617358	-	233	112360994	rpsC	Cj1701c	-	-	30S ribosomal protein S3
+1617358..1617783	-	141	112360995	rplV	Cj1702c	-	-	50S ribosomal protein L22
+1617794..1618075	-	93	112360996	rpsS	Cj1703c	-	-	30S ribosomal protein S19
+1618077..1618907	-	276	112360997	rplB	Cj1704c	-	-	50S ribosomal protein L2
+1618909..1619190	-	93	112360998	rplW	Cj1705c	-	-	50S ribosomal protein L23
+1619193..1619807	-	204	112360999	rplD	Cj1706c	-	-	50S ribosomal protein L4
+1619804..1620379	-	191	112361000	rplC	Cj1707c	-	-	50S ribosomal protein L3
+1620389..1620700	-	103	112361001	rpsJ	Cj1708c	-	-	30S ribosomal protein S10
+1620899..1621660	-	253	112361002	-	Cj1709c	-	-	putative ribosomal pseudouridine synthase
+1621696..1623690	-	664	112361003	-	Cj1710c	-	-	putative metallo-beta-lactamase family protein
+1623659..1624459	-	266	112361004	ksgA	Cj1711c	-	-	putative dimethyladenosine transferase (16S rRNA dimethylase)
+1624541..1625077	+	178	112361005	-	Cj1712	-	-	hypothetical protein Cj1712
+1625100..1626170	+	356	112361006	-	Cj1713	-	-	putative radical SAM domain protein
+1626167..1626265	+	32	112361007	-	Cj1714	-	-	small hydrophobic protein
+1626807..1627337	+	176	112361008	-	Cj1715	-	-	putative acetyltransferase
+1627317..1627919	-	200	112361009	leuD	Cj1716c	-	-	3-isopropylmalate dehydratase small subunit
+1627921..1629333	-	470	112361010	leuC	Cj1717c	-	-	3-isopropylmalate dehydratase large subunit
+1629320..1630396	-	358	112361011	leuB	Cj1718c	-	-	3-isopropylmalate dehydrogenase
+1630393..1631928	-	511	112361012	leuA	Cj1719c	-	-	2-isopropylmalate synthase
+1632248..1632877	+	209	112361013	-	Cj1720	-	-	hypothetical protein Cj1720
+1632901..1633545	-	214	112361014	-	Cj1721c	-	-	putative outer membrane protein
+1633791..1633892	-	33	112361015	-	Cj1722c	-	-	hypothetical protein Cj1722c
+1633895..1634119	-	74	112361016	-	Cj1723c	-	-	putative periplasmic protein
+1634296..1634679	-	127	112361017	-	Cj1724c	-	-	putative GTP cyclohydrolase I
+1634839..1635438	+	199	112361018	-	Cj1725	-	-	putative periplasmic protein
+1635443..1636324	-	293	112361019	metA	Cj1726c	-	-	homoserine O-succinyltransferase
+1636407..1637678	-	423	112361020	metB	Cj1727c	-	-	putative O-acetylhomoserine (thiol)-lyase
+1637923..1638078	-	51	112361021	-	Cj1728c	-	-	small hydrophobic protein
+1638104..1640701	-	865	112361022	flgE2	Cj1729c	-	-	flagellar hook subunit protein
+1640904..1641386	-	160	112361023	ruvC	Cj1731c	-	-	crossover junction endodeoxyribonuclease

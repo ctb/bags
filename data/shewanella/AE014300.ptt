@@ -1,0 +1,152 @@
+Shewanella oneidensis MR-1 megaplasmid, complete sequence. - 1..161613
+149 proteins
+Location	Strand	Length	PID	Gene	Synonym	Code	COG	Product
+608..1489	+	293	24344697	repA	SO_A0001	-	-	plasmid replication protein RepA
+2651..2878	+	75	24344698	-	SO_A0002	-	-	type II restriction-modification system activator
+2887..3933	+	348	24344699	-	SO_A0003	-	-	type II restriction endonuclease, subtype P
+3938..5650	-	570	24344700	-	SO_A0004	-	-	type II DNA modification methyltransferase, subtype gamma
+5714..6019	-	101	24344701	-	SO_A0005	-	-	hypothetical protein
+6037..6813	-	258	112949654	-	SO_A0006	-	-	ParA family protein
+7113..7850	+	245	112949641	-	SO_A0007	-	-	conserved hypothetical protein
+7840..8559	+	239	24344704	-	SO_A0008	-	-	conserved hypothetical protein
+8573..8818	+	81	112949662	-	SO_A0009	-	-	hypothetical periplasmic protein
+8805..9323	+	172	24344706	-	SO_A0010	-	-	membrane-bound metal-dependent hydrolase
+9465..9707	+	80	24344707	-	SO_A0011	-	-	conserved hypothetical protein
+9742..9948	+	68	112949658	-	SO_A0174	-	-	hypothetical protein
+10078..11334	-	418	24344709	rulB	SO_A0012	-	-	SO_S mutagenesis protein RulB
+11335..11739	-	134	24344710	rulA	SO_A0013	-	-	SO_S mutagenesis protein RulA
+12332..12427	+	31	24344711	-	SO_A0014	-	-	hypothetical protein
+12732..12878	-	48	24344712	-	SO_A0015	-	-	hypothetical protein
+12945..15911	-	988	24344713	tnpA_TnSon_1	SO_A0016	-	-	transposase, TnpA_TnSon_1
+16075..16365	+	96	24344714	-	SO_A0017	-	-	TnSon_1 nucleotidyltransferase domain protein
+16362..16739	+	125	24344715	-	SO_A0018	-	-	TnSon_1 expressed protein of unknown function DUF86
+16733..17290	+	185	24344716	tnpR	SO_A0019	-	-	TnSon_1 resolvase, TnpR_TnSon_1
+18774..19079	+	101	24344717	higB	SO_A0022	-	-	plasmid maintenance system toxin protein HigB
+19154..19453	+	99	24344718	higA	SO_A0023	-	-	plasmid maintenance system antidote protein HigA
+19523..20682	-	386	112949661	tnpA_ISSod1_40	SO_A0025	-	-	ISSod1 transposase, TnpA_ISSod1_40
+19523..20332	-	269	24344719	-	SO_A0024	-	-	ISSod1 transposase OrfB
+20759..21067	-	102	24344724	-	SO_A0026	-	-	recombinase, resolvase family
+21138..22297	+	386	112949640	tnpA_ISSod1_41	SO_A0028	-	-	ISSod1 transposase, TnpA_ISSod1_41
+21488..22297	+	269	24344726	-	SO_A0029	-	-	ISSod1 transposase OrfB
+22368..22490	-	40	24344727	-	SO_A0030	-	-	hypothetical protein
+22779..24653	+	624	24344728	-	SO_A0031	-	-	ParB-like partition protein
+24778..25233	+	151	24344729	-	SO_A0032	-	-	conserved hypothetical protein
+25235..25723	+	162	24344730	-	SO_A0033	-	-	expressed protein
+25754..25975	+	73	24344731	-	SO_A0034	-	-	hypothetical protein
+26127..27329	-	400	24344732	tnpA_ISSod4_46	SO_A0035	-	-	ISSod4 transposase, TnpA_ISSod4_46
+27772..27996	+	74	112949648	-	SO_A0036	-	-	conserved domain protein
+28346..29505	-	386	112949633	tnpA_ISSod1_42	SO_A0038	-	-	ISSod1 transposase, TnpA_ISSod1_42
+28346..29155	-	269	24344734	-	SO_A0037	-	-	ISSod1 transposase OrfB
+29574..30668	+	364	112949657	-	SO_A0039	-	-	conserved domain protein
+30832..31083	+	83	24344840	pemI	SO_A0040	-	-	antitoxin module of toxin-antitoxin system, PemI
+31077..31394	+	105	24344841	pemK	SO_A0041	-	-	toxin module of toxin-antitoxin system,  mRNA endonuclease-like, PemK
+31539..32027	+	162	24344842	-	SO_A0042	-	-	expressed periplasmic protein
+32113..32259	-	48	24344843	-	SO_A0043	-	-	hypothetical protein
+32496..33626	+	376	24344844	-	SO_A0044	-	-	site-specific recombinase, phage integrase family
+33623..34993	+	456	112949651	-	SO_A0045	-	-	site-specific recombinase, phage integrase family
+35135..35236	-	33	24344846	-	SO_A0046	-	-	hypothetical protein
+35430..35762	-	110	112949643	-	SO_A0047	-	-	hypothetical protein
+35916..37844	-	642	24344848	-	SO_A0048	-	-	periplasmic prolyl oligopeptidase family protein
+38065..38280	-	71	112949644	-	SO_A0176	-	-	hypothetical protein
+38327..38530	-	67	112949655	-	SO_A0177	-	-	bacteriocin-like peptide
+38542..38751	-	69	112949634	-	SO_A0178	-	-	bacteriocin-like peptide
+38936..41113	-	725	24344849	-	SO_A0049	-	-	bacteriocin processing and type I transporter, ATP-binding component
+41113..42360	-	415	24344850	-	SO_A0050	-	-	bacteriocin type I transporter, HlyD family protein
+43722..44090	+	122	24345170	-	SO_A0051	-	-	expressed protein
+45061..46220	+	386	112949638	tnpA_ISSod1_43	SO_A0053	-	-	ISSod1 transposase, TnpA_ISSod1_43
+45411..46220	+	269	24345173	-	SO_A0054	-	-	ISSod1 transposase OrfB
+46611..46793	+	60	24345175	-	SO_A0056	-	-	expressed protein
+46822..47049	+	75	24345176	-	SO_A0057	-	-	hypothetical protein
+47238..47987	+	249	112949656	-	SO_A0058	-	-	hypothetical protein
+48737..49027	+	96	24345178	-	SO_A0059	-	-	expressed protein
+49031..49558	+	175	24345179	-	SO_A0060	-	-	GCN5 family acetyltransferase
+49745..50431	+	228	24345180	-	SO_A0061	-	-	plasmid stability/partitioning determinant
+50424..50783	+	119	24345181	-	SO_A0062	-	-	hypothetical protein
+50928..51485	+	185	24345182	tnpA_ISSod8_1	SO_A0063	-	-	ISSod8 transposase, TnpA_ISSod8_1
+52829..53988	+	386	112949636	tnpA_ISSod1_44	SO_A0065	-	-	ISSod1 transposase, TnpA_ISSod1_44
+53179..53988	+	269	24345184	-	SO_A0066	-	-	ISSod1 transposase OrfB
+54504..55382	-	292	24345186	-	SO_A0067	-	-	hypothetical protein
+55521..55808	-	95	24345187	-	SO_A0068	-	-	lambda repressor superfamily protein
+55805..56140	-	111	24345188	-	SO_A0069	-	-	conserved hypothetical protein
+56571..57275	-	234	24345189	-	SO_A0070	-	-	conserved hypothetical lipoprotein
+57546..57962	-	138	112949639	-	SO_A0071	-	-	HTH domain DNA binding protein
+57968..58279	-	103	24345191	-	SO_A0072	-	-	conserved hypothetical protein
+58734..59492	-	252	24345192	tnpA_ISSod6_7	SO_A0074	-	-	ISSod6 transposase, TnpA_ISSod6_7
+59873..60157	-	94	24345194	-	SO_A0076	-	-	conserved domain protein
+60346..60981	-	211	24345195	-	SO_A0077	-	-	recombinase, resolvase family
+61181..61423	+	80	24345196	-	SO_A0078	-	-	antitoxin module of toxin-antitoxin system
+61416..61715	+	99	24345197	-	SO_A0079	-	-	toxin module of the toxin-antitoxin system, RelE-like
+62110..62595	-	161	112949646	-	SO_A0080	-	-	expressed protein
+63339..64541	+	400	24345199	tnpA_ISSod4_48	SO_A0083	-	-	ISSod4 transposase, TnpA_ISSod4_48
+65042..65569	-	175	112949659	-	SO_A0180	-	-	conserved hypothetical protein
+65906..66451	-	181	24345202	tnpA_ISSod8_3	SO_A0085	-	-	ISSod8 transposase, TnpA_ISSod8_3
+66535..67125	-	196	24345203	-	SO_A0086	-	-	recombinase, resolvase family
+67295..67555	+	86	24345204	-	SO_A0087	-	-	antitoxin module of toxin-antitoxin system
+67555..67866	+	103	24345205	-	SO_A0088	-	-	toxin module of toxin-antitoxin system, RelE-like
+69314..70473	+	386	112949637	tnpA_ISSod1_46	SO_A0090	-	-	ISSod1 transposase, TnpA_ISSod1_45
+69664..70473	+	269	24345207	-	SO_A0091	-	-	ISSod1 transposase OrfB
+73136..73243	-	35	24345208	-	SO_A0094	-	-	hypothetical protein
+73412..74611	+	399	24345209	parA	SO_A0095	-	-	plasmid partition protein ParA
+74611..75705	+	364	24345210	parB	SO_A0096	-	-	plasmid partition protein ParB
+75737..76495	-	252	24345211	tnpA_ISSod6_8	SO_A0097	-	-	ISSod6 transposase, TnpA_ISSod6_8
+77039..77434	+	131	24345215	-	SO_A0098	-	-	potassium/ion transporter, voltage-gated ion channel (VIC) superfamily
+77713..79446	+	577	24345216	-	SO_A0099	-	-	periplasmic amidohydrolase family protein
+79656..81470	-	604	24345217	-	SO_A0100	-	-	periplasmic metal-dependent aminohydolase family protein
+82900..84114	+	404	112949664	tnpA_ISSod3_18	SO_A0102	-	-	ISSod3 transposase, TnpA_ISSod3_18
+84252..84377	-	41	24345219	-	SO_A0104	-	-	hypothetical protein
+84452..85009	+	185	24345220	tnpA_ISSod8_4	SO_A0105	-	-	ISSod8 transposase, TnpA_ISSod8_4
+85324..86964	+	546	24345221	-	SO_A0106	-	-	methyl-accepting chemotaxis protein
+88762..89148	+	128	24345225	-	SO_A0108	-	-	response regulator receiver domain protein
+89170..89901	+	243	24345226	-	SO_A0109	-	-	EAL domain protein
+90085..94311	+	1408	24345227	-	SO_A0110	-	-	expressed lipoprotein
+94602..98834	+	1410	24345228	-	SO_A0112	-	-	expressed lipoprotein
+99408..100436	+	342	24345232	ompA	SO_A0114	-	-	outer membrane protein OmpA
+100525..104757	+	1410	24345233	-	SO_A0115	-	-	expressed lipoprotein
+105329..105538	+	69	112949652	-	SO_A0117	-	-	transposase, OrfA
+105531..106094	+	187	24345235	-	SO_A0118	-	-	transposase, OrfB
+106554..107594	+	346	24345236	tnpA_ISSod13_3	SO_A0119	-	-	ISSod13 transposase, TnpA_ISSod13_3
+107889..108812	-	307	24345237	tnpA_ISSod12_3	SO_A0120	-	-	ISSod12 transposase, TnpA_ISSod12_3
+108788..108913	+	41	24345238	-	SO_A0121	-	-	hypothetical protein
+109108..109497	+	129	24345239	ygiW	SO_A0122	-	-	conserved hypothetical periplasmic protein YgiW
+109721..109930	-	69	24345243	-	SO_A0123	-	-	conserved domain protein
+112911..113039	-	42	24345244	-	SO_A0127	-	-	hypothetical protein
+113440..114279	+	279	24345245	-	SO_A0129	-	-	transposase, IS3 family
+114492..115694	-	400	24345246	tnpA_ISSod4_50	SO_A0130	-	-	ISSod4 transposase, TnpA_ISSod4_50
+116108..116518	-	136	112949663	-	SO_A0131	-	-	hypothetical protein
+116515..116973	-	152	24345248	-	SO_A0132	-	-	winged helix DNA-binding protein
+120598..121812	-	404	112949635	tnpA_ISSod3_19	SO_A0136	-	-	ISSod3 transposase, TnpA_ISSod3_19
+125218..126186	+	322	112949650	-	SO_A0139	-	-	hypothetical protein
+126416..128746	+	776	24345257	-	SO_A0140	-	-	expressed lipoprotein
+128755..130485	+	576	24345258	-	SO_A0141	-	-	morn variant domain protein
+130884..131924	+	346	24345259	tnpA_ISSod13_4	SO_A0142	-	-	ISSod13 transposase, TnpA_ISSod13_4
+132330..133532	+	400	24345263	tnpA_ISSod4_51	SO_A0144	-	-	ISSod4 transposase, TnpA_ISSod4_51
+133536..134180	-	214	24345264	-	SO_A0145	-	-	ISSod1 transposase OrfB
+134811..135071	+	86	112949647	-	SO_A0182	-	-	hypothetical protein
+135339..135476	+	45	24345266	-	SO_A0147	-	-	hypothetical protein
+135478..135732	+	84	112949632	-	SO_A0183	-	-	hypothetical protein
+135800..136192	+	130	112949649	-	SO_A0184	-	-	conserved hypothetical protein
+135887..135997	-	36	24345267	-	SO_A0148	-	-	hypothetical protein
+136564..137412	+	282	24345268	-	SO_A0149	-	-	metallo-beta-lactamase superfamily protein
+137525..138223	+	232	112949645	-	SO_A0150	-	-	conserved hypothetical lipoprotein
+138290..139330	-	346	24345270	tnpA_ISSod13_5	SO_A0151	-	-	ISSod13 transposase, TnpA_ISSod13_5
+139838..140092	-	84	112949642	-	SO_A0185	-	-	transcriptional regulator
+140089..140268	-	59	24345271	-	SO_A0152	-	-	conserved hypothetical protein
+140488..143625	-	1045	24345272	-	SO_A0153	-	-	heavy metal efflux two-channel pump, HME family
+143635..145176	-	513	112949653	-	SO_A0154	-	-	heavy metal efflux membrane fusion protein HME family
+145198..145458	-	86	24345274	-	SO_A0155	-	-	heavy metal efflux system ATPase, P-ATPase superfamily
+145735..146208	-	157	24345278	-	SO_A0156	-	-	hypothetical protein
+146282..146737	-	151	24345279	-	SO_A0157	-	-	hypothetical periplasmic protein
+146804..147193	-	129	112949660	-	SO_A0158	-	-	hypothetical periplasmic protein
+147492..147818	-	108	24345281	-	SO_A0159	-	-	multidrug efflux transporter, DMT superfamily
+148058..148897	-	279	24345282	-	SO_A0160	-	-	expressed protein
+148985..150115	-	376	24345283	-	SO_A0161	-	-	zinc-containing alcohol dehydrogenase
+150372..151130	-	252	24345284	tnpA_ISSod6_10	SO_A0162	-	-	ISSod6 transposase, TnpA_ISSod6_10
+152606..153757	-	383	24345285	-	SO_A0164	-	-	iron-containing alcohol dehydrogenase
+154093..154962	+	289	24345286	-	SO_A0165	-	-	transcriptional regulator, LysR family
+155302..158268	-	988	24345287	tnpA_TnSon_2	SO_A0167	-	-	TnSon_2 transposase, TnpA_TnSon_2
+158432..158722	+	96	24345292	-	SO_A0168	-	-	TnSon_2 nucleotidyltransferase domain protein
+158719..159096	+	125	24345293	-	SO_A0169	-	-	TnSon_2 expressed protein of unknown function DUF86
+159090..159647	+	185	24345294	tnpR_TnSon_2	SO_A0170	-	-	TnSon_2 resolvase, TnpR_TnSon_2
+159920..160177	+	85	24345295	-	SO_A0171	-	-	hypothetical periplasmic protein
+160178..160804	-	208	24345296	-	SO_A0172	-	-	recombinase, resolvase family
+160979..161245	-	88	24345297	-	SO_A0173	-	-	expressed protein

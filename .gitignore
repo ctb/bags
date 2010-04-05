@@ -1,0 +1,4 @@
+*.pureseq
+*.seqlen
+*~
+*.pyc
