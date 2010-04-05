@@ -3,6 +3,7 @@ import sys
 import os
 import optparse
 from glob import glob
+from pygr import cnestedlist
 from pygr.seqdb import SequenceFileDB
 from bags.read_ptt import ptt_parser
 from bags.annotations import BagsAnnotationMaker
@@ -25,6 +26,10 @@ genome_output = os.path.realpath(genome_output)
 anno_output = os.path.dirname(genome_files[0])
 anno_output = os.path.join(anno_output, nickname + '.annot')
 anno_output = os.path.realpath(anno_output)
+
+map_output = os.path.dirname(genome_files[0])
+map_output = os.path.join(map_output, nickname + '.genemap')
+map_output = os.path.realpath(map_output)
 
 for test_file in genome_files:
    if not test_file.endswith('.fna'):
@@ -105,3 +110,30 @@ for filename, sequence_name in zip(genome_files, sequence_names):
 anno_maker.close()
 
 annodb = anno_maker.get_annodb(genome)
+
+###
+
+# build an NLMSA map
+
+nlmsa = cnestedlist.NLMSA(map_output, 'w', pairwiseMode=True)
+for v in annodb.itervalues():
+    nlmsa.addAnnotation(v)
+nlmsa.build(saveSeqDict=False)
+
+###
+
+print 'Saving to worldbase.Bio.bags.%s.genome|genes|gene_map' % nickname
+
+# now save into worldbase as 'Bio.bags.<nickname>.genome|genes|gene_map'
+from pygr import worldbase
+
+genome.__doc__ = 'bar'
+annodb.__doc__ = 'foo'
+nlmsa.__doc__ = 'baz'
+
+bags_path = getattr(worldbase.Bio.bags, nickname)
+bags_path.genome = genome
+bags_path.genes = annodb
+bags_path.gene_map = nlmsa
+
+worldbase.commit()

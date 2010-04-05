@@ -6,7 +6,7 @@ def ptt_parser(ptt_fp):
     Parse PTT annotation files from NCBI.
     """
     for line in itertools.islice(ptt_fp, 3, None):
-        line = line.split('\t')
+        line = line.strip().split('\t')
         coords, strand, _, PID, gene, syn, code, cog, product = line
 
         start, stop = coords.split('..')

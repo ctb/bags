@@ -1,0 +1,18 @@
+#! /usr/bin/env python
+import optparse
+from pygr import worldbase
+
+parser = optparse.OptionParser()
+parser.add_option('-v', '--verbose', dest='verbose', action='store_true',
+			help='turn on verbose output', default=False)
+parser.add_option('--debug', dest='debug', action='store_true',
+			help='turn on debug output', default=False)
+
+(options, args) = parser.parse_args()
+
+nickname = args[0]
+
+bags_path = getattr(worldbase.Bio.bags, nickname)
+genome = bags_path.genome()
+genes = bags_path.genes()
+gene_map = bags_path.gene_map()
