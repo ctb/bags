@@ -18,9 +18,13 @@ parser.add_option('--debug', dest='debug', action='store_true',
 nickname = args[0]
 genome_files = args[1:]
 
-output = os.path.dirname(genome_files[0])
-output = os.path.join(output, nickname + '.fa')
-output = os.path.realpath(output)
+genome_output = os.path.dirname(genome_files[0])
+genome_output = os.path.join(genome_output, nickname + '.fa')
+genome_output = os.path.realpath(genome_output)
+
+anno_output = os.path.dirname(genome_files[0])
+anno_output = os.path.join(anno_output, nickname + '.annot')
+anno_output = os.path.realpath(anno_output)
 
 for test_file in genome_files:
    if not test_file.endswith('.fna'):
@@ -30,21 +34,21 @@ for test_file in genome_files:
 if options.verbose:
    print "Loading genome as '%s'..." % nickname
    print '...from files %s' % ",".join(genome_files)
-   print '...and saving into %s' % output
+   print '...and saving into %s' % genome_output
 
 ###
 
 # remove cached seqdb files
 if options.verbose:
-   print 'Removing %s .pureseq/.seqlen cache files' % output
+   print 'Removing %s .pureseq/.seqlen cache files' % genome_output
    
 try:
-   os.unlink(output + '.pureseq')
+   os.unlink(genome_output + '.pureseq')
 except OSError:
    pass
 
 try:
-   os.unlink(output + '.seqlen')
+   os.unlink(genome_output + '.seqlen')
 except OSError:
    pass
 
@@ -54,7 +58,7 @@ except OSError:
 # files.  Here, read them all in and concatenate into a single genome
 # file for pygr purposes.
 
-output_fp = open(output, 'w')
+output_fp = open(genome_output, 'w')
 sequence_names = []
 
 for filename in genome_files:
@@ -71,21 +75,20 @@ for filename in genome_files:
 
    if options.verbose:
       print 'Read "%s" from file %s;'  % (fasta_name, filename,)
-      print '...added to %s' % output
+      print '...added to %s' % genome_output
 
 output_fp.close()
 
-genome_file = output
-genome = SequenceFileDB(genome_file)
+genome = SequenceFileDB(genome_output)
 
-# @CTB warn user not to delete or move 'genome_file'
+# @CTB warn user not to delete or move 'genome_output'
 
 ###
 
 # Now go find the associated annotation files...
-anno_maker = BagsAnnotationMaker('foo.db')
+anno_maker = BagsAnnotationMaker(anno_output)
 
-for filename in genome_files:
+for filename, sequence_name in zip(genome_files, sequence_names):
    ptt_file = filename.rsplit('.', 1)[0] + '.ptt'
    if not os.path.exists(ptt_file):
       print 'ERROR: cannot find associated ptt annotation file %s' % ptt_file
@@ -94,7 +97,7 @@ for filename in genome_files:
    for n, line in enumerate(ptt_parser(open(ptt_file))):
       if line.gene == '-':
          line.gene = line.synonym
-      anno_maker.add(line, 'foo')
+      anno_maker.add(line, sequence_name)
 
    if options.verbose:
       print 'read %d genes from PTT file %s' % (n, ptt_file)
