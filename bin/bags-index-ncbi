@@ -4,6 +4,8 @@ import os
 import optparse
 from glob import glob
 from pygr.seqdb import SequenceFileDB
+from bags.read_ptt import ptt_parser
+from bags.annotations import BagsAnnotationMaker
 
 parser = optparse.OptionParser()
 parser.add_option('-v', '--verbose', dest='verbose', action='store_true',
@@ -68,7 +70,8 @@ for filename in genome_files:
    sequence_names.append(fasta_name)
 
    if options.verbose:
-      print 'Read "%s" from file %s and saved.' % (fasta_name, filename,)
+      print 'Read "%s" from file %s;'  % (fasta_name, filename,)
+      print '...added to %s' % output
 
 output_fp.close()
 
@@ -80,8 +83,22 @@ genome = SequenceFileDB(genome_file)
 ###
 
 # Now go find the associated annotation files...
+anno_maker = BagsAnnotationMaker('foo.db')
+
 for filename in genome_files:
    ptt_file = filename.rsplit('.', 1)[0] + '.ptt'
    if not os.path.exists(ptt_file):
       print 'ERROR: cannot find associated ptt annotation file %s' % ptt_file
       sys.exit(-1)
+
+   for n, line in enumerate(ptt_parser(open(ptt_file))):
+      if line.gene == '-':
+         line.gene = line.synonym
+      anno_maker.add(line, 'foo')
+
+   if options.verbose:
+      print 'read %d genes from PTT file %s' % (n, ptt_file)
+
+anno_maker.close()
+
+annodb = anno_maker.get_annodb(genome)
