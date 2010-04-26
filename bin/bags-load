@@ -15,4 +15,5 @@ nickname = args[0]
 bags_path = getattr(worldbase.Bio.bags, nickname)
 genome = bags_path.genome()
 genes = bags_path.genes()
+intergenic = bags_path.intergenic()
 gene_map = bags_path.gene_map()

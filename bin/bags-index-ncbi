@@ -39,6 +39,10 @@ map_output = os.path.dirname(genome_files[0])
 map_output = os.path.join(map_output, nickname + '.genemap')
 map_output = os.path.realpath(map_output)
 
+ig_map_output = os.path.dirname(genome_files[0])
+ig_map_output = os.path.join(ig_map_output, nickname + '.ig_map')
+ig_map_output = os.path.realpath(ig_map_output)
+
 for test_file in genome_files:
    if not test_file.endswith('.fna'):
       print "WARNING, %s doesn't look like an NCBI genome file: it doesn't end in .fna!" % test_file
@@ -107,10 +111,20 @@ for filename, sequence_name in zip(genome_files, sequence_names):
       print 'ERROR: cannot find associated ptt annotation file %s' % ptt_file
       sys.exit(-1)
 
+   previous_id, previous_gene, previous_stop = '', '*none*', 0
    for n, line in enumerate(ptt_parser(open(ptt_file))):
       if line.gene == '-':
          line.gene = line.synonym
-      anno_maker.add(line, sequence_name)
+      anno_maker.add_gene(line, sequence_name)
+
+      if line.start - previous_stop > 0:
+         ig_name = ";".join((previous_gene, line.gene))
+         anno_maker.add_ig(previous_id, previous_stop,
+                           line.synonym, line.start, ig_name, sequence_name)
+
+      previous_id = line.synonym
+      previous_stop = line.stop
+      previous_gene = line.gene
 
    if options.verbose:
       print 'read %d genes from PTT file %s' % (n, ptt_file)
@@ -118,30 +132,37 @@ for filename, sequence_name in zip(genome_files, sequence_names):
 anno_maker.close()
 
 annodb = anno_maker.get_annodb(genome)
+annodb_ig = anno_maker.get_ig_annodb(genome)
 
 ###
 
-# build an NLMSA map
+# build an NLMSA map for the genes + intergenic region
 
 nlmsa = cnestedlist.NLMSA(map_output, 'w', pairwiseMode=True)
 for v in annodb.itervalues():
     nlmsa.addAnnotation(v)
+
+for v in annodb_ig.itervalues():
+   nlmsa.addAnnotation(v)
+   
 nlmsa.build(saveSeqDict=False)
 
 ###
 
-print 'Saving to worldbase.Bio.bags.%s.genome|genes|gene_map' % nickname
+print 'Saving to worldbase.Bio.bags.%s.genome|genes|intergenic|gene_map' % nickname
 
-# now save into worldbase as 'Bio.bags.<nickname>.genome|genes|gene_map'
+# now save into worldbase as 'Bio.bags.<nickname>.genome|genes|intergenic|gene_map'
 from pygr import worldbase
 
 genome.__doc__ = 'bar'
 annodb.__doc__ = 'foo'
 nlmsa.__doc__ = 'baz'
+annodb_ig.__doc__ = 'bif'
 
 bags_path = getattr(worldbase.Bio.bags, nickname)
 bags_path.genome = genome
 bags_path.genes = annodb
+bags_path.intergenic = annodb_ig
 bags_path.gene_map = nlmsa
 
 worldbase.commit()
