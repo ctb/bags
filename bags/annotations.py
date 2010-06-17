@@ -4,7 +4,7 @@ sqlite = sqlgraph.import_sqlite()
 
 CREATE_SCHEMA = '''CREATE TABLE annotations
     (syn TEXT PRIMARY KEY,
-     gene TEXT,
+     name TEXT,
      seq_id TEXT,
      start INT,
      stop INT,
@@ -53,7 +53,7 @@ class BagsAnnotationMaker(object):
 
     def add_gene(self, info, seq_id):
         c = self.cursor
-        c.execute('''INSERT INTO annotations (syn, gene, seq_id, start, stop,
+        c.execute('''INSERT INTO annotations (syn, name, seq_id, start, stop,
                      orientation, description)
                      VALUES (?, ?, ?, ?, ?, ?, ?)''',
                   (info.synonym, info.gene, seq_id, info.start, info.stop, info.orientation,
